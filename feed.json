@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/20/interesting-postmortem-on.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://me.micahrl.com/blog/random-failure-problems-upgrading-ansible-python/\">post-mortem on a bug caused by changing randrange() behaviour across Python versions</a>.</p>\n",
+				"content_text": "Interesting [post-mortem on a bug caused by changing randrange() behaviour across Python versions](https://me.micahrl.com/blog/random-failure-problems-upgrading-ansible-python/).\n",
+				"date_published": "2023-07-20T10:27:17+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/20/interesting-postmortem-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/17/people-said-i.html",
+				
+				"content_html": "<p>&ldquo;People said I did the impossible, but that’s wrong: I merely did something so boring that nobody else had been willing to do it.&rdquo; <a href=\"https://jacobian.org/2021/apr/7/embrace-the-grind/\">Jacob Kaplan-Moss</a> - I have done &amp; seen this too. Worth it, when you pick the right job.</p>\n",
+				"content_text": "\"People said I did the impossible, but that’s wrong: I merely did something so boring that nobody else had been willing to do it.\" [Jacob Kaplan-Moss](https://jacobian.org/2021/apr/7/embrace-the-grind/) - I have done & seen this too. Worth it, when you pick the right job.\n",
+				"date_published": "2023-07-17T19:48:25+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/17/people-said-i.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/17/interesting-introduction-to.html",
+				
+				"content_html": "<p><a href=\"https://www.oneusefulthing.org/p/what-ai-can-do-with-a-toolbox-getting\">Interesting introduction to ChatGPT&rsquo;s Code Interpreter</a> via <a href=\"http://simonwillison.net/2023/Jul/12/what-ai-can-do-with-a-toolbox-getting-started-with-code-interpre/#atom-everything\">Simon Willison</a></p>\n",
+				"content_text": "[Interesting introduction to ChatGPT's Code Interpreter](https://www.oneusefulthing.org/p/what-ai-can-do-with-a-toolbox-getting) via [Simon Willison](http://simonwillison.net/2023/Jul/12/what-ai-can-do-with-a-toolbox-getting-started-with-code-interpre/#atom-everything)\n",
+				"date_published": "2023-07-17T09:47:19+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/17/interesting-introduction-to.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/16/ive-used-all.html",
+				
+				"content_html": "<p>I&rsquo;ve used all of these <a href=\"https://newsletter.techworld-with-milan.com/p/what-are-deployment-patterns\">deployment patterns</a> (really release patterns), and strongly prefer feature flagging everything with a layer of permission for user-facing changes as well.</p>\n",
+				"content_text": "I've used all of these [deployment patterns](https://newsletter.techworld-with-milan.com/p/what-are-deployment-patterns) (really release patterns), and strongly prefer feature flagging everything with a layer of permission for user-facing changes as well.\n",
+				"date_published": "2023-07-16T19:09:15+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/16/ive-used-all.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/15/where-are-the.html",
+				
+				"content_html": "<p><a href=\"https://erinkissane.com/all-this-unmobilized-love\">&ldquo;Where are the networks that deeply in their bones understand hospitality vs. performance, safe-to vs. safe-from, double-edged visibility, thresholds vs. hearths, gifts vs. barter, bystanders vs. safety-builders, even something as foundational as power differentials? I don’t think we have them, except piecemeal and by chance, or through the grace of socially gifted moderators and community leads who patch bad product design with their own EQ.&quot;</a></p>\n",
+				"content_text": "[\"Where are the networks that deeply in their bones understand hospitality vs. performance, safe-to vs. safe-from, double-edged visibility, thresholds vs. hearths, gifts vs. barter, bystanders vs. safety-builders, even something as foundational as power differentials? I don’t think we have them, except piecemeal and by chance, or through the grace of socially gifted moderators and community leads who patch bad product design with their own EQ.\"](https://erinkissane.com/all-this-unmobilized-love)\n",
+				"date_published": "2023-07-15T16:59:21+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/15/where-are-the.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/15/good-post-on.html",
+				
+				"content_html": "<p>Good post on <a href=\"https://jsomers.net/blog/speed-matters\">why speed matters</a> although it completely misses any discussion of quality, which is critical. It&rsquo;s all about balance, not just prioritising for speed.</p>\n",
+				"content_text": "Good post on [why speed matters](https://jsomers.net/blog/speed-matters) although it completely misses any discussion of quality, which is critical. It's all about balance, not just prioritising for speed.\n",
+				"date_published": "2023-07-15T16:50:46+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/15/good-post-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/15/summary-of-a.html",
+				
+				"content_html": "<p><a href=\"https://newsletter.abinoda.com/p/tech-debt-research\">Summary of a paper covering the past, present, and potential future of tech debt</a>.</p>\n",
+				"content_text": "[Summary of a paper covering the past, present, and potential future of tech debt](https://newsletter.abinoda.com/p/tech-debt-research).\n",
+				"date_published": "2023-07-15T16:23:42+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/15/summary-of-a.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/07/15/interesting-thoughts-on.html",
 				
 				"content_html": "<p>Interesting <a href=\"https://matduggan.com/were-all-doing-metrics-wrong/\">thoughts on monitoring</a> (logs, metrics, traces).</p>\n",
@@ -354,7 +410,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
