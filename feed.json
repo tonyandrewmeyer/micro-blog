@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/26/interesting-corollary-to.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://www.jefftk.com/p/accidentally-load-bearing\">corollary to Chesterton&rsquo;s Fence</a>.</p>\n",
+				"content_text": "Interesting [corollary to Chesterton's Fence](https://www.jefftk.com/p/accidentally-load-bearing).\n",
+				"date_published": "2023-07-26T21:00:32+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/26/interesting-corollary-to.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/22/this-command-history.html",
+				
+				"content_html": "<p><a href=\"https://spin.atomicobject.com/2016/05/28/log-bash-history/\">This command history logging</a> is so much better than making HISTSIZE huge, which is what I&rsquo;ve always done. <a href=\"https://www.justinjoyce.dev/save-your-shell-history-to-log-files/\">via</a></p>\n",
+				"content_text": "[This command history logging](https://spin.atomicobject.com/2016/05/28/log-bash-history/) is so much better than making HISTSIZE huge, which is what I've always done. [via](https://www.justinjoyce.dev/save-your-shell-history-to-log-files/)\n",
+				"date_published": "2023-07-22T12:38:56+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/22/this-command-history.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/22/of-your-time.html",
+				
+				"content_html": "<p><a href=\"https://tidyfirst.substack.com/p/fresh-work-80155\">&ldquo;80% of your time goes to low-risk/reasonable-reward work, 15% of your time goes to related high-risk/high-reward work, 5% of your time goes to satisfying your own curiosity with no thought of reward&rdquo;</a></p>\n",
+				"content_text": "[\"80% of your time goes to low-risk/reasonable-reward work, 15% of your time goes to related high-risk/high-reward work, 5% of your time goes to satisfying your own curiosity with no thought of reward\"](https://tidyfirst.substack.com/p/fresh-work-80155)\n",
+				"date_published": "2023-07-22T12:25:00+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/22/of-your-time.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/21/python-monolith-organisation.html",
+				
+				"content_html": "<p><a href=\"https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/\">Python monolith organisation</a>, particularly interesting:</p>\n<ul>\n<li>Using <a href=\"https://import-linter.readthedocs.io/en/stable/\">import linter</a> to enforce layered imports.</li>\n<li>Charting tech debt progress over time.</li>\n</ul>\n",
+				"content_text": "[Python monolith organisation](https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/), particularly interesting:\n\n* Using [import linter](https://import-linter.readthedocs.io/en/stable/) to enforce layered imports.\n* Charting tech debt progress over time.\n",
+				"date_published": "2023-07-21T12:54:09+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/21/python-monolith-organisation.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/20/prefer-to-push.html",
+				
+				"content_html": "<p><a href=\"http://www.haskellforall.com/2020/07/the-golden-rule-of-software-quality.html\">&ldquo;Prefer to push fixes upstream instead of working around problems downstream&rdquo;</a></p>\n",
+				"content_text": "[\"Prefer to push fixes upstream instead of working around problems downstream\"](http://www.haskellforall.com/2020/07/the-golden-rule-of-software-quality.html)\n",
+				"date_published": "2023-07-20T11:38:05+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/20/prefer-to-push.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/20/waste-inefficiency-a.html",
+				
+				"content_html": "<p><a href=\"https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient\">&ldquo;Waste, inefficiency, a suboptimal outcome. Some of the brightest minds in our economy are earnestly engaged in stamping it out. They’re winning, but everyone’s losing.&quot;</a></p>\n",
+				"content_text": "[\"Waste, inefficiency, a suboptimal outcome. Some of the brightest minds in our economy are earnestly engaged in stamping it out. They’re winning, but everyone’s losing.\"](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient)\n",
+				"date_published": "2023-07-20T11:24:39+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/20/waste-inefficiency-a.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/07/20/using-process-linters.html",
+				
+				"content_html": "<p><a href=\"http://alexeymk.com/2020/06/20/lessons-learned-in-giving-feedback-as-an-engineering-manager.html\">Using &lsquo;process linters&rsquo; to avoid hitting &lsquo;feedback budgets&rsquo;</a> (the appendices are the most interesting part).</p>\n",
+				"content_text": "[Using 'process linters' to avoid hitting 'feedback budgets'](http://alexeymk.com/2020/06/20/lessons-learned-in-giving-feedback-as-an-engineering-manager.html) (the appendices are the most interesting part).\n",
+				"date_published": "2023-07-20T10:43:14+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/07/20/using-process-linters.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/07/20/interesting-postmortem-on.html",
 				
 				"content_html": "<p>Interesting <a href=\"https://me.micahrl.com/blog/random-failure-problems-upgrading-ansible-python/\">post-mortem on a bug caused by changing randrange() behaviour across Python versions</a>.</p>\n",
