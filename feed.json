@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/04/good-advice-about.html",
+				
+				"content_html": "<p><a href=\"https://www.spamresource.com/2023/08/microsoft-body-hash-did-not-verify-error.html\">Good advice about provider-specific sporadic DKIM failures (Microsoft in this case)</a>. As the post says, this is a problem that&rsquo;s been around for a long time, and yet people never seem to believe it could be the case.</p>\n",
+				"content_text": "[Good advice about provider-specific sporadic DKIM failures (Microsoft in this case)](https://www.spamresource.com/2023/08/microsoft-body-hash-did-not-verify-error.html). As the post says, this is a problem that's been around for a long time, and yet people never seem to believe it could be the case.\n",
+				"date_published": "2023-08-04T08:13:38+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/04/good-advice-about.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/07/26/interesting-corollary-to.html",
 				
 				"content_html": "<p>Interesting <a href=\"https://www.jefftk.com/p/accidentally-load-bearing\">corollary to Chesterton&rsquo;s Fence</a>.</p>\n",
@@ -466,7 +474,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
