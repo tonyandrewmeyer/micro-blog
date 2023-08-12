@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/12/i-suspect-that.html",
+				
+				"content_html": "<p>I suspect that this <a href=\"https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/\">&lsquo;it&rsquo;s about the real estate&rsquo; take on anti- remote work</a> is indeed part of the story, both here and elsewhere.</p>\n",
+				"content_text": "I suspect that this ['it's about the real estate' take on anti- remote work](https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/) is indeed part of the story, both here and elsewhere.\n",
+				"date_published": "2023-08-12T15:11:23+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/12/i-suspect-that.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/07/this-is-a.html",
+				
+				"content_html": "<p>This is a really great <a href=\"https://mcilloni.ovh/2023/07/23/unicode-is-hard/\">primer on Unicode</a>. I think a lot of people really do underestimate a lot of the challenges, which is why software has so many weird edge cases. US- &amp; UK- centric dev doesn&rsquo;t help either.</p>\n",
+				"content_text": "This is a really great [primer on Unicode](https://mcilloni.ovh/2023/07/23/unicode-is-hard/). I think a lot of people really do underestimate a lot of the challenges, which is why software has so many weird edge cases. US- & UK- centric dev doesn't help either.\n",
+				"date_published": "2023-08-07T20:25:51+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/07/this-is-a.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/07/fun-debugging-story.html",
+				
+				"content_html": "<p>Fun <a href=\"https://max.levch.in/post/724289457144070144/shamir-secret-sharing\">debugging story</a> - I got hit with this getpass limitation too, although in a less (potentially) catastrophic way.</p>\n",
+				"content_text": "Fun [debugging story](https://max.levch.in/post/724289457144070144/shamir-secret-sharing) - I got hit with this getpass limitation too, although in a less (potentially) catastrophic way.\n",
+				"date_published": "2023-08-07T20:12:07+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/07/fun-debugging-story.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/07/suggestions-on-how.html",
+				
+				"content_html": "<p><a href=\"https://www.willett.io/posts/4999/\">Suggestions on how to build software</a>. ✅= matches my experience, ❌ = not wrong, but not my experience:</p>\n<p>✅ Developers are most effective when they’re familiar with many systems, not just one or two.\n❌ Automation (e.g. continuous deployment) can cause as many problems at it solves.\n✅ Keep the dev cycle near-instantaneous.\n✅ Take advantage of the recency bias.\n✅ Prefer projects with small organizational scopes.\n✅ Check in often, with everybody, about a project’s perceived value.\n✅ Don’t measure proxies.\n✅ Allowing developer autonomy will make or break a project.\n❓ Metrics are for software, not people.\n✅ Everybody wins when people can just manage themselves.\n✅ Intrinsics play only a small role in human potential.\nMetrics are for software, not people.\nEverybody wins when people can just manage themselves.\nIntrinsics play only a small role in human potential.</p>\n",
+				"content_text": "[Suggestions on how to build software](https://www.willett.io/posts/4999/). ✅= matches my experience, ❌ = not wrong, but not my experience:\n\n✅ Developers are most effective when they’re familiar with many systems, not just one or two.\n❌ Automation (e.g. continuous deployment) can cause as many problems at it solves.\n✅ Keep the dev cycle near-instantaneous.\n✅ Take advantage of the recency bias.\n✅ Prefer projects with small organizational scopes.\n✅ Check in often, with everybody, about a project’s perceived value.\n✅ Don’t measure proxies.\n✅ Allowing developer autonomy will make or break a project.\n❓ Metrics are for software, not people.\n✅ Everybody wins when people can just manage themselves.\n✅ Intrinsics play only a small role in human potential.\nMetrics are for software, not people.\nEverybody wins when people can just manage themselves.\nIntrinsics play only a small role in human potential.\n",
+				"date_published": "2023-08-07T20:04:12+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/07/suggestions-on-how.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/07/interesting-advice-on.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://www.johndcook.com/blog/2020/07/25/worst-tool-for-the-job/\">advice on picking tools</a>.</p>\n",
+				"content_text": "Interesting [advice on picking tools](https://www.johndcook.com/blog/2020/07/25/worst-tool-for-the-job/).\n",
+				"date_published": "2023-08-07T07:45:08+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/07/interesting-advice-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/06/nice-summary-of.html",
+				
+				"content_html": "<p>Nice <a href=\"https://sethmlarson.dev/pep-440\">summary of Python version number structure</a>.</p>\n",
+				"content_text": "Nice [summary of Python version number structure](https://sethmlarson.dev/pep-440).\n",
+				"date_published": "2023-08-06T17:50:14+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/06/nice-summary-of.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/04/interesting-ux-thoughts.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://lea.verou.me/blog/2023/numbers-vs-brackets/\">UX thoughts on number inputs vs brackets for various types of questions common in surveys</a>.</p>\n",
+				"content_text": "Interesting [UX thoughts on number inputs vs brackets for various types of questions common in surveys](https://lea.verou.me/blog/2023/numbers-vs-brackets/).\n",
+				"date_published": "2023-08-04T17:37:27+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/04/interesting-ux-thoughts.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/08/04/good-advice-about.html",
 				
 				"content_html": "<p><a href=\"https://www.spamresource.com/2023/08/microsoft-body-hash-did-not-verify-error.html\">Good advice about provider-specific sporadic DKIM failures (Microsoft in this case)</a>. As the post says, this is a problem that&rsquo;s been around for a long time, and yet people never seem to believe it could be the case.</p>\n",
@@ -474,7 +530,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
