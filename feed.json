@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/17/the-way-trust.html",
+				
+				"content_html": "<p>&ldquo;The way trust gets rebuilt is by ✨small, positive interactions✨. If you’re in a trust hole, you can’t hear them clearly, and they can’t hear you (or your intent) clearly&rdquo; - <a href=\"https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/\">good suggestions for building (back) trust</a>.</p>\n",
+				"content_text": "\"The way trust gets rebuilt is by ✨small, positive interactions✨. If you’re in a trust hole, you can’t hear them clearly, and they can’t hear you (or your intent) clearly\" - [good suggestions for building (back) trust](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/).\n",
+				"date_published": "2023-08-17T17:39:58+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/17/the-way-trust.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/17/interesting-post-on.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://benhoyt.com/writings/name-before-type/\">post on &lsquo;int age&rsquo; vs &lsquo;age : int&rsquo;</a>.</p>\n<p>I&rsquo;ve written much more code in &lsquo;type first&rsquo; languages (especially C, C++, and Javascript, but also C# and Java) so it seem strange to do &lsquo;name first&rsquo;, but I agree with Ben that it makes more sense.</p>\n",
+				"content_text": "Interesting [post on 'int age' vs 'age : int'](https://benhoyt.com/writings/name-before-type/).\n\nI've written much more code in 'type first' languages (especially C, C++, and Javascript, but also C# and Java) so it seem strange to do 'name first', but I agree with Ben that it makes more sense.\n",
+				"date_published": "2023-08-17T11:12:43+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/17/interesting-post-on.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/08/12/i-suspect-that.html",
 				
 				"content_html": "<p>I suspect that this <a href=\"https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/\">&lsquo;it&rsquo;s about the real estate&rsquo; take on anti- remote work</a> is indeed part of the story, both here and elsewhere.</p>\n",
@@ -530,7 +546,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
