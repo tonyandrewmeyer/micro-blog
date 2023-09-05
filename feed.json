@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/05/simple-wildcard-dns.html",
+				
+				"content_html": "<p>Simple <a href=\"https://nip.io\">wildcard DNS tool</a> rather than editing local host files. Seem very handy. Found via Canonical onboarding docs.</p>\n",
+				"content_text": "Simple [wildcard DNS tool](https://nip.io) rather than editing local host files. Seem very handy. Found via Canonical onboarding docs.\n",
+				"date_published": "2023-09-05T18:19:22+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/05/simple-wildcard-dns.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/08/29/the-next-problem.html",
+				
+				"content_html": "<p>&ldquo;The next problem is the idea that you can get a lot of things ‘at once’ and test them against each other, thus reaching some definitive conclusion. In doing this, you root out the bad, but you don’t/can’t hone in on the good. Why? Becuase the difference between fine, good, and best is in the nuance. You only experience nuance with extended use.&rdquo;</p>\n<p>This and more insightful thoughts in <a href=\"https://brooksreview.net/2023/08/member-journal-82823/\">The Brooks Review</a> (🔒 members only) this week.</p>\n",
+				"content_text": "\"The next problem is the idea that you can get a lot of things ‘at once’ and test them against each other, thus reaching some definitive conclusion. In doing this, you root out the bad, but you don’t/can’t hone in on the good. Why? Becuase the difference between fine, good, and best is in the nuance. You only experience nuance with extended use.\"\n\nThis and more insightful thoughts in [The Brooks Review](https://brooksreview.net/2023/08/member-journal-82823/) (🔒 members only) this week.\n",
+				"date_published": "2023-08-29T09:39:20+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/08/29/the-next-problem.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/08/27/good-summary-of.html",
 				
 				"content_html": "<p>Good <a href=\"https://codeconfessions.substack.com/p/understanding-immortal-objects-in\">summary of object immortalisation in Python (3.12+)</a>.</p>\n",
