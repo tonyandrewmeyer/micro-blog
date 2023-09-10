@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/11/good-summary-of.html",
+				
+				"content_html": "<p><a href=\"https://wordtothewise.com/2023/09/the-trouble-with-cnames/\">Good summary of what CNAMEs are, and why they often cause trouble</a>. I&rsquo;ve seen people have mail issues due to CNAMEs many times.</p>\n",
+				"content_text": "[Good summary of what CNAMEs are, and why they often cause trouble](https://wordtothewise.com/2023/09/the-trouble-with-cnames/). I've seen people have mail issues due to CNAMEs many times.\n",
+				"date_published": "2023-09-11T11:15:58+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/11/good-summary-of.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/06/canonical-uses-ditaxis.html",
+				
+				"content_html": "<p>Canonical uses Diátaxis, so I&rsquo;m learning a bunch more about it while onboarding. These <a href=\"https://www.hillelwayne.com/post/problems-with-the-4doc-model/\">thoughts about where it falls short</a> were interesting in that context.</p>\n",
+				"content_text": "Canonical uses Diátaxis, so I'm learning a bunch more about it while onboarding. These [thoughts about where it falls short](https://www.hillelwayne.com/post/problems-with-the-4doc-model/) were interesting in that context.\n",
+				"date_published": "2023-09-06T21:12:08+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/06/canonical-uses-ditaxis.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/06/good-thoughts-on.html",
+				
+				"content_html": "<p>Good <a href=\"https://jacobian.org/2023/aug/24/consultant-contractor-or-employee/\">thoughts on using employees vs contractors vs consultants</a>. My one disagreement is I&rsquo;ve never really had great experiences with contractor firms, but lots of them with individuals.</p>\n<p>(I&rsquo;m reading here, as JKM intended, &ldquo;employee&rdquo; by the meaning, not the label, ie. like AoNZ law, and not like many company contracts).</p>\n",
+				"content_text": "Good [thoughts on using employees vs contractors vs consultants](https://jacobian.org/2023/aug/24/consultant-contractor-or-employee/). My one disagreement is I've never really had great experiences with contractor firms, but lots of them with individuals.\n\n(I'm reading here, as JKM intended, \"employee\" by the meaning, not the label, ie. like AoNZ law, and not like many company contracts).\n",
+				"date_published": "2023-09-06T18:28:45+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/06/good-thoughts-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/06/more-posts-on.html",
+				
+				"content_html": "<p>More <a href=\"https://www.nadynerichmond.com/blog/2023/08/19/managing-through-layoffs/\">posts on managing through layoffs</a> would be interesting to read. I&rsquo;ve only really been through this in any significant way three times (once being me) but they were all hard for many people.</p>\n",
+				"content_text": "More [posts on managing through layoffs](https://www.nadynerichmond.com/blog/2023/08/19/managing-through-layoffs/) would be interesting to read. I've only really been through this in any significant way three times (once being me) but they were all hard for many people.\n",
+				"date_published": "2023-09-06T18:06:27+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/06/more-posts-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/06/interesting-thoughts-on.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://jacobian.org/2023/aug/16/floors-not-ceilings/\">thoughts on hiring for floors, not ceilings</a>. I find it&rsquo;s easier to raise someone&rsquo;s floor than their ceiling, too. On the other hand, where I&rsquo;ve had a team with no-one that has a high ceiling, it&rsquo;s struggled - I think having someone that can stretch pull everyone else up closer to their personal ceiling.</p>\n",
+				"content_text": "Interesting [thoughts on hiring for floors, not ceilings](https://jacobian.org/2023/aug/16/floors-not-ceilings/). I find it's easier to raise someone's floor than their ceiling, too. On the other hand, where I've had a team with no-one that has a high ceiling, it's struggled - I think having someone that can stretch pull everyone else up closer to their personal ceiling.\n",
+				"date_published": "2023-09-06T17:33:50+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/06/interesting-thoughts-on.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/09/05/simple-wildcard-dns.html",
 				
 				"content_html": "<p>Simple <a href=\"https://nip.io\">wildcard DNS tool</a> rather than editing local host files. Seem very handy. Found via Canonical onboarding docs.</p>\n",
