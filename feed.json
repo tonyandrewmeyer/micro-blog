@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/17/interesting-use-of.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://resobscura.substack.com/p/simulating-history-with-chatgpt\">use of LLM in teaching history</a> that relies on the generated text being inaccurate.</p>\n",
+				"content_text": "Interesting [use of LLM in teaching history](https://resobscura.substack.com/p/simulating-history-with-chatgpt) that relies on the generated text being inaccurate.\n",
+				"date_published": "2023-09-17T17:59:42+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/17/interesting-use-of.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/14/nice-summary-of.html",
+				
+				"content_html": "<p>Nice <a href=\"https://www.spamresource.com/2023/09/validity-to-start-charging-for-feedback.html\">summary of the state and some of the history of (email) feedback loops</a>.</p>\n",
+				"content_text": "Nice [summary of the state and some of the history of (email) feedback loops](https://www.spamresource.com/2023/09/validity-to-start-charging-for-feedback.html).\n",
+				"date_published": "2023-09-14T06:28:51+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/14/nice-summary-of.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/11/public-and-more.html",
+				
+				"content_html": "<p><a href=\"https://brooksreview.net/2023/09/demise-of-the-wirecutter-and-trusted-reviews-in-general/\">Public (and more extensive) post about the problems with review sites</a> that I posted about (when it was in a member-only post) last week.</p>\n",
+				"content_text": "[Public (and more extensive) post about the problems with review sites](https://brooksreview.net/2023/09/demise-of-the-wirecutter-and-trusted-reviews-in-general/) that I posted about (when it was in a member-only post) last week.\n",
+				"date_published": "2023-09-11T11:17:02+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/11/public-and-more.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/09/11/good-summary-of.html",
 				
 				"content_html": "<p><a href=\"https://wordtothewise.com/2023/09/the-trouble-with-cnames/\">Good summary of what CNAMEs are, and why they often cause trouble</a>. I&rsquo;ve seen people have mail issues due to CNAMEs many times.</p>\n",
@@ -610,7 +634,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
