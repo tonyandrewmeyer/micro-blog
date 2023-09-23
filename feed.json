@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/23/detailed-post-on.html",
+				
+				"content_html": "<p>Detailed <a href=\"https://martinfowler.com/articles/platform-teams-stuff-done.html\">post on how platform teams get stuff done</a> - particularly interesting at the moment since I&rsquo;ve recently moved from a platform consumer to platform provider.</p>\n",
+				"content_text": "Detailed [post on how platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html) - particularly interesting at the moment since I've recently moved from a platform consumer to platform provider.\n",
+				"date_published": "2023-09-23T21:38:32+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/23/detailed-post-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/20/how-cpython-uses.html",
+				
+				"content_html": "<p><a href=\"https://codeconfessions.substack.com/p/cpython-bloom-filter-usage\">How CPython uses Bloom filters in strings</a>.</p>\n",
+				"content_text": "[How CPython uses Bloom filters in strings](https://codeconfessions.substack.com/p/cpython-bloom-filter-usage).\n",
+				"date_published": "2023-09-20T23:51:14+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/20/how-cpython-uses.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/20/interesting-stats-on.html",
+				
+				"content_html": "<p><a href=\"https://blog.pypi.org/posts/2023-09-18-inbound-malware-reporting/\">Interesting stats on security report volume and response frequency for PyPI</a></p>\n<p>I don&rsquo;t really agree on the linear trend being used on the response time chart. Eyeballing it, it looks like linear upwards until May (the suspension weekend), then a flat period for a while, then a new linear upwards trend from late June.</p>\n",
+				"content_text": "[Interesting stats on security report volume and response frequency for PyPI](https://blog.pypi.org/posts/2023-09-18-inbound-malware-reporting/)\n\nI don't really agree on the linear trend being used on the response time chart. Eyeballing it, it looks like linear upwards until May (the suspension weekend), then a flat period for a while, then a new linear upwards trend from late June.\n",
+				"date_published": "2023-09-20T20:10:37+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/20/interesting-stats-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/20/my-thoughts-on.html",
+				
+				"content_html": "<p><a href=\"https://tonyandrewmeyer.com/2023/09/19/python-return-styles/\">My thoughts on return styles</a> triggered by some work today.</p>\n",
+				"content_text": "[My thoughts on return styles](https://tonyandrewmeyer.com/2023/09/19/python-return-styles/) triggered by some work today.\n",
+				"date_published": "2023-09-20T18:47:43+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/20/my-thoughts-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/20/i-wrote-up.html",
+				
+				"content_html": "<p>I wrote up <a href=\"https://tonyandrewmeyer.com/2023/09/17/kiwi-pycon-2023-waihopai-invercargill-15th-17th-september-2023/\">my experience at Kiwi PyCon over the last weekend</a> - in short: since I&rsquo;m not hugely into the social/networking aspects, it was pretty disappointing - not enough talks of the nature that I&rsquo;d enjoy.</p>\n<p>(Some other people seemed to be having a great time, although that also seemed a little clique-y).</p>\n",
+				"content_text": "I wrote up [my experience at Kiwi PyCon over the last weekend](https://tonyandrewmeyer.com/2023/09/17/kiwi-pycon-2023-waihopai-invercargill-15th-17th-september-2023/) - in short: since I'm not hugely into the social/networking aspects, it was pretty disappointing - not enough talks of the nature that I'd enjoy.\n\n(Some other people seemed to be having a great time, although that also seemed a little clique-y).\n",
+				"date_published": "2023-09-20T12:49:55+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/20/i-wrote-up.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/19/good-tips-for.html",
+				
+				"content_html": "<p>Good <a href=\"https://nedbatchelder.com/blog/202309/advice_to_beginners.html\">tips for beginning programmers</a>. I especially like &ldquo;More languages isn’t better &hellip; Don’t measure your progress in number of languages. More important is to learn new techniques (database, web, testing,concurrency, etc.) in the same-old language&rdquo;.</p>\n",
+				"content_text": "Good [tips for beginning programmers](https://nedbatchelder.com/blog/202309/advice_to_beginners.html). I especially like \"More languages isn’t better ... Don’t measure your progress in number of languages. More important is to learn new techniques (database, web, testing,concurrency, etc.) in the same-old language\".\n",
+				"date_published": "2023-09-19T23:53:36+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/19/good-tips-for.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/09/17/interesting-use-of.html",
 				
 				"content_html": "<p>Interesting <a href=\"https://resobscura.substack.com/p/simulating-history-with-chatgpt\">use of LLM in teaching history</a> that relies on the generated text being inaccurate.</p>\n",
@@ -634,7 +682,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
