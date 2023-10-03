@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/10/03/truly-excellent-write.html",
+				
+				"content_html": "<p>Truly excellent <a href=\"https://vadimkravcenko.com/shorts/database-migrations/\">write up of handling database migratons</a>. The only thing I would add is that you want to ensure that moving off dual-write gets priority in your backlog - too often I&rsquo;ve seen the urgency drop at that point and code stuck with dual writing for ages. <a href=\"http://simonwillison.net/2023/Oct/1/database-migrations/\">via</a></p>\n",
+				"content_text": "Truly excellent [write up of handling database migratons](https://vadimkravcenko.com/shorts/database-migrations/). The only thing I would add is that you want to ensure that moving off dual-write gets priority in your backlog - too often I've seen the urgency drop at that point and code stuck with dual writing for ages. [via](http://simonwillison.net/2023/Oct/1/database-migrations/)\n",
+				"date_published": "2023-10-03T21:03:36+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/10/03/truly-excellent-write.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/25/this-post-doesnt.html",
+				
+				"content_html": "<p><a href=\"https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million\">This post doesn&rsquo;t really do what is claims: explaining scaling with minimal engineers</a> but it&rsquo;s an interesting walkthrough of simple techniques to build a service like (OG) Instagram.</p>\n",
+				"content_text": "[This post doesn't really do what is claims: explaining scaling with minimal engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million) but it's an interesting walkthrough of simple techniques to build a service like (OG) Instagram.\n",
+				"date_published": "2023-09-25T14:26:18+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/25/this-post-doesnt.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/25/not-sure-if.html",
+				
+				"content_html": "<p>Not sure if I saw this <a href=\"https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c\">post on Instagram&rsquo;s approach to IDs &amp; sharding</a> back at the time.</p>\n<p>We originally used <a href=\"https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/\">Flickr&rsquo;s technique</a> that the Instagram post also links to. We eventually scaled it out a bit differently, reserving some of the bits for the shard ID (like Instagram). We also had slightly different requirements (e.g. 64 bits was a hard max, because we had to use the IDs with SphinxSearch).</p>\n",
+				"content_text": "Not sure if I saw this [post on Instagram's approach to IDs & sharding](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c) back at the time.\n\nWe originally used [Flickr's technique](https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/) that the Instagram post also links to. We eventually scaled it out a bit differently, reserving some of the bits for the shard ID (like Instagram). We also had slightly different requirements (e.g. 64 bits was a hard max, because we had to use the IDs with SphinxSearch).\n",
+				"date_published": "2023-09-25T14:22:53+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/25/not-sure-if.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/25/when-it-comes.html",
+				
+				"content_html": "<p><a href=\"https://adactio.com/journal/20442\">&ldquo;When it comes to front-end development, I’m worried that we’ve reached a state where the more complex over-engineered approach is viewed as the default.&quot;</a></p>\n",
+				"content_text": "[\"When it comes to front-end development, I’m worried that we’ve reached a state where the more complex over-engineered approach is viewed as the default.\"](https://adactio.com/journal/20442)\n",
+				"date_published": "2023-09-25T14:13:47+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/25/when-it-comes.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/24/its-such-a.html",
+				
+				"content_html": "<p>It&rsquo;s such a weird quirk of history that <a href=\"https://restofworld.org/2023/whats-in-a-domain-name/\">tlds belong to countries but are used in other ways</a>. It is cool that, other than Italy, these are generally very small places that can get money (for a while at least) from it. Note that there&rsquo;s a whole backstory on .io that isn&rsquo;t mentioned here.</p>\n<p>I also wonder what will happen with .nz when we finally change to Aotearoa.</p>\n",
+				"content_text": "It's such a weird quirk of history that [tlds belong to countries but are used in other ways](https://restofworld.org/2023/whats-in-a-domain-name/). It is cool that, other than Italy, these are generally very small places that can get money (for a while at least) from it. Note that there's a whole backstory on .io that isn't mentioned here.\n\nI also wonder what will happen with .nz when we finally change to Aotearoa.\n",
+				"date_published": "2023-09-24T11:06:00+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/24/its-such-a.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/09/23/the-critical-shift.html",
+				
+				"content_html": "<p><a href=\"https://swizec.com/blog/why-write\">&ldquo;The critical shift you see in people going from junior to senior+ is that they stop speaking from principles and start speaking from experiences&rdquo;</a></p>\n",
+				"content_text": "[\"The critical shift you see in people going from junior to senior+ is that they stop speaking from principles and start speaking from experiences\"](https://swizec.com/blog/why-write)\n",
+				"date_published": "2023-09-23T21:54:42+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/09/23/the-critical-shift.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/09/23/detailed-post-on.html",
 				
 				"content_html": "<p>Detailed <a href=\"https://martinfowler.com/articles/platform-teams-stuff-done.html\">post on how platform teams get stuff done</a> - particularly interesting at the moment since I&rsquo;ve recently moved from a platform consumer to platform provider.</p>\n",
@@ -682,7 +730,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
