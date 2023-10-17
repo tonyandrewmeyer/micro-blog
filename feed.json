@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/10/17/an-excellent-update.html",
+				
+				"content_html": "<p>An excellent <a href=\"https://tonsky.me/blog/unicode/\">update to Spolsky&rsquo;s famous Unicode primer</a>.</p>\n",
+				"content_text": "An excellent [update to Spolsky's famous Unicode primer](https://tonsky.me/blog/unicode/).\n",
+				"date_published": "2023-10-17T12:13:53+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/10/17/an-excellent-update.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/10/03/good-post-on.html",
+				
+				"content_html": "<p>Good post on <a href=\"https://devinterrupted.substack.com/p/how-to-opt-out-of-the-career-ladder\">opting off the career ladder</a>. Closely reflects the journey I recently went through. I think more people need to do this, but also, it&rsquo;s really hard/scary.</p>\n",
+				"content_text": "Good post on [opting off the career ladder](https://devinterrupted.substack.com/p/how-to-opt-out-of-the-career-ladder). Closely reflects the journey I recently went through. I think more people need to do this, but also, it's really hard/scary.\n",
+				"date_published": "2023-10-03T22:18:50+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/10/03/good-post-on.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/10/03/truly-excellent-write.html",
 				
 				"content_html": "<p>Truly excellent <a href=\"https://vadimkravcenko.com/shorts/database-migrations/\">write up of handling database migratons</a>. The only thing I would add is that you want to ensure that moving off dual-write gets priority in your backlog - too often I&rsquo;ve seen the urgency drop at that point and code stuck with dual writing for ages. <a href=\"http://simonwillison.net/2023/Oct/1/database-migrations/\">via</a></p>\n",
@@ -730,7 +746,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
