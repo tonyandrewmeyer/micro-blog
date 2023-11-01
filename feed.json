@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/11/01/good-long-summary.html",
+				
+				"content_html": "<p>Good, long, <a href=\"https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html\">summary of why you should not be directly invoking setup.py</a>.</p>\n",
+				"content_text": "Good, long, [summary of why you should not be directly invoking setup.py](https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html).\n",
+				"date_published": "2023-11-01T18:46:27+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/11/01/good-long-summary.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/10/17/an-excellent-update.html",
 				
 				"content_html": "<p>An excellent <a href=\"https://tonsky.me/blog/unicode/\">update to Spolsky&rsquo;s famous Unicode primer</a>.</p>\n",
