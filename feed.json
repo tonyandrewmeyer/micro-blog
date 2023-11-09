@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/11/10/i-feel-so.html",
+				
+				"content_html": "<p>I feel <a href=\"https://open.substack.com/pub/workchronicles/p/comic-work-hard-on-the-slides-they-a65\">so seen</a> 😂</p>\n",
+				"content_text": "I feel [so seen](https://open.substack.com/pub/workchronicles/p/comic-work-hard-on-the-slides-they-a65) 😂\n",
+				"date_published": "2023-11-10T06:27:50+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/11/10/i-feel-so.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/11/01/good-long-summary.html",
 				
 				"content_html": "<p>Good, long, <a href=\"https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html\">summary of why you should not be directly invoking setup.py</a>.</p>\n",
@@ -754,7 +762,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
