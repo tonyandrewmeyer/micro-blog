@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/11/16/got-around-to.html",
+				
+				"content_html": "<p>Got around to watching the <a href=\"https://hu.ma.ne/\">Humane Pin intro</a> and understand why people have panned it so much. Hard to understand how this could get released - it would never have been approved anywhere I&rsquo;ve worked. (The marketing, not the device).</p>\n",
+				"content_text": "Got around to watching the [Humane Pin intro](https://hu.ma.ne/) and understand why people have panned it so much. Hard to understand how this could get released - it would never have been approved anywhere I've worked. (The marketing, not the device).\n",
+				"date_published": "2023-11-16T11:53:18+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/11/16/got-around-to.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/11/10/i-feel-so.html",
 				
 				"content_html": "<p>I feel <a href=\"https://open.substack.com/pub/workchronicles/p/comic-work-hard-on-the-slides-they-a65\">so seen</a> 😂</p>\n",
@@ -762,7 +770,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
