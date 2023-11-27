@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/11/27/just-say-no.html",
+				
+				"content_html": "<p><a href=\"https://blog.ian.stapletoncordas.co/2023/11/no-should-be-your-default\">Just say &lsquo;no&rsquo;</a>. It&rsquo;s harder than it sounds, but it is indeed often the best choice.</p>\n<p>(I think the Google-killing-products point is misplaced - that&rsquo;s not saying &ldquo;no&rdquo;, it&rsquo;s saying &ldquo;yes&rdquo; and regretting it later).</p>\n",
+				"content_text": "[Just say 'no'](https://blog.ian.stapletoncordas.co/2023/11/no-should-be-your-default). It's harder than it sounds, but it is indeed often the best choice.\n\n(I think the Google-killing-products point is misplaced - that's not saying \"no\", it's saying \"yes\" and regretting it later).\n",
+				"date_published": "2023-11-27T13:16:15+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/11/27/just-say-no.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/11/19/interesting-long-post.html",
+				
+				"content_html": "<p>Interesting long <a href=\"https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/\">post on the backstory behind Mirai</a>.</p>\n",
+				"content_text": "Interesting long [post on the backstory behind Mirai](https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/).\n",
+				"date_published": "2023-11-19T20:12:41+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/11/19/interesting-long-post.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/11/16/amusing-inoffice-autoreplies.html",
+				
+				"content_html": "<p>Amusing <a href=\"https://www.mcsweeneys.net/articles/in-the-office-auto-reply-emails-for-a-hybrid-work-schedule\">in-office auto-replies</a> (as opposed to OoO).</p>\n",
+				"content_text": "Amusing [in-office auto-replies](https://www.mcsweeneys.net/articles/in-the-office-auto-reply-emails-for-a-hybrid-work-schedule) (as opposed to OoO).\n",
+				"date_published": "2023-11-16T12:08:57+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/11/16/amusing-inoffice-autoreplies.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/11/16/interesting-intro-to.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://sentry.engineering/blog/3m-dollar-dropdown\">intro to Sentry&rsquo;s work to have multiple regions</a>. I worked on similar projects a couple of times, and it&rsquo;s much more complex than you might first think.</p>\n<p>(If you are small, just host everything in Germany).</p>\n",
+				"content_text": "Interesting [intro to Sentry's work to have multiple regions](https://sentry.engineering/blog/3m-dollar-dropdown). I worked on similar projects a couple of times, and it's much more complex than you might first think.\n\n(If you are small, just host everything in Germany).\n",
+				"date_published": "2023-11-16T12:04:04+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/11/16/interesting-intro-to.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/11/16/got-around-to.html",
 				
 				"content_html": "<p>Got around to watching the <a href=\"https://hu.ma.ne/\">Humane Pin intro</a> and understand why people have panned it so much. Hard to understand how this could get released - it would never have been approved anywhere I&rsquo;ve worked. (The marketing, not the device).</p>\n",
@@ -770,7 +802,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
