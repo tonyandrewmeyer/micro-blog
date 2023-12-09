@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/12/09/interesting-anti-faas.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://fly.io/blog/rethinking-serverless-with-flame/\">anti FaaS</a> post.</p>\n",
+				"content_text": "Interesting [anti FaaS](https://fly.io/blog/rethinking-serverless-with-flame/) post.\n",
+				"date_published": "2023-12-09T17:54:25+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/12/09/interesting-anti-faas.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/11/30/interesting-story-on.html",
+				
+				"content_html": "<p><a href=\"https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/\">Interesting story on digging into a performance issue</a> that goes super deep.</p>\n",
+				"content_text": "[Interesting story on digging into a performance issue](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/) that goes super deep.\n",
+				"date_published": "2023-11-30T10:29:08+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/11/30/interesting-story-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/11/30/interesting-analysis-on.html",
+				
+				"content_html": "<p><a href=\"https://blog.orsinium.dev/posts/py/core-devs-typing/\">Interesting analysis on typing use by Python core devs</a> - the methodology is a bit weak (which the author admits) but interesting nonetheless.</p>\n",
+				"content_text": "[Interesting analysis on typing use by Python core devs](https://blog.orsinium.dev/posts/py/core-devs-typing/) - the methodology is a bit weak (which the author admits) but interesting nonetheless.\n",
+				"date_published": "2023-11-30T10:18:59+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/11/30/interesting-analysis-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2023/11/29/interesting-story-about.html",
+				
+				"content_html": "<p><a href=\"https://www.chrislewicki.com/articles/failurestory\">Interesting story about learning from mistakes</a>. However, if one person can make a $500M mistake, you have a process problem, not a person one.</p>\n",
+				"content_text": "[Interesting story about learning from mistakes](https://www.chrislewicki.com/articles/failurestory). However, if one person can make a $500M mistake, you have a process problem, not a person one.\n",
+				"date_published": "2023-11-29T11:15:54+12:00",
+				"url": "https://tonyandrewmeyer.blog/2023/11/29/interesting-story-about.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/11/27/just-say-no.html",
 				
 				"content_html": "<p><a href=\"https://blog.ian.stapletoncordas.co/2023/11/no-should-be-your-default\">Just say &lsquo;no&rsquo;</a>. It&rsquo;s harder than it sounds, but it is indeed often the best choice.</p>\n<p>(I think the Google-killing-products point is misplaced - that&rsquo;s not saying &ldquo;no&rdquo;, it&rsquo;s saying &ldquo;yes&rdquo; and regretting it later).</p>\n",
@@ -802,7 +834,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T13:25:23+12:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
