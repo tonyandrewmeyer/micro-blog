@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/18/great-walkthrough-of.html",
+				
+				"content_html": "<p>Great <a href=\"https://jvns.ca/blog/2023/11/01/confusing-git-terminology/\">walkthrough of Git terms that people find (and are!) comfusing</a>. Most of the time I don&rsquo;t need to use the majority of these, but it helps to have at least seen explanationions before.</p>\n",
+				"content_text": "Great [walkthrough of Git terms that people find (and are!) comfusing](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/). Most of the time I don't need to use the majority of these, but it helps to have at least seen explanationions before.\n",
+				"date_published": "2024-01-18T19:37:32+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/18/great-walkthrough-of.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/15/pretty-nasty-supply.html",
+				
+				"content_html": "<p>Pretty <a href=\"https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/\">nasty supply chain attack when using GitHub self-hosted runners</a>.</p>\n",
+				"content_text": "Pretty [nasty supply chain attack when using GitHub self-hosted runners](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/).\n",
+				"date_published": "2024-01-15T09:37:54+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/15/pretty-nasty-supply.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/01/10/ive-definitely-had.html",
 				
 				"content_html": "<p>I&rsquo;ve definitely had this happen to me a few times 😂: <a href=\"https://open.substack.com/pub/workchronicles/p/comic-when-you-try-to-help-e31\">open.substack.com/pub/workc&hellip;</a></p>\n",
