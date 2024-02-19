@@ -7,6 +7,94 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/02/20/applies-equally-to.html",
+				
+				"content_html": "<p>Applies equally to work and older schooling: <a href=\"https://workchronicles.substack.com/p/comic-100-attendance-7f2\">Work Chronicles</a></p>\n",
+				"content_text": "Applies equally to work and older schooling: [Work Chronicles](https://workchronicles.substack.com/p/comic-100-attendance-7f2)\n",
+				"date_published": "2024-02-20T09:03:58+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/02/20/applies-equally-to.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/23/this-enterprise-budgeting.html",
+				
+				"content_html": "<p>This <a href=\"https://www.goodtechthings.com/enterprise-budgeting/\">enterprise budgeting cartoon</a> is so true.</p>\n",
+				"content_text": "This [enterprise budgeting cartoon](https://www.goodtechthings.com/enterprise-budgeting/) is so true.\n",
+				"date_published": "2024-01-23T09:43:43+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/23/this-enterprise-budgeting.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/20/interesting-read-on.html",
+				
+				"content_html": "<p><a href=\"http://www.pcg-random.org/posts/cpp-seeding-surprises.html\">Interesting read on random number generator seeding in C++</a> but broadly applicable. I&rsquo;m glad that I work in a language where someone else takes care ofe of getting this right!</p>\n",
+				"content_text": "[Interesting read on random number generator seeding in C++](http://www.pcg-random.org/posts/cpp-seeding-surprises.html) but broadly applicable. I'm glad that I work in a language where someone else takes care ofe of getting this right!\n",
+				"date_published": "2024-01-20T12:21:33+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/20/interesting-read-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/19/a-very-thoughtful.html",
+				
+				"content_html": "<p>A very <a href=\"https://berthub.eu/articles/posts/taking-the-airbus-to-the-ikea-cloud/\">thoughtful look at the hyperscaler clouds and how Europe can and should react</a>. We really need people in a position to take action to be thinking about this in the AoNZ context as well, or maybe a Pacific context (not APAC - Asia is its own thing).</p>\n",
+				"content_text": "A very [thoughtful look at the hyperscaler clouds and how Europe can and should react](https://berthub.eu/articles/posts/taking-the-airbus-to-the-ikea-cloud/). We really need people in a position to take action to be thinking about this in the AoNZ context as well, or maybe a Pacific context (not APAC - Asia is its own thing).\n",
+				"date_published": "2024-01-19T00:25:45+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/19/a-very-thoughtful.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/18/very-detailed-post.html",
+				
+				"content_html": "<p><a href=\"https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/\">Very detailed post on Sentry&rsquo;s removal of all cookies and user tracking</a> - helps to have a reasonable familiarity with mar[keting]tech to follow what happened and the advice.</p>\n",
+				"content_text": "[Very detailed post on Sentry's removal of all cookies and user tracking](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/) - helps to have a reasonable familiarity with mar[keting]tech to follow what happened and the advice.\n",
+				"date_published": "2024-01-18T23:53:27+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/18/very-detailed-post.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/18/this-record-type.html",
+				
+				"content_html": "<p>This <a href=\"https://snarky.ca/my-proof-of-concept-record-type/\">record type proposal</a> looks nice, but I don&rsquo;t see much benefit over dataclasses (KW_ONLY is ugly, but also uncommon I think). At least it would be a stdlib addition, not a language change.</p>\n",
+				"content_text": "This [record type proposal](https://snarky.ca/my-proof-of-concept-record-type/) looks nice, but I don't see much benefit over dataclasses (KW_ONLY is ugly, but also uncommon I think). At least it would be a stdlib addition, not a language change.\n",
+				"date_published": "2024-01-18T20:48:32+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/18/this-record-type.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/18/arguments-against-using.html",
+				
+				"content_html": "<p><a href=\"https://www.b-list.org/weblog/2023/dec/21/dont-use-python-property/\">Arguments against using @property() in Python</a> - other than to replace an attribute.</p>\n<p>I agree this is overused a lot. The other place I see it used where it seems reasonable because there&rsquo;s no obvious alternative is to mark an attribute as read-only.</p>\n",
+				"content_text": "[Arguments against using @property() in Python](https://www.b-list.org/weblog/2023/dec/21/dont-use-python-property/) - other than to replace an attribute.\n\nI agree this is overused a lot. The other place I see it used where it seems reasonable because there's no obvious alternative is to mark an attribute as read-only.\n",
+				"date_published": "2024-01-18T20:34:35+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/18/arguments-against-using.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/18/summary-of-noneaware.html",
+				
+				"content_html": "<p><a href=\"https://lwn.net/Articles/956862/\">Summary of None-aware operators being considered for Python</a>. For example, &ldquo;obj?.attr&rdquo; which would be None if obj is None, rather than an AttributeError being raised. I hate the idea of this being added - I hope it never does. Partly for some of the reasons in the article and partly because it&rsquo;s unnecessary complexity.</p>\n",
+				"content_text": "[Summary of None-aware operators being considered for Python](https://lwn.net/Articles/956862/). For example, \"obj?.attr\" which would be None if obj is None, rather than an AttributeError being raised. I hate the idea of this being added - I hope it never does. Partly for some of the reasons in the article and partly because it's unnecessary complexity.\n",
+				"date_published": "2024-01-18T20:14:44+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/18/summary-of-noneaware.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/18/interactive-page-for.html",
+				
+				"content_html": "<p><a href=\"http://sethrobertson.github.io/GitFixUm/fixup.html\">Interactive page for figuring out how to undo or fix things in git</a>. The &ldquo;take a backup first&rdquo; is the best advice. To be honest, I tend to &ldquo;give up and go to a known good state&rdquo; a bunch of the time.</p>\n",
+				"content_text": "[Interactive page for figuring out how to undo or fix things in git](http://sethrobertson.github.io/GitFixUm/fixup.html). The \"take a backup first\" is the best advice. To be honest, I tend to \"give up and go to a known good state\" a bunch of the time.\n",
+				"date_published": "2024-01-18T20:08:28+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/18/interactive-page-for.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/18/i-had-never.html",
+				
+				"content_html": "<p>I had never heard of <a href=\"https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/\">git notes</a> before. It seems like they could indeed be really useful if they were exposed more.</p>\n",
+				"content_text": "I had never heard of [git notes](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) before. It seems like they could indeed be really useful if they were exposed more.\n",
+				"date_published": "2024-01-18T19:47:19+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/18/i-had-never.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/01/18/this-is-a.html",
+				
+				"content_html": "<p>This is a really <a href=\"https://cra.mr/a-seven-dollar-subscription/\">insightful internal look at Sentry&rsquo;s pricing and scaling in the early days</a>. I think for most of this period we were using Sentry but doing the self-hosted route (paying Sentry $0), but we probably moved to the hosted product towards the end of this time. I remember a period where every billing cycle there was a new pricing plan.</p>\n",
+				"content_text": "This is a really [insightful internal look at Sentry's pricing and scaling in the early days](https://cra.mr/a-seven-dollar-subscription/). I think for most of this period we were using Sentry but doing the self-hosted route (paying Sentry $0), but we probably moved to the hosted product towards the end of this time. I remember a period where every billing cycle there was a new pricing plan.\n",
+				"date_published": "2024-01-18T19:44:28+12:00",
+				"url": "https://tonyandrewmeyer.blog/2024/01/18/this-is-a.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/01/18/great-walkthrough-of.html",
 				
 				"content_html": "<p>Great <a href=\"https://jvns.ca/blog/2023/11/01/confusing-git-terminology/\">walkthrough of Git terms that people find (and are!) comfusing</a>. Most of the time I don&rsquo;t need to use the majority of these, but it helps to have at least seen explanationions before.</p>\n",
