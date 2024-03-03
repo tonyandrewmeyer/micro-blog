@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/03/03/nice-writeup-on.html",
+				
+				"content_html": "<p>Nice <a href=\"https://benhoyt.com/writings/go-1brc/\">write-up on squeezing performance out of Go on the billion-row problem that was making the rounds earlier in the year</a>.</p>\n<p>I honestly like r8 (the clear version parallelised) most, I think. Some of the other tricks, like using ints not floats are good (and more accurate anyway), but the later solutions get too optimised for my taste.</p>\n<p>(It is true that this could matter in some cases, but I suspect that last 6.5x speed up generally isn&rsquo;t needed and gets outweighed by the much trickier maintenance).</p>\n",
+				"content_text": "Nice [write-up on squeezing performance out of Go on the billion-row problem that was making the rounds earlier in the year](https://benhoyt.com/writings/go-1brc/).\n\nI honestly like r8 (the clear version parallelised) most, I think. Some of the other tricks, like using ints not floats are good (and more accurate anyway), but the later solutions get too optimised for my taste.\n\n(It is true that this could matter in some cases, but I suspect that last 6.5x speed up generally isn't needed and gets outweighed by the much trickier maintenance).\n",
+				"date_published": "2024-03-03T22:40:13+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/03/03/nice-writeup-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/03/02/a-pretty-good.html",
+				
+				"content_html": "<p>A pretty good <a href=\"https://brooksreview.net/2024/02/a-baby-computer-or-a-computer-for-babies/\">summary of how writers about Apple get the iPad all wrong</a>.</p>\n<p>(I was full-time iPad for about 8 years, as a software developer, architect, PO, and PM).</p>\n",
+				"content_text": "A pretty good [summary of how writers about Apple get the iPad all wrong](https://brooksreview.net/2024/02/a-baby-computer-or-a-computer-for-babies/).\n\n(I was full-time iPad for about 8 years, as a software developer, architect, PO, and PM).\n",
+				"date_published": "2024-03-02T13:51:37+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/03/02/a-pretty-good.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/02/28/great-post-looking.html",
+				
+				"content_html": "<p>Great post <a href=\"https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/\">looking at the flaws of various Python datetime libraries</a>. Dates and times are hard, but that&rsquo;s why we use these libraries!</p>\n",
+				"content_text": "Great post [looking at the flaws of various Python datetime libraries](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/). Dates and times are hard, but that's why we use these libraries!\n",
+				"date_published": "2024-02-28T00:01:27+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/02/28/great-post-looking.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/02/27/not-all-mistakes.html",
+				
+				"content_html": "<p>Not all mistakes are learning opportunities, but <a href=\"https://longform.asmartbear.com/good-problems-to-have/\">there are some mistakes it&rsquo;s a mistake not not to make</a>.</p>\n<p>I&rsquo;m not sure I entirely agree with re-adding backlog items (I guess if it&rsquo;s infrequent), but I do with the rest. Some of these &ldquo;mistakes&rdquo; are hard to make, though, like turning down deals or letting people go.</p>\n",
+				"content_text": "Not all mistakes are learning opportunities, but [there are some mistakes it's a mistake not not to make](https://longform.asmartbear.com/good-problems-to-have/).\n\nI'm not sure I entirely agree with re-adding backlog items (I guess if it's infrequent), but I do with the rest. Some of these \"mistakes\" are hard to make, though, like turning down deals or letting people go.\n",
+				"date_published": "2024-02-27T23:38:40+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/02/27/not-all-mistakes.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/02/27/great-post-on.html",
+				
+				"content_html": "<p>Great post on <a href=\"https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/\">why it&rsquo;s worth having engineering managers</a>.</p>\n<p>I agree with all of this, and have similar experiences. Where I struggle is seeing 4-5 layers of management providing value rather than falling into power plays.</p>\n",
+				"content_text": "Great post on [why it's worth having engineering managers](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/).\n\nI agree with all of this, and have similar experiences. Where I struggle is seeing 4-5 layers of management providing value rather than falling into power plays.\n",
+				"date_published": "2024-02-27T23:30:52+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/02/27/great-post-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/02/27/very-well-written.html",
+				
+				"content_html": "<p>Very well written <a href=\"https://madebyme.today/blog/python-dict-vs-curly-brackets/\">deep dive into dict() vs {} in Python</a>.</p>\n",
+				"content_text": "Very well written [deep dive into dict() vs {} in Python](https://madebyme.today/blog/python-dict-vs-curly-brackets/).\n",
+				"date_published": "2024-02-27T01:23:06+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/02/27/very-well-written.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/02/27/another-post-in.html",
+				
+				"content_html": "<p>Another <a href=\"https://cra.mr/open-source-and-a-healthy-dose-of-capitalism/\">post in the series on the business and history of Sentry</a> - this also dovetails with the recent Kaplan-Moss post about funding developers. I&rsquo;ve never been in this position, but if I was I would love to follow this example.</p>\n",
+				"content_text": "Another [post in the series on the business and history of Sentry](https://cra.mr/open-source-and-a-healthy-dose-of-capitalism/) - this also dovetails with the recent Kaplan-Moss post about funding developers. I've never been in this position, but if I was I would love to follow this example.\n",
+				"date_published": "2024-02-27T01:18:46+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/02/27/another-post-in.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/02/27/a-great-explanation.html",
+				
+				"content_html": "<p>A <a href=\"https://dhwthompson.com/2019/my-favourite-git-commit\">great explanation of a great code commit</a>.</p>\n<p>I&rsquo;m loving being able to code more in the open again, and I strive to write good PRs (which squash to a commit), although they are not yet this good.</p>\n",
+				"content_text": "A [great explanation of a great code commit](https://dhwthompson.com/2019/my-favourite-git-commit).\n\nI'm loving being able to code more in the open again, and I strive to write good PRs (which squash to a commit), although they are not yet this good.\n",
+				"date_published": "2024-02-27T01:15:31+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/02/27/a-great-explanation.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/02/27/neat-tool-that.html",
 				
 				"content_html": "<p>Neat <a href=\"https://jamesg.blog/2024/02/14/clickable-bookshelves/\">tool that makes books in an image clickable through to a Google Books oage</a>. There&rsquo;s a GPT bit in the middle, but I feel it could easily be one of the cloud OCR tools or even an offline one (you&rsquo;d probably need to pre-process a bit, based on my experience).</p>\n<p>I can tap a photo of a dog in Photos and have it tell me the breed with a link to more info. I assume books and other objects must be coming to that too.</p>\n",
@@ -1010,7 +1074,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
