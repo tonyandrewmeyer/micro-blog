@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/03/08/lots-off-great.html",
+				
+				"content_html": "<p>Lots off great stuff in this <a href=\"https://cra.mr/enterprise-is-dead/\">Sentry post</a> but especially:</p>\n<p>&ldquo;you’re not going to hire infinite PMs, have them sit on 1:1 customer calls [- you’re] instead going to look for friction - you’re going to find customer pain points, passive negative feedback - and you’re going to optimize the product around that&rdquo;</p>\n<p>And</p>\n<p>&ldquo;developers who go from BigCo to SmallCo often bring Sentry with them. BigCo might have chosen to self-host Sentry, but SmallCo could care less, and simply opts for our cloud service. Eventually SmallCo becomes BigCo, and [&hellip;] it acts in a lot of ways like a typical funnel&rdquo;</p>\n",
+				"content_text": "Lots off great stuff in this [Sentry post](https://cra.mr/enterprise-is-dead/) but especially:\n\n\"you’re not going to hire infinite PMs, have them sit on 1:1 customer calls [- you’re] instead going to look for friction - you’re going to find customer pain points, passive negative feedback - and you’re going to optimize the product around that\"\n\nAnd\n\n\"developers who go from BigCo to SmallCo often bring Sentry with them. BigCo might have chosen to self-host Sentry, but SmallCo could care less, and simply opts for our cloud service. Eventually SmallCo becomes BigCo, and [...] it acts in a lot of ways like a typical funnel\"\n",
+				"date_published": "2024-03-08T23:41:15+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/03/08/lots-off-great.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/03/07/me-when-i.html",
+				
+				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-getting-phone-calls\">Me, when I forget to turn &lsquo;Silence Unknown Callers&rsquo; back on</a>.</p>\n",
+				"content_text": "[Me, when I forget to turn 'Silence Unknown Callers' back on](https://open.substack.com/pub/workchronicles/p/comic-getting-phone-calls).\n",
+				"date_published": "2024-03-07T19:21:07+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/03/07/me-when-i.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/03/04/i-like-the.html",
+				
+				"content_html": "<p>I like the idea of JS (or other languages) in Markdown as in this <a href=\"https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/\">explainer on Observability 2.0</a>, but &ldquo;<code>language\\n...\\n</code>&rdquo; already has a well-used meaning (render the content in a pretty-print style). It seems like there should be different syntax for &ldquo;execute the content and substitute the output&rdquo;.</p>\n",
+				"content_text": "I like the idea of JS (or other languages) in Markdown as in this [explainer on Observability 2.0](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/), but \"```language\\n...\\n```\" already has a well-used meaning (render the content in a pretty-print style). It seems like there should be different syntax for \"execute the content and substitute the output\".\n",
+				"date_published": "2024-03-04T08:40:04+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/03/04/i-like-the.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/03/03/nice-writeup-on.html",
 				
 				"content_html": "<p>Nice <a href=\"https://benhoyt.com/writings/go-1brc/\">write-up on squeezing performance out of Go on the billion-row problem that was making the rounds earlier in the year</a>.</p>\n<p>I honestly like r8 (the clear version parallelised) most, I think. Some of the other tricks, like using ints not floats are good (and more accurate anyway), but the later solutions get too optimised for my taste.</p>\n<p>(It is true that this could matter in some cases, but I suspect that last 6.5x speed up generally isn&rsquo;t needed and gets outweighed by the much trickier maintenance).</p>\n",
@@ -1074,7 +1098,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
