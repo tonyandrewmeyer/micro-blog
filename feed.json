@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/03/16/theres-a-popular.html",
+				
+				"content_html": "<p><a href=\"https://thespinoff.co.nz/media/16-03-2024/the-sun-is-setting-on-sunday-heres-what-it-was-like-to-work-on-the-show\">&ldquo;There’s a popular notion that young people don’t have the attention spans for in-depth storytelling. That’s ridiculous. Yes, they’ve become hooked on snackable content from Instagram and TikTok. But they’re also quite happy to binge 10-hour factual series on Netflix, or listen to 90-minute podcasts.&quot;</a> - So true, and hardly ever acknowledged!</p>\n",
+				"content_text": "[\"There’s a popular notion that young people don’t have the attention spans for in-depth storytelling. That’s ridiculous. Yes, they’ve become hooked on snackable content from Instagram and TikTok. But they’re also quite happy to binge 10-hour factual series on Netflix, or listen to 90-minute podcasts.\"](https://thespinoff.co.nz/media/16-03-2024/the-sun-is-setting-on-sunday-heres-what-it-was-like-to-work-on-the-show) - So true, and hardly ever acknowledged!\n",
+				"date_published": "2024-03-16T13:39:47+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/03/16/theres-a-popular.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/03/10/this-post-on.html",
+				
+				"content_html": "<p>This <a href=\"https://medium.com/%5B@anders%5D(https://micro.blog/anders)/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd\">post on K8s</a> ends positively, but I can&rsquo;t see how using K8s directly is a good idea unless you&rsquo;re big enough to dedicate people to it.</p>\n",
+				"content_text": "This [post on K8s](https://medium.com/[@anders](https://micro.blog/anders)/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd) ends positively, but I can't see how using K8s directly is a good idea unless you're big enough to dedicate people to it.\n",
+				"date_published": "2024-03-10T16:47:23+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/03/10/this-post-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/03/10/personally-i-do.html",
+				
+				"content_html": "<p>Personally, <a href=\"https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it\">I do find that deadlines help get things done</a> - I wonder how universally true this is, though - it seems like maybe it&rsquo;s true for a subset of people.</p>\n",
+				"content_text": "Personally, [I do find that deadlines help get things done](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it) - I wonder how universally true this is, though - it seems like maybe it's true for a subset of people.\n",
+				"date_published": "2024-03-10T15:18:44+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/03/10/personally-i-do.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/03/08/lots-off-great.html",
 				
 				"content_html": "<p>Lots off great stuff in this <a href=\"https://cra.mr/enterprise-is-dead/\">Sentry post</a> but especially:</p>\n<p>&ldquo;you’re not going to hire infinite PMs, have them sit on 1:1 customer calls [- you’re] instead going to look for friction - you’re going to find customer pain points, passive negative feedback - and you’re going to optimize the product around that&rdquo;</p>\n<p>And</p>\n<p>&ldquo;developers who go from BigCo to SmallCo often bring Sentry with them. BigCo might have chosen to self-host Sentry, but SmallCo could care less, and simply opts for our cloud service. Eventually SmallCo becomes BigCo, and [&hellip;] it acts in a lot of ways like a typical funnel&rdquo;</p>\n",
