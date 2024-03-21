@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/03/22/i-like-this.html",
+				
+				"content_html": "<p>I like this particular <a href=\"https://spyglass.org/good-luck-doj/\">take on the Apple DoJ case</a> but especially the closing:</p>\n<blockquote>\n<p>Microsoft didn&rsquo;t fall because of the DoJ. Microsoft fell because the web disintermediated Windows. And in a way, Microsoft actually helped that to happen while trying not be disrupted.</p>\n<p>And wait. What the fuck are we talking about? Microsoft didn&rsquo;t fall. Microsoft is currently worth $3.2 trillion dollars.</p>\n</blockquote>\n",
+				"content_text": "I like this particular [take on the Apple DoJ case](https://spyglass.org/good-luck-doj/) but especially the closing:\n\n> Microsoft didn't fall because of the DoJ. Microsoft fell because the web disintermediated Windows. And in a way, Microsoft actually helped that to happen while trying not be disrupted.\n>\n> And wait. What the fuck are we talking about? Microsoft didn't fall. Microsoft is currently worth $3.2 trillion dollars.\n",
+				"date_published": "2024-03-22T10:20:15+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/03/22/i-like-this.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/03/16/theres-a-popular.html",
 				
 				"content_html": "<p><a href=\"https://thespinoff.co.nz/media/16-03-2024/the-sun-is-setting-on-sunday-heres-what-it-was-like-to-work-on-the-show\">&ldquo;There’s a popular notion that young people don’t have the attention spans for in-depth storytelling. That’s ridiculous. Yes, they’ve become hooked on snackable content from Instagram and TikTok. But they’re also quite happy to binge 10-hour factual series on Netflix, or listen to 90-minute podcasts.&quot;</a> - So true, and hardly ever acknowledged!</p>\n",
