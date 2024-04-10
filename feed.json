@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/04/11/an-interesting-writeup.html",
+				
+				"content_html": "<p>An <a href=\"https://checkmarx.com/blog/over-170k-users-affected-by-attack-using-fake-python-infrastructure/\">interesting write-up on a supply chain attack</a> but I don&rsquo;t get why all the example requirements files have .tar.gz URLs in them. Who does that for PyPI packages?</p>\n",
+				"content_text": "An [interesting write-up on a supply chain attack](https://checkmarx.com/blog/over-170k-users-affected-by-attack-using-fake-python-infrastructure/) but I don't get why all the example requirements files have .tar.gz URLs in them. Who does that for PyPI packages?\n",
+				"date_published": "2024-04-11T10:21:11+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/04/11/an-interesting-writeup.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/03/25/this-is-pretty.html",
+				
+				"content_html": "<p>This is pretty neat: a <a href=\"https://gitlab.com/Screwtapello/sqlite-schema-diagram/-/tree/main\">SQL schema generated via an SQL query</a> (via <a href=\"https://simonwillison.net/2024/Mar/25/sqlite-schema-diagramsql/\">Simon Willison</a>)</p>\n",
+				"content_text": "This is pretty neat: a [SQL schema generated via an SQL query](https://gitlab.com/Screwtapello/sqlite-schema-diagram/-/tree/main) (via [Simon Willison](https://simonwillison.net/2024/Mar/25/sqlite-schema-diagramsql/))\n",
+				"date_published": "2024-03-25T23:13:05+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/03/25/this-is-pretty.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/03/22/i-like-this.html",
 				
 				"content_html": "<p>I like this particular <a href=\"https://spyglass.org/good-luck-doj/\">take on the Apple DoJ case</a> but especially the closing:</p>\n<blockquote>\n<p>Microsoft didn&rsquo;t fall because of the DoJ. Microsoft fell because the web disintermediated Windows. And in a way, Microsoft actually helped that to happen while trying not be disrupted.</p>\n<p>And wait. What the fuck are we talking about? Microsoft didn&rsquo;t fall. Microsoft is currently worth $3.2 trillion dollars.</p>\n</blockquote>\n",
