@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/05/18/it-would-be.html",
+				
+				"content_html": "<p>It would be so great if this became a thing: &ldquo;Specifically, every employer of software engineers should immediately institute the following benefits program: each software engineer should have a monthly discretionary budget of $50 to distribute to whatever open source dependency developers they want, in whatever way they see fit.&rdquo; <a href=\"https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html\">Glyph</a></p>\n",
+				"content_text": "It would be so great if this became a thing: \"Specifically, every employer of software engineers should immediately institute the following benefits program: each software engineer should have a monthly discretionary budget of $50 to distribute to whatever open source dependency developers they want, in whatever way they see fit.\" [Glyph](https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html)\n",
+				"date_published": "2024-05-18T23:41:32+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/05/18/it-would-be.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/05/02/interesting-thoughts-on.html",
 				
 				"content_html": "<p>Interesting <a href=\"https://www.selfawaresoup.com/notes/2024/05/01/the-user-is-on-their-own/\">thoughts on providing instruction to people using tools</a> - in the poll on power drills, I guessed the right answer but hadn&rsquo;t thought about it before (despite using one somewhat regularly for years), and probably should have learnt that.</p>\n",
@@ -1170,7 +1178,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
