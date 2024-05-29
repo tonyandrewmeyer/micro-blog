@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/05/29/this-is-a.html",
+				
+				"content_html": "<p>This is a <a href=\"https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/\">clever way of circumventing DKIM</a> but using l= has always been a bad idea, and short expiry a good idea, and over signing critical headers (like Content-Type) essential.</p>\n",
+				"content_text": "This is a [clever way of circumventing DKIM](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/) but using l= has always been a bad idea, and short expiry a good idea, and over signing critical headers (like Content-Type) essential.\n",
+				"date_published": "2024-05-29T18:43:45+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/05/29/this-is-a.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/05/19/fun-story-debugging.html",
+				
+				"content_html": "<p>Fun story debugging <a href=\"https://predr.ag/blog/wifi-only-works-when-its-raining\">&ldquo;the wifi only works is when it&rsquo;s raining&rdquo;</a>.</p>\n",
+				"content_text": "Fun story debugging [\"the wifi only works is when it's raining\"](https://predr.ag/blog/wifi-only-works-when-its-raining).\n",
+				"date_published": "2024-05-19T00:43:33+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/05/19/fun-story-debugging.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/05/19/public-sector-opensource.html",
+				
+				"content_html": "<p><a href=\"https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI\">Public sector open-source maintenance</a> makes a lot of theoretical sense, but I doubt it could realistically be funded as suggested, and it would subject to awful whims of successive governments. Also, is the public sector capable of remote work?</p>\n",
+				"content_text": "[Public sector open-source maintenance](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI) makes a lot of theoretical sense, but I doubt it could realistically be funded as suggested, and it would subject to awful whims of successive governments. Also, is the public sector capable of remote work?\n",
+				"date_published": "2024-05-19T00:38:35+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/05/19/public-sector-opensource.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/05/19/good-advice-on.html",
+				
+				"content_html": "<p>Good <a href=\"https://staysaasy.com/leadership/2024/04/04/have-concerns-and-commit.html\">advice on communicating decisions you disagree with to your team</a> - I&rsquo;ve had to do this a lot, and did not always do it well.</p>\n",
+				"content_text": "Good [advice on communicating decisions you disagree with to your team](https://staysaasy.com/leadership/2024/04/04/have-concerns-and-commit.html) - I've had to do this a lot, and did not always do it well.\n",
+				"date_published": "2024-05-19T00:14:28+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/05/19/good-advice-on.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/05/18/it-would-be.html",
 				
 				"content_html": "<p>It would be so great if this became a thing: &ldquo;Specifically, every employer of software engineers should immediately institute the following benefits program: each software engineer should have a monthly discretionary budget of $50 to distribute to whatever open source dependency developers they want, in whatever way they see fit.&rdquo; <a href=\"https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html\">Glyph</a></p>\n",
@@ -1178,7 +1210,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
