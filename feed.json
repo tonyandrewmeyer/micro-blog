@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/11/interesting-data-on.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://danluu.com/corp-eng-blogs/\">data on companies with good vs bad blog posts</a>.</p>\n",
+				"content_text": "Interesting [data on companies with good vs bad blog posts](https://danluu.com/corp-eng-blogs/).\n",
+				"date_published": "2024-06-11T22:46:48+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/11/interesting-data-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/05/31/good-advice-about.html",
+				
+				"content_html": "<p><a href=\"https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/\">Good advice about programming guidelines</a> - this sort of understanding in is what distinguishes junior and senior devs, in my experience.</p>\n",
+				"content_text": "[Good advice about programming guidelines](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/) - this sort of understanding in is what distinguishes junior and senior devs, in my experience.\n",
+				"date_published": "2024-05-31T09:39:12+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/05/31/good-advice-about.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/05/29/scathing-look-at.html",
+				
+				"content_html": "<p><a href=\"https://idlewords.com/2024/5/the_lunacy_of_artemis.htm\">Scathing look at NASA&rsquo;s moon landing programme</a>. Good all round, but I love this: &ldquo;Visionaries at NASA identified a futuristic new energy source (space billionaire egos) and found a way to tap it on a fixed-cost basis&rdquo;.</p>\n",
+				"content_text": "[Scathing look at NASA's moon landing programme](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm). Good all round, but I love this: \"Visionaries at NASA identified a futuristic new energy source (space billionaire egos) and found a way to tap it on a fixed-cost basis\".\n",
+				"date_published": "2024-05-29T20:13:25+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/05/29/scathing-look-at.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/05/29/very-detailed-good.html",
+				
+				"content_html": "<p><a href=\"https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/\">Very detailed, good, description of how to write good commit messages</a> - in the GitHub style world, I would say that with docs like this &ldquo;commit message&rdquo; is really &ldquo;PR title and description&rdquo; - ie. what will (generally) become the commit when the PR is merged. When squashing, the actual commits don&rsquo;t deserve the same care.</p>\n",
+				"content_text": "[Very detailed, good, description of how to write good commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/) - in the GitHub style world, I would say that with docs like this \"commit message\" is really \"PR title and description\" - ie. what will (generally) become the commit when the PR is merged. When squashing, the actual commits don't deserve the same care.\n",
+				"date_published": "2024-05-29T19:27:18+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/05/29/very-detailed-good.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/05/29/i-think-one.html",
+				
+				"content_html": "<p>I think one of the reasons I find people calling Gen AI &ldquo;AI&rdquo; so annoying is <a href=\"https://blog.glyph.im/2024/05/grand-unified-ai-hype.html\">the cycle that Glyoh describes</a> - most of which I remember from being a student doing AI work, then loosely AI dev work.</p>\n",
+				"content_text": "I think one of the reasons I find people calling Gen AI \"AI\" so annoying is [the cycle that Glyoh describes](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html) - most of which I remember from being a student doing AI work, then loosely AI dev work.\n",
+				"date_published": "2024-05-29T19:18:39+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/05/29/i-think-one.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/05/29/this-is-a.html",
 				
 				"content_html": "<p>This is a <a href=\"https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/\">clever way of circumventing DKIM</a> but using l= has always been a bad idea, and short expiry a good idea, and over signing critical headers (like Content-Type) essential.</p>\n",
