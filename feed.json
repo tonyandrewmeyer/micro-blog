@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/20/delightful-with-explicit.html",
+				
+				"content_html": "<p>Delightful (with explicit language) <a href=\"https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/\">screed against the current business obsession with genAI</a>.</p>\n",
+				"content_text": "Delightful (with explicit language) [screed against the current business obsession with genAI](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/).\n",
+				"date_published": "2024-06-20T17:21:40+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/20/delightful-with-explicit.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/13/ben-brooks-in.html",
+				
+				"content_html": "<p>Ben Brooks in his latest <a href=\"https://brooksreview.net/2024/06/member-journal-61023/\">journal</a> (membership required and recommended):</p>\n<p>&ldquo;Why are we still doing signatures? It seems really antiquated when you realize you could sign with biometrics [and] I could not tell you if it was my signature or not on most documents because &hellip;I am pretty sure I have three signatures now. I have my ‘wet ink’ signature that I can sign with a pen. I have my left-handed fingertip signature than I do on most digital documents when asked. And lastly I have my [&hellip;]scribble that I have come to do when shit is more annoying than anything else. None of them look remotely the same.&rdquo;</p>\n<p>So true (both points).</p>\n",
+				"content_text": "Ben Brooks in his latest [journal](https://brooksreview.net/2024/06/member-journal-61023/) (membership required and recommended):\n\n\"Why are we still doing signatures? It seems really antiquated when you realize you could sign with biometrics [and] I could not tell you if it was my signature or not on most documents because ...I am pretty sure I have three signatures now. I have my ‘wet ink’ signature that I can sign with a pen. I have my left-handed fingertip signature than I do on most digital documents when asked. And lastly I have my [...]scribble that I have come to do when shit is more annoying than anything else. None of them look remotely the same.\"\n\nSo true (both points).\n",
+				"date_published": "2024-06-13T22:44:16+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/13/ben-brooks-in.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/13/im-no-expert.html",
+				
+				"content_html": "<p>I&rsquo;m no expert on TV viewing metrics, but this:</p>\n<p>&ldquo;Figures provided by TVNZ show the premiere episode of NZ’s Best Homes with Phil Spencer had an average audience of 490,000 – almost half a million people. Notably, that was more than the 473,900 who tuned into the final episode of Sunday last month&rdquo; (<a href=\"https://thespinoff.co.nz/pop-culture/11-06-2024/nzs-best-homes-is-the-opposite-of-sunday-maybe-thats-why-its-working\">This Spinoff</a>)</p>\n<p>sounds to me like the people who are watching linear TV on a Sunday night don&rsquo;t care what&rsquo;s on, they&rsquo;re just watching at that time.</p>\n<p>It also boggles my mind that about a tenth of NZ are still watching linear TV.</p>\n",
+				"content_text": "I'm no expert on TV viewing metrics, but this:\n\n\"Figures provided by TVNZ show the premiere episode of NZ’s Best Homes with Phil Spencer had an average audience of 490,000 – almost half a million people. Notably, that was more than the 473,900 who tuned into the final episode of Sunday last month\" ([This Spinoff](https://thespinoff.co.nz/pop-culture/11-06-2024/nzs-best-homes-is-the-opposite-of-sunday-maybe-thats-why-its-working))\n\nsounds to me like the people who are watching linear TV on a Sunday night don't care what's on, they're just watching at that time.\n\nIt also boggles my mind that about a tenth of NZ are still watching linear TV.\n",
+				"date_published": "2024-06-13T17:28:50+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/13/im-no-expert.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/13/horrific-but-incredible.html",
+				
+				"content_html": "<p>Horrific but incredible <a href=\"https://pdf-to-podcast.com/\">tool to convert a PDF to a podcast episode</a>. I don&rsquo;t have a key to try it myself, but the examples are pretty incredible.</p>\n<p>I guess for people that are ok withh summaries and like getting information via audio, this could actually be useful.</p>\n<p>Via <a href=\"https://simonwillison.net/2024/Jun/13/pdf-to-podcast/#atom-everything\">Simon Willison</a></p>\n",
+				"content_text": "Horrific but incredible [tool to convert a PDF to a podcast episode](https://pdf-to-podcast.com/). I don't have a key to try it myself, but the examples are pretty incredible.\n\nI guess for people that are ok withh summaries and like getting information via audio, this could actually be useful.\n\nVia [Simon Willison](https://simonwillison.net/2024/Jun/13/pdf-to-podcast/#atom-everything)\n",
+				"date_published": "2024-06-13T17:24:15+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/13/horrific-but-incredible.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/11/the-hard-lesson.html",
+				
+				"content_html": "<p><a href=\"https://zerodha.tech/blog/remoteness-of-remote-work/\">&ldquo;The hard lesson we learnt is that effective, long term remote work requires specific skill sets and DNA to pull off.&quot;</a></p>\n<p>I wish people took that as the lesson rather than &ldquo;remote work doesn&rsquo;t work&rdquo;. I also feel like orgs that suddenly became remote/distributed did it poorly in most cases so have come to poor conclusions.</p>\n<p>Interesting comments on language, too. Canonical seems to do this well, even with ~100 countries. I&rsquo;m not sure why that is.</p>\n<p>Somewhat a side note, but I agree this with:</p>\n<blockquote>\n<p>While many orgs have the utopian goal of committing the entirety of institutional memory into neat documentation, knowledge maps, and wikis, I have come to realise that it is essentially a pipe dream. If we look around, rarely is an org able to copy another org’s culture or way of working</p>\n</blockquote>\n<p>The list of good traits to look for when hiring for remote/distributed is good, too.</p>\n",
+				"content_text": "[\"The hard lesson we learnt is that effective, long term remote work requires specific skill sets and DNA to pull off.\"](https://zerodha.tech/blog/remoteness-of-remote-work/)\n\nI wish people took that as the lesson rather than \"remote work doesn't work\". I also feel like orgs that suddenly became remote/distributed did it poorly in most cases so have come to poor conclusions.\n\nInteresting comments on language, too. Canonical seems to do this well, even with ~100 countries. I'm not sure why that is.\n\nSomewhat a side note, but I agree this with:\n\n> While many orgs have the utopian goal of committing the entirety of institutional memory into neat documentation, knowledge maps, and wikis, I have come to realise that it is essentially a pipe dream. If we look around, rarely is an org able to copy another org’s culture or way of working\n\nThe list of good traits to look for when hiring for remote/distributed is good, too.\n",
+				"date_published": "2024-06-11T23:56:10+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/11/the-hard-lesson.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/11/an-interesting-theory.html",
+				
+				"content_html": "<p>An interesting theory that <a href=\"https://www.elidedbranches.com/2015/11/the-manager-as-debugger.html\">great engineering managers are great at debugging</a>. I think my experiences match this, but I don&rsquo;t think I have enough data (either way) to be sure I believe it or whether it&rsquo;s more correlation than causation.</p>\n",
+				"content_text": "An interesting theory that [great engineering managers are great at debugging](https://www.elidedbranches.com/2015/11/the-manager-as-debugger.html). I think my experiences match this, but I don't think I have enough data (either way) to be sure I believe it or whether it's more correlation than causation.\n",
+				"date_published": "2024-06-11T23:46:03+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/11/an-interesting-theory.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/11/interesting-ive-been.html",
+				
+				"content_html": "<p>Interesting - I&rsquo;ve been reading a bit about rewilding lately (<a href=\"https://thespinoff.co.nz/books/08-06-2024/ultrawilding-aotearoa-and-the-tech-revolution-giving-nature-a-leg-up\">on The Spinoff</a> and <a href=\"https://www.unitybooks.co.nz/products/ultrawild-an-audacious-plan-to-rewild-every-city-on-earth\">in the linked physical book</a>) and here it is <a href=\"https://www.noemamag.com/we-need-to-rewild-the-internet\">applied to the internet</a>.</p>\n<p>I really like that by current job pushes towards this:</p>\n<blockquote>\n<p>Our job is to keep open as much opportunity as we can, trusting that those who come later will use it.</p>\n</blockquote>\n<p>But I think this is one of the biggest challenges:</p>\n<blockquote>\n<p>Instead of tech firms extracting and selling people’s personal data, different payment models will fund the infrastructure we need.</p>\n</blockquote>\n",
+				"content_text": "Interesting - I've been reading a bit about rewilding lately ([on The Spinoff](https://thespinoff.co.nz/books/08-06-2024/ultrawilding-aotearoa-and-the-tech-revolution-giving-nature-a-leg-up) and [in the linked physical book](https://www.unitybooks.co.nz/products/ultrawild-an-audacious-plan-to-rewild-every-city-on-earth)) and here it is [applied to the internet](https://www.noemamag.com/we-need-to-rewild-the-internet).\n\nI really like that by current job pushes towards this:\n\n> Our job is to keep open as much opportunity as we can, trusting that those who come later will use it.\n\nBut I think this is one of the biggest challenges:\n\n> Instead of tech firms extracting and selling people’s personal data, different payment models will fund the infrastructure we need.\n",
+				"date_published": "2024-06-11T23:35:37+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/11/interesting-ive-been.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/11/this-is-a.html",
+				
+				"content_html": "<p>This is a lot of words on <a href=\"https://lethain.com/no-wrong-doors/\">&ldquo;no wrong door&rdquo; policy</a>, but basically it&rsquo;s just asking another group for help on behalf of someone (copying them in) rather than just directing them to the other group.</p>\n<p>I definitely agree with this approach and try to follow it myself.</p>\n",
+				"content_text": "This is a lot of words on [\"no wrong door\" policy](https://lethain.com/no-wrong-doors/), but basically it's just asking another group for help on behalf of someone (copying them in) rather than just directing them to the other group.\n\nI definitely agree with this approach and try to follow it myself.\n",
+				"date_published": "2024-06-11T23:17:04+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/11/this-is-a.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/11/pretty-compelling-argument.html",
+				
+				"content_html": "<p>Pretty compelling <a href=\"https://ntietz.com/blog/lets-say-instead-of-auth/\">argument to use &ldquo;login&rdquo; and &ldquo;permissions&rdquo; instead of &ldquo;authN&rdquo; and &ldquo;authZ&rdquo;</a>.</p>\n",
+				"content_text": "Pretty compelling [argument to use \"login\" and \"permissions\" instead of \"authN\" and \"authZ\"](https://ntietz.com/blog/lets-say-instead-of-auth/).\n",
+				"date_published": "2024-06-11T23:14:32+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/11/pretty-compelling-argument.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/06/11/good-advice-on.html",
+				
+				"content_html": "<p>Good <a href=\"https://danluu.com/corp-eng-blogs/\">advice on effective communication</a>. I like how the focus is on outcomes rather than specific implementations. Most of the outcomes are ones that I&rsquo;ve had when communication was working best, too.</p>\n<p>This is near the end, but super valuable advice:</p>\n<blockquote>\n<p>One of the most important tools you can use, regardless of channel, is to just decline to engage. If you don’t have anything to add, don’t have time to take on more, or just aren’t interested: say so.</p>\n</blockquote>\n",
+				"content_text": "Good [advice on effective communication](https://danluu.com/corp-eng-blogs/). I like how the focus is on outcomes rather than specific implementations. Most of the outcomes are ones that I've had when communication was working best, too.\n\nThis is near the end, but super valuable advice:\n\n> One of the most important tools you can use, regardless of channel, is to just decline to engage. If you don’t have anything to add, don’t have time to take on more, or just aren’t interested: say so.\n",
+				"date_published": "2024-06-11T22:52:18+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/06/11/good-advice-on.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/06/11/interesting-data-on.html",
 				
 				"content_html": "<p>Interesting <a href=\"https://danluu.com/corp-eng-blogs/\">data on companies with good vs bad blog posts</a>.</p>\n",
@@ -1250,7 +1330,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
