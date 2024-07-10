@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/07/10/wonderfully-pointless-network.html",
+				
+				"content_html": "<p>Wonderfully <a href=\"https://robertheaton.com/pyskywifi/\">pointless network transmission via a profile field</a>.</p>\n",
+				"content_text": "Wonderfully [pointless network transmission via a profile field](https://robertheaton.com/pyskywifi/).\n",
+				"date_published": "2024-07-10T23:35:51+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/07/10/wonderfully-pointless-network.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/07/04/the-dream-of.html",
+				
+				"content_html": "<p><a href=\"https://thespinoff.co.nz/society/04-07-2024/i-hope-you-fucking-die-the-reality-of-being-a-bus-driver-in-2024\">&ldquo;the dream of every Aucklander being only a short walk away from a bus on a 15-minute schedule&rdquo;</a> - people who write things like this seemingly have no idea what kind of places Auckland encompasses, and it&rsquo;s always super annoying to read.</p>\n",
+				"content_text": "[\"the dream of every Aucklander being only a short walk away from a bus on a 15-minute schedule\"](https://thespinoff.co.nz/society/04-07-2024/i-hope-you-fucking-die-the-reality-of-being-a-bus-driver-in-2024) - people who write things like this seemingly have no idea what kind of places Auckland encompasses, and it's always super annoying to read.\n",
+				"date_published": "2024-07-04T12:32:07+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/07/04/the-dream-of.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/07/04/a-bunch-of.html",
+				
+				"content_html": "<p>A bunch of new features from Apple <a href=\"https://mjtsai.com/blog/2024/07/03/feature-requests-for-death/\">focused on the death of a loved one</a> would be really great. There would be plenty of heartstring-tugging opportunities for marketing, too.</p>\n",
+				"content_text": "A bunch of new features from Apple [focused on the death of a loved one](https://mjtsai.com/blog/2024/07/03/feature-requests-for-death/) would be really great. There would be plenty of heartstring-tugging opportunities for marketing, too.\n",
+				"date_published": "2024-07-04T12:28:02+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/07/04/a-bunch-of.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/07/02/good-talk-by.html",
 				
 				"content_html": "<p>Good <a href=\"https://www.youtube.com/watch?v=kcfERM6fcgU\">talk by Gylph on &ldquo;the perfect Python project&rdquo;</a> - the important bit is about 2/3rds through, after the song.</p>\n",
