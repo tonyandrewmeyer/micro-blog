@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/08/22/i-love-this.html",
+				
+				"content_html": "<p>I love this <a href=\"https://fly.io/blog/accident-forgiveness/\">accident forgiveness policy from fly.io</a>. I think this really is one of the most terrifying aspects of using elastic cloud services.</p>\n",
+				"content_text": "I love this [accident forgiveness policy from fly.io](https://fly.io/blog/accident-forgiveness/). I think this really is one of the most terrifying aspects of using elastic cloud services.\n",
+				"date_published": "2024-08-22T12:04:50+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/08/22/i-love-this.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/07/10/wonderfully-pointless-network.html",
 				
 				"content_html": "<p>Wonderfully <a href=\"https://robertheaton.com/pyskywifi/\">pointless network transmission via a profile field</a>.</p>\n",
