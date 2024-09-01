@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/02/interesting-thoughts-on.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://davidism.com/disabling-scheduled-dependency-updates/\">thoughts on automated dependency updates</a> - I&rsquo;ve come across this in work situations too. At the moment we&rsquo;re also going for a quite minimal approach focused around when we do releases.</p>\n",
+				"content_text": "Interesting [thoughts on automated dependency updates](https://davidism.com/disabling-scheduled-dependency-updates/) - I've come across this in work situations too. At the moment we're also going for a quite minimal approach focused around when we do releases.\n",
+				"date_published": "2024-09-02T12:24:15+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/02/interesting-thoughts-on.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/08/22/i-love-this.html",
 				
 				"content_html": "<p>I love this <a href=\"https://fly.io/blog/accident-forgiveness/\">accident forgiveness policy from fly.io</a>. I think this really is one of the most terrifying aspects of using elastic cloud services.</p>\n",
@@ -1370,7 +1378,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
