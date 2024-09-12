@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/12/scathing-take-on.html",
+				
+				"content_html": "<p><a href=\"https://defector.com/neither-elon-musk-nor-anybody-else-will-ever-colonize-mars\">Scathing take on the viability of a Mars colony</a>.</p>\n",
+				"content_text": "[Scathing take on the viability of a Mars colony](https://defector.com/neither-elon-musk-nor-anybody-else-will-ever-colonize-mars).\n",
+				"date_published": "2024-09-12T17:32:42+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/12/scathing-take-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/06/in-a-reflection.html",
+				
+				"content_html": "<p>In a <a href=\"https://mattgemmell.scot/20-years/\">reflection of the last 20 years</a> Matt Gemmell has 5 lessons learnt:</p>\n<blockquote>\n<p>There’s no substitute for just doing the work, day after day, year after year.\nThe best strategy is almost always to avoid conflict.\nQuitting the news enhances happiness.\nMental health is a very real thing, and you never completely heal from abuse.\nBecoming a parent changes everything.</p>\n</blockquote>\n<p>These all resonate with me very strongly.</p>\n",
+				"content_text": "In a [reflection of the last 20 years](https://mattgemmell.scot/20-years/) Matt Gemmell has 5 lessons learnt:\n\n> There’s no substitute for just doing the work, day after day, year after year.\n> The best strategy is almost always to avoid conflict.\n> Quitting the news enhances happiness.\n> Mental health is a very real thing, and you never completely heal from abuse.\n> Becoming a parent changes everything.\n\nThese all resonate with me very strongly.\n",
+				"date_published": "2024-09-06T14:12:55+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/06/in-a-reflection.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/09/02/interesting-thoughts-on.html",
 				
 				"content_html": "<p>Interesting <a href=\"https://davidism.com/disabling-scheduled-dependency-updates/\">thoughts on automated dependency updates</a> - I&rsquo;ve come across this in work situations too. At the moment we&rsquo;re also going for a quite minimal approach focused around when we do releases.</p>\n",
