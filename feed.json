@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/19/long-but-good.html",
+				
+				"content_html": "<p>Long but good <a href=\"https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/\">read on Agile, Scrum, Jira, and the like</a> (but with more cussing than it needs).</p>\n",
+				"content_text": "Long but good [read on Agile, Scrum, Jira, and the like](https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/) (but with more cussing than it needs).\n",
+				"date_published": "2024-09-19T23:45:45+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/19/long-but-good.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/09/12/scathing-take-on.html",
 				
 				"content_html": "<p><a href=\"https://defector.com/neither-elon-musk-nor-anybody-else-will-ever-colonize-mars\">Scathing take on the viability of a Mars colony</a>.</p>\n",
@@ -1394,7 +1402,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
