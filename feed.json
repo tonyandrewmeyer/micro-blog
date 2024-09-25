@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/26/interesting-google-extends.html",
+				
+				"content_html": "<p>Interesting <a href=\"http://workspaceupdates.googleblog.com/2024/09/gmail-additional-bimi-protections.html\">Google extends BIMI to work with CMC as well as VMC</a> - I did not know about CMCs before. Assuming there&rsquo;s still a reasonable verification process in place - and ideally that a CMC is cheaper than a VMC - this seems a good move.</p>\n<p>(I&rsquo;m still meh on BIMI in general).</p>\n<p>Via <a href=\"https://www.spamresource.com/2024/09/google-announces-support-for-cmcs-with.html\">Spam Resource</a></p>\n",
+				"content_text": "Interesting [Google extends BIMI to work with CMC as well as VMC](http://workspaceupdates.googleblog.com/2024/09/gmail-additional-bimi-protections.html) - I did not know about CMCs before. Assuming there's still a reasonable verification process in place - and ideally that a CMC is cheaper than a VMC - this seems a good move.\n\n(I'm still meh on BIMI in general).\n\nVia [Spam Resource](https://www.spamresource.com/2024/09/google-announces-support-for-cmcs-with.html)\n",
+				"date_published": "2024-09-26T11:21:08+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/26/interesting-google-extends.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/23/interesting-read-on.html",
+				
+				"content_html": "<p>Interesting read on the <a href=\"https://blog.brachiosoft.com/en/posts/git/\">history of git</a>.</p>\n",
+				"content_text": "Interesting read on the [history of git](https://blog.brachiosoft.com/en/posts/git/).\n",
+				"date_published": "2024-09-23T21:57:29+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/23/interesting-read-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/23/being-wary-about.html",
+				
+				"content_html": "<p><a href=\"https://swizec.com/blog/dry-the-common-source-of-bad-abstractions\">Being wary about DRY</a> - the other place people DRY too quickly is tests.</p>\n",
+				"content_text": "[Being wary about DRY](https://swizec.com/blog/dry-the-common-source-of-bad-abstractions) - the other place people DRY too quickly is tests.\n",
+				"date_published": "2024-09-23T21:25:38+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/23/being-wary-about.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/23/your-product-team.html",
+				
+				"content_html": "<p>&ldquo;Your product team can see that Feature A is 250 tasks, Feature B is 50 tasks and that your team completes tasks at an average rate of 40 tasks per week to project a reasonable completion time on their own. Feature A would probably take a little over 6 weeks. Feature B would probably take a little over 1 week.</p>\n<p>You get more accurate projections and estimates because you stopped estimating&rdquo;</p>\n<p>You didn&rsquo;t stop estimating. You moved the estimating to another team.</p>\n<p>The rest of the post is a good <a href=\"https://www.brightball.com/articles/story-points-are-pointless-measure-queues\">summary of how story points fail and how to improve on that</a> but at the end of the day, people will still want dates (and maybe now also a change request process)l</p>\n",
+				"content_text": "\"Your product team can see that Feature A is 250 tasks, Feature B is 50 tasks and that your team completes tasks at an average rate of 40 tasks per week to project a reasonable completion time on their own. Feature A would probably take a little over 6 weeks. Feature B would probably take a little over 1 week.\n\nYou get more accurate projections and estimates because you stopped estimating\"\n\nYou didn't stop estimating. You moved the estimating to another team.\n\nThe rest of the post is a good [summary of how story points fail and how to improve on that](https://www.brightball.com/articles/story-points-are-pointless-measure-queues) but at the end of the day, people will still want dates (and maybe now also a change request process)l\n",
+				"date_published": "2024-09-23T20:51:09+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/23/your-product-team.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/21/good-basic-post.html",
+				
+				"content_html": "<p>Good <a href=\"https://newsletter.posthog.com/p/using-your-own-product-is-a-superpower\">basic post on dogfooding</a>. I also believe this is critical and something that has been trickier personally in the last couple of years.</p>\n",
+				"content_text": "Good [basic post on dogfooding](https://newsletter.posthog.com/p/using-your-own-product-is-a-superpower). I also believe this is critical and something that has been trickier personally in the last couple of years. \n",
+				"date_published": "2024-09-21T20:52:13+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/21/good-basic-post.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/20/we-are-sleepwalking.html",
+				
+				"content_html": "<p>&ldquo;We are sleepwalking into a terrible situation where a few parties have almost complete control over our entire energy supply, while these parties don’t fall under any energy law. We regulate them as if they were a normal website, which means we hardly regulate them at all.&rdquo; <a href=\"https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/\">Bert Hubert</a></p>\n",
+				"content_text": "\"We are sleepwalking into a terrible situation where a few parties have almost complete control over our entire energy supply, while these parties don’t fall under any energy law. We regulate them as if they were a normal website, which means we hardly regulate them at all.\" [Bert Hubert](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)\n",
+				"date_published": "2024-09-20T23:23:39+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/20/we-are-sleepwalking.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/20/advanced-testing-with.html",
+				
+				"content_html": "<p>Advanced Testing with Go <a href=\"https://speakerdeck.com/mitchellh/advanced-testing-with-go\">slides</a> and <a href=\"https://www.youtube.com/watch?v=8hQG7QlcLBk\">video</a>: quite a lot of good content not specific to Go. (via <a href=\"https://benhoyt.com\">Ben Hoyt</a>)</p>\n",
+				"content_text": "Advanced Testing with Go [slides](https://speakerdeck.com/mitchellh/advanced-testing-with-go) and [video](https://www.youtube.com/watch?v=8hQG7QlcLBk): quite a lot of good content not specific to Go. (via [Ben Hoyt](https://benhoyt.com))\n",
+				"date_published": "2024-09-20T12:49:35+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/20/advanced-testing-with.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/20/til-the-name.html",
+				
+				"content_html": "<p>TIL the name &ldquo;Protege effect&rdquo;, but I&rsquo;ve definitely seen and experienced this too. Mentioned in this <a href=\"https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors.html\">list of reasons why hiring juniors is important</a>.</p>\n",
+				"content_text": "TIL the name \"Protege effect\", but I've definitely seen and experienced this too. Mentioned in this [list of reasons why hiring juniors is important](https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors.html).\n",
+				"date_published": "2024-09-20T12:08:40+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/20/til-the-name.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/20/good-suggestions-for.html",
+				
+				"content_html": "<p>Good <a href=\"https://philbooth.me/blog/how-to-evaluate-dependencies?_bhlid=4c425f00b5c01af291ce55b9862dd06ad3e2627d\">suggestions for evaluating dependencies</a> - I would look at project activity before the code, though, just because it&rsquo;s much easier.</p>\n<p>I also look up the project on <a href=\"https://snyk.io/advisor/python\">snyk</a> (<a href=\"https://socket.dev\">socket</a> is also ok, but I find snyk more insightful), and do some searching around CVEs and security.</p>\n<p>Recommendations from people or organisations or projects I trust have an impact, too.</p>\n",
+				"content_text": "Good [suggestions for evaluating dependencies](https://philbooth.me/blog/how-to-evaluate-dependencies?_bhlid=4c425f00b5c01af291ce55b9862dd06ad3e2627d) - I would look at project activity before the code, though, just because it's much easier.\n\nI also look up the project on [snyk](https://snyk.io/advisor/python) ([socket](https://socket.dev) is also ok, but I find snyk more insightful), and do some searching around CVEs and security.\n\nRecommendations from people or organisations or projects I trust have an impact, too.\n",
+				"date_published": "2024-09-20T12:05:51+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/20/good-suggestions-for.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/20/interesting-thoughts-on.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://lucumr.pocoo.org/2024/9/19/open-source-tax\">thoughts on accidental vs. deliberate spending in the context often of open-source funding</a>. The linked <a href=\"https://openpath.chadwhitacre.com/2024/a-vision-for-software-commons/\">splitting the check</a> idea is interesting in too, although these really need big players to get on board to get anywhere.</p>\n",
+				"content_text": "Interesting [thoughts on accidental vs. deliberate spending in the context often of open-source funding](https://lucumr.pocoo.org/2024/9/19/open-source-tax). The linked [splitting the check](https://openpath.chadwhitacre.com/2024/a-vision-for-software-commons/) idea is interesting in too, although these really need big players to get on board to get anywhere.\n",
+				"date_published": "2024-09-20T11:57:56+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/20/interesting-thoughts-on.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/09/19/long-but-good.html",
 				
 				"content_html": "<p>Long but good <a href=\"https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/\">read on Agile, Scrum, Jira, and the like</a> (but with more cussing than it needs).</p>\n",
@@ -1402,7 +1482,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
