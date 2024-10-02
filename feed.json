@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/02/the-problem-with.html",
+				
+				"content_html": "<p>The problem with the &ldquo;fire fast&rdquo; part of <a href=\"https://cra.mr/fire-faster-but-hire-better/\">Fire Fast, but Hire Better</a> is that you&rsquo;re firing people. Hiring then firing someone is incredibly harmful to the fired, even when it&rsquo;s ultimately best for both sides. Keeping people that don&rsquo;t belong is bad too, so hiring better is where the focus must be.</p>\n",
+				"content_text": "The problem with the \"fire fast\" part of [Fire Fast, but Hire Better](https://cra.mr/fire-faster-but-hire-better/) is that you're firing people. Hiring then firing someone is incredibly harmful to the fired, even when it's ultimately best for both sides. Keeping people that don't belong is bad too, so hiring better is where the focus must be.\n",
+				"date_published": "2024-10-02T23:07:34+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/02/the-problem-with.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/26/zuckerberg-were-just.html",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/24253481/meta-ceo-mark-zuckerberg-ar-glasses-orion-ray-bans-ai-decoder-interview\">Zuckerberg</a>: &ldquo;We’re just not going to pay for content when it’s not valuable to people. &hellip; when push comes to shove, if they demanded that we don’t use their content, then we just wouldn’t use their content. It’s not like that’s going to change the outcome of this stuff that much.&rdquo;</p>\n<p>In other words: we&rsquo;re going to steal from so many people that if a few complain, who cares?</p>\n",
+				"content_text": "[Zuckerberg](https://www.theverge.com/24253481/meta-ceo-mark-zuckerberg-ar-glasses-orion-ray-bans-ai-decoder-interview): \"We’re just not going to pay for content when it’s not valuable to people. ... when push comes to shove, if they demanded that we don’t use their content, then we just wouldn’t use their content. It’s not like that’s going to change the outcome of this stuff that much.\"\n\nIn other words: we're going to steal from so many people that if a few complain, who cares?\n",
+				"date_published": "2024-09-26T19:54:01+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/26/zuckerberg-were-just.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/09/26/using-git-revert.html",
+				
+				"content_html": "<p><a href=\"https://nedbatchelder.com/blog/202409/cleaning_up_a_messy_branch.html\">Using Git revert to &lsquo;hide&rsquo; cherry-picked commits</a> - this seems nicer than rebasing in some cases.</p>\n",
+				"content_text": "[Using Git revert to 'hide' cherry-picked commits](https://nedbatchelder.com/blog/202409/cleaning_up_a_messy_branch.html) - this seems nicer than rebasing in some cases.\n",
+				"date_published": "2024-09-26T11:25:35+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/09/26/using-git-revert.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/09/26/interesting-google-extends.html",
 				
 				"content_html": "<p>Interesting <a href=\"http://workspaceupdates.googleblog.com/2024/09/gmail-additional-bimi-protections.html\">Google extends BIMI to work with CMC as well as VMC</a> - I did not know about CMCs before. Assuming there&rsquo;s still a reasonable verification process in place - and ideally that a CMC is cheaper than a VMC - this seems a good move.</p>\n<p>(I&rsquo;m still meh on BIMI in general).</p>\n<p>Via <a href=\"https://www.spamresource.com/2024/09/google-announces-support-for-cmcs-with.html\">Spam Resource</a></p>\n",
