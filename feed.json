@@ -7,6 +7,118 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/09/this-proclivity-for.html",
+				
+				"content_html": "<p>&ldquo;This proclivity for romanticizing the past and growling about the present appears to be (a) perennial and (b) cross-cultural. It’s also (c) dangerous because it prepares the ground for reactionary practices. That’s true most obviously in politics, where demagogues weaponize nostalgia&rdquo; <a href=\"https://www.alfiekohn.org/blogs/aggressive-nostalgia/\">Alfie Kohn</a></p>\n",
+				"content_text": "\"This proclivity for romanticizing the past and growling about the present appears to be (a) perennial and (b) cross-cultural. It’s also (c) dangerous because it prepares the ground for reactionary practices. That’s true most obviously in politics, where demagogues weaponize nostalgia\" [Alfie Kohn](https://www.alfiekohn.org/blogs/aggressive-nostalgia/)\n",
+				"date_published": "2024-10-09T23:26:17+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/09/this-proclivity-for.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/interesting-details-on.html",
+				
+				"content_html": "<p>Interesting details on how <a href=\"https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html\">Copilot prompts for suggestions in VS Code</a> - potentially outdated now, of course, butt insightful into what&rsquo;s happening under the hood.</p>\n",
+				"content_text": "Interesting details on how [Copilot prompts for suggestions in VS Code](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html) - potentially outdated now, of course, butt insightful into what's happening under the hood.\n",
+				"date_published": "2024-10-05T14:13:38+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/05/interesting-details-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-really-enjoyed.html",
+				
+				"content_html": "<p>I really enjoyed this <a href=\"https://maggieappleton.com/home-cooked-software\">talk on local-first software and &lsquo;barefoot developers&rsquo;</a>. I agree with a lot of it, although I&rsquo;m not sure whether generative AI will really have the impact people think it will (plenty of tools were meant to in the past). The call to action, having tooling that supports generative AI builders to guide where it goes, makes sense, though.</p>\n<p>(Generative AI has so many other ethnical, environmental, economic, etc concerns as well, so do reasonable uses even survive the bubble?)</p>\n",
+				"content_text": "I really enjoyed this [talk on local-first software and 'barefoot developers'](https://maggieappleton.com/home-cooked-software). I agree with a lot of it, although I'm not sure whether generative AI will really have the impact people think it will (plenty of tools were meant to in the past). The call to action, having tooling that supports generative AI builders to guide where it goes, makes sense, though.\n\n(Generative AI has so many other ethnical, environmental, economic, etc concerns as well, so do reasonable uses even survive the bubble?)\n",
+				"date_published": "2024-10-05T13:55:54+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-really-enjoyed.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/interesting-idea-to.html",
+				
+				"content_html": "<p>Interesting idea to have a <a href=\"https://zaidesanton.substack.com/p/organizing-the-best-cleanathon-your\">Cleanathon, a hackathon where the scoring is based onn removing stuff</a>.</p>\n",
+				"content_text": "Interesting idea to have a [Cleanathon, a hackathon where the scoring is based onn removing stuff](https://zaidesanton.substack.com/p/organizing-the-best-cleanathon-your).\n",
+				"date_published": "2024-10-05T12:03:20+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/05/interesting-idea-to.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
+				
+				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"date_published": "2024-10-05T11:36:28+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/a-lot-of.html",
+				
+				"content_html": "<p>A lot of words on <a href=\"https://theengineeringmanager.substack.com/p/what-does-a-date-actually-mean\">dates and estimates</a> but this bit I have found to work well:</p>\n<blockquote>\n<p>At the beginning of a given project, you might even just have the year that you&rsquo;re aiming to ship. Then, as you progress, you can start to narrow it down to a quarter, then a month, and finally a specific date.</p>\n</blockquote>\n",
+				"content_text": "A lot of words on [dates and estimates](https://theengineeringmanager.substack.com/p/what-does-a-date-actually-mean) but this bit I have found to work well:\n\n> At the beginning of a given project, you might even just have the year that you're aiming to ship. Then, as you progress, you can start to narrow it down to a quarter, then a month, and finally a specific date.\n",
+				"date_published": "2024-10-05T00:08:32+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/05/a-lot-of.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/04/good-arguments-against.html",
+				
+				"content_html": "<p>Good <a href=\"https://bessey.dev/blog/2024/05/24/why-im-over-graphql/\">arguments against GraphQL</a>, which I always disliked.</p>\n",
+				"content_text": "Good [arguments against GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/), which I always disliked.\n",
+				"date_published": "2024-10-04T23:55:02+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/04/good-arguments-against.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/02/interesting-post-explaining.html",
+				
+				"content_html": "<p>Interesting post <a href=\"https://berglyd.net/blog/2024/06/joining-strings-in-python/\">explaining why str.join(generator) is worse than str.join(list) in CPython</a>.</p>\n",
+				"content_text": "Interesting post [explaining why str.join(generator) is worse than str.join(list) in CPython](https://berglyd.net/blog/2024/06/joining-strings-in-python/).\n",
+				"date_published": "2024-10-02T23:57:06+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/02/interesting-post-explaining.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/02/an-interesting-theory.html",
+				
+				"content_html": "<p>An interesting <a href=\"https://tidyfirst.substack.com/p/standups-individual-teammate\">theory that a daily standup is for context switching into work mode</a>.</p>\n<p>I&rsquo;m not sure I agree with this, but it at least provides a more compelling reason than &ldquo;what I did, what I&rsquo;m doing, where I&rsquo;m blocked&rdquo;. It&rsquo;s interesting to think about when considering what time of day the standup happens.</p>\n",
+				"content_text": "An interesting [theory that a daily standup is for context switching into work mode](https://tidyfirst.substack.com/p/standups-individual-teammate).\n\nI'm not sure I agree with this, but it at least provides a more compelling reason than \"what I did, what I'm doing, where I'm blocked\". It's interesting to think about when considering what time of day the standup happens.\n",
+				"date_published": "2024-10-02T23:42:41+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/02/an-interesting-theory.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/02/please-get-my.html",
+				
+				"content_html": "<p>&ldquo;<a href=\"https://aartaka.me/scrollbar\">Please, get my scrollbar back</a>&rdquo; 💯</p>\n",
+				"content_text": "\"[Please, get my scrollbar back](https://aartaka.me/scrollbar)\" 💯\n",
+				"date_published": "2024-10-02T23:37:19+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/02/please-get-my.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/02/the-extra-effort.html",
+				
+				"content_html": "<p>The extra effort to have release notes and a changelog, as <a href=\"https://nedbatchelder.com/blog/202409/changelog_philosophy.html\">described in this post on changelogs</a> is valid, but I feel it&rsquo;s time worth investing. If you don&rsquo;t care or don&rsquo;t expect any other users, just have Git log, otherwise, do it right and have release notes and a changelog.</p>\n",
+				"content_text": "The extra effort to have release notes and a changelog, as [described in this post on changelogs](https://nedbatchelder.com/blog/202409/changelog_philosophy.html) is valid, but I feel it's time worth investing. If you don't care or don't expect any other users, just have Git log, otherwise, do it right and have release notes and a changelog.\n",
+				"date_published": "2024-10-02T23:25:43+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/02/the-extra-effort.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/02/i-agree-with.html",
+				
+				"content_html": "<p>I agree with this <a href=\"https://www.harihareswara.net/posts/2024/changelogs-and-release-notes/\">explanation of changelogs vs. release notes</a>, although I think I draw the line on inconsequential changes slightly differently. This last comment:</p>\n<blockquote>\n<p>The difference between a changelog and release notes is the difference between a &ldquo;reference&rdquo; and an &ldquo;explanation&rdquo; in [<a href=\"https://diataxis.fr\">Diátaxis</a>]</p>\n</blockquote>\n<p>is interesting, though, and something to remember next time discussing this with Canonical colleagues.</p>\n",
+				"content_text": "I agree with this [explanation of changelogs vs. release notes](https://www.harihareswara.net/posts/2024/changelogs-and-release-notes/), although I think I draw the line on inconsequential changes slightly differently. This last comment:\n\n> The difference between a changelog and release notes is the difference between a \"reference\" and an \"explanation\" in [[Diátaxis](https://diataxis.fr)]\n\nis interesting, though, and something to remember next time discussing this with Canonical colleagues.\n",
+				"date_published": "2024-10-02T23:23:35+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/02/i-agree-with.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/02/good-changelog-guidance.html",
+				
+				"content_html": "<p>Good <a href=\"https://xavd.id/blog/post/effective-changelogs/\">changelog guidance</a>, except it conflates a changelog and release notes in my opinion.</p>\n",
+				"content_text": "Good [changelog guidance](https://xavd.id/blog/post/effective-changelogs/), except it conflates a changelog and release notes in my opinion.\n",
+				"date_published": "2024-10-02T23:14:15+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/02/good-changelog-guidance.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/10/02/im-not-on.html",
+				
+				"content_html": "<p>I&rsquo;m not 100% on board withh the git parts of this <a href=\"https://agateau.com/2022/your-git-log-is-not-a-changelog\">post on changelogs vs got log</a> but I definitely agreee with &ldquo;Git commit messages and changelogs have different target audiences&rdquo;.</p>\n",
+				"content_text": "I'm not 100% on board withh the git parts of this [post on changelogs vs got log](https://agateau.com/2022/your-git-log-is-not-a-changelog) but I definitely agreee with \"Git commit messages and changelogs have different target audiences\".\n",
+				"date_published": "2024-10-02T23:11:30+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/10/02/im-not-on.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/02/the-problem-with.html",
 				
 				"content_html": "<p>The problem with the &ldquo;fire fast&rdquo; part of <a href=\"https://cra.mr/fire-faster-but-hire-better/\">Fire Fast, but Hire Better</a> is that you&rsquo;re firing people. Hiring then firing someone is incredibly harmful to the fired, even when it&rsquo;s ultimately best for both sides. Keeping people that don&rsquo;t belong is bad too, so hiring better is where the focus must be.</p>\n",
@@ -1506,7 +1618,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
