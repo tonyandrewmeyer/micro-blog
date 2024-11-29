@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/11/29/interesting-and-deep.html",
+				
+				"content_html": "<p>Interesting (and deep) thoughts on <a href=\"https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await\">async/await</a> both in general and in specific languages.</p>\n",
+				"content_text": "Interesting (and deep) thoughts on [async/await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await) both in general and in specific languages.\n",
+				"date_published": "2024-11-29T23:27:11+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/11/29/interesting-and-deep.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/11/29/good-comments-on.html",
+				
+				"content_html": "<p>Good comments on <a href=\"https://newsletter.goodtechthings.com/p/the-case-against-living-in-the-bay\">working in tech outside the Bay Area</a>. The thoughts on the future of SaaS are particularly interesting (or least obvious to me, compared to the rest).</p>\n",
+				"content_text": "Good comments on [working in tech outside the Bay Area](https://newsletter.goodtechthings.com/p/the-case-against-living-in-the-bay). The thoughts on the future of SaaS are particularly interesting (or least obvious to me, compared to the rest).\n",
+				"date_published": "2024-11-29T23:09:31+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/11/29/good-comments-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/11/29/as-solar-power.html",
+				
+				"content_html": "<p>As solar power trends towards free or negative cost in places, this kind of practice where you <a href=\"https://news.mit.edu/2024/solar-powered-desalination-system-requires-no-extra-batteries-1008\">adjust systems automatically with available sun/power</a> will get more and more common, I expect.</p>\n",
+				"content_text": "As solar power trends towards free or negative cost in places, this kind of practice where you [adjust systems automatically with available sun/power](https://news.mit.edu/2024/solar-powered-desalination-system-requires-no-extra-batteries-1008) will get more and more common, I expect.\n",
+				"date_published": "2024-11-29T23:05:45+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/11/29/as-solar-power.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/11/02/this-extract-data.html",
 				
 				"content_html": "<p>This <a href=\"https://simonwillison.net/2024/Oct/17/video-scraping/#atom-everything\">extract data by making it a video and using AI to analyse the video technique</a> is clever and impressive, but also horrific and inefficient and I really hope tech turns back from this future.</p>\n",
@@ -66,7 +90,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -1642,7 +1666,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
