@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/12/18/in-plain-terms.html",
+				
+				"content_html": "<blockquote>\n<p>In plain terms, everybody is being [messed] with constantly in tiny little ways by most apps and services, and I believe that billions of people being [messed] with at once in all of these ways has profound psychological and social consequences that we’re not meaningfully discussing.</p>\n</blockquote>\n<p>As usual, long and with many swears, but I agree with much of this <a href=\"https://www.wheresyoured.at/never-forgive-them/\">&ldquo;Never Forgive Them&rdquo;</a> post (apart from, ironically, that things are unforgivable).</p>\n<p>Growth is such a bad driver, and VC is one of the biggest rotten cores.</p>\n<p>Also this:</p>\n<blockquote>\n<p>to push users into doing things that either keep them on the app longer</p>\n</blockquote>\n<p>I had this argument so many times at N-able, where there was a pervasive idea that more time using the product was good (ostensibly for the user, but really for revenue), and I continually argued that less time was, in fact, better.</p>\n",
+				"content_text": "> In plain terms, everybody is being [messed] with constantly in tiny little ways by most apps and services, and I believe that billions of people being [messed] with at once in all of these ways has profound psychological and social consequences that we’re not meaningfully discussing. \n\nAs usual, long and with many swears, but I agree with much of this [\"Never Forgive Them\"](https://www.wheresyoured.at/never-forgive-them/) post (apart from, ironically, that things are unforgivable).\n\nGrowth is such a bad driver, and VC is one of the biggest rotten cores.\n\nAlso this:\n\n> to push users into doing things that either keep them on the app longer\n\nI had this argument so many times at N-able, where there was a pervasive idea that more time using the product was good (ostensibly for the user, but really for revenue), and I continually argued that less time was, in fact, better.\n",
+				"date_published": "2024-12-18T15:12:51+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/12/18/in-plain-terms.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/12/16/handy-package-to.html",
+				
+				"content_html": "<p>Handy <a href=\"https://github.com/microsoft/markitdown\">package to convert various types of file to markdown</a>, via <a href=\"https://daringfireball.net/linked/2024/12/13/markitdown\">DF</a>.</p>\n<p>Most interesting is that this is mostly a wrapper around other tools, and which ones Microsoft has picked.</p>\n",
+				"content_text": "Handy [package to convert various types of file to markdown](https://github.com/microsoft/markitdown), via [DF](https://daringfireball.net/linked/2024/12/13/markitdown).\n\nMost interesting is that this is mostly a wrapper around other tools, and which ones Microsoft has picked.\n",
+				"date_published": "2024-12-16T20:29:58+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/12/16/handy-package-to.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2024/12/13/neat-gift-idea.html",
+				
+				"content_html": "<p>Neat gift idea:</p>\n<blockquote>\n<p>a list of some of his favourite[&hellip;] five books, five music videos, five TV shows and five movies [&hellip;]. Whenever I watched one of the recommendations I got to talk about it with him. I’ve also had success with giving a friend a voucher promising to read a book of their choice in the next year, because one of the worst feelings is reading or watching something amazing and then not having anyone to talk to about it.</p>\n</blockquote>\n<p>From the Spinoff <a href=\"https://thespinoff.co.nz/society/13-12-2024/a-gift-guide-for-people-who-really-dont-want-to-buy-shit\">gifts without buying guide</a>.</p>\n",
+				"content_text": "Neat gift idea:\n\n> a list of some of his favourite[...] five books, five music videos, five TV shows and five movies [...]. Whenever I watched one of the recommendations I got to talk about it with him. I’ve also had success with giving a friend a voucher promising to read a book of their choice in the next year, because one of the worst feelings is reading or watching something amazing and then not having anyone to talk to about it. \n\nFrom the Spinoff [gifts without buying guide](https://thespinoff.co.nz/society/13-12-2024/a-gift-guide-for-people-who-really-dont-want-to-buy-shit).\n",
+				"date_published": "2024-12-13T14:50:58+13:00",
+				"url": "https://tonyandrewmeyer.blog/2024/12/13/neat-gift-idea.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/12/06/nice-set-of.html",
 				
 				"content_html": "<p>Nice set of <a href=\"https://registerspill.thorstenball.com/p/the-basics\">&lsquo;basics&rsquo;</a> for someone working in software development.</p>\n",
@@ -186,7 +210,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -1762,7 +1786,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
