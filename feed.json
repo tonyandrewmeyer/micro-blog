@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/01/14/in-this-post-on-executive.html",
+				
+				"content_html": "<p>In this post on <a href=\"https://ludic.mataroa.blog/blog/brainwash-an-executive-today/\">executive purchasing</a> there&rsquo;s this bit that rings so true:</p>\n<blockquote>\n<p>Software engineering and other specialties of a technical bent (including artists, writers, etc.) have the additional barrier that our skills are testable to some degree, but this is not the case for most senior management and executive roles. In those roles, it is essentially impossible to work out whether someone&rsquo;s tenure as a manager or executive was useful.</p>\n</blockquote>\n",
+				"content_text": "In this post on [executive purchasing](https://ludic.mataroa.blog/blog/brainwash-an-executive-today/) there's this bit that rings so true:\n\n> Software engineering and other specialties of a technical bent (including artists, writers, etc.) have the additional barrier that our skills are testable to some degree, but this is not the case for most senior management and executive roles. In those roles, it is essentially impossible to work out whether someone's tenure as a manager or executive was useful.\n",
+				"date_published": "2025-01-14T14:12:25+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/01/14/in-this-post-on-executive.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/12/23/mozi-feels-like-one-of.html",
 				
 				"content_html": "<p><a href=\"https://ev.medium.com/making-social-social-again-0126fa5c6ce8\">Mozi</a> feels like one of those tools built by a group of people who just don&rsquo;t live in the same world as most of us.</p>\n<p>A reimagined social networking (not media) that is like a next level contacts plus calendar would be great. But I want it for the people in my local area, not people I might see once a year. And it needs to be way more seamless.</p>\n",
@@ -242,7 +250,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -1818,7 +1826,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
