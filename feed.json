@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/03/22/nice-reworking-of-the-famous.html",
+				
+				"content_html": "<p>Nice <a href=\"https://mtlynch.io/no-longer-my-favorite-git-commit/\">reworking of the famous &lsquo;favourite commit message&rsquo;</a>.</p>\n",
+				"content_text": "Nice [reworking of the famous 'favourite commit message'](https://mtlynch.io/no-longer-my-favorite-git-commit/).\n",
+				"date_published": "2025-03-22T15:25:01+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/03/22/nice-reworking-of-the-famous.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/01/25/interesting-comments-on-cvss-with.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/\">comments on CVSS with regards to curl</a>.</p>\n<p>I’ve used CVSS much more than published but also find them frustrating when there is expert local knowledge fighting with broad corporate policy. They’re fine as a component in figuring out risk but not the one answer.</p>\n",
+				"content_text": "Interesting [comments on CVSS with regards to curl](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/).\n\nI’ve used CVSS much more than published but also find them frustrating when there is expert local knowledge fighting with broad corporate policy. They’re fine as a component in figuring out risk but not the one answer.\n",
+				"date_published": "2025-01-25T08:53:28+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/01/25/interesting-comments-on-cvss-with.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2025/01/25/in-the-name-of-security.html",
 				
 				"content_html": "<blockquote>\n<p>In the name of security, we&rsquo;re pushed to having dependencies and keeping them up to date, despite most of those dependencies being the primary source of security problems.</p>\n</blockquote>\n<p>And</p>\n<blockquote>\n<p>The goal of code in many ways should be to be written in a way that it does not need updates. It should eventually achieve some level of stability.</p>\n</blockquote>\n<p>From <a href=\"https://lucumr.pocoo.org/2025/1/24/build-it-yourself\">“Build it Yourself”</a></p>\n<p>The other thing I increasingly see is pulling in a big library when needing a small chunk of it. Somewhat similar to:</p>\n<blockquote>\n<p>when you end up using one function, but you compile hundreds, some alarm bell should go off</p>\n</blockquote>\n",
@@ -258,7 +274,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -1834,7 +1850,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
