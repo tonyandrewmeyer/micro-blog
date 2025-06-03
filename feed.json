@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/06/03/i-mostly-read-simon-willison.html",
+				
+				"content_html": "<p>I mostly read <a href=\"https://simonwillison.net\">Simon Willison</a> (for the pro &amp; practical side) and <a href=\"https://www.wheresyoured.at\">Ed Zitron</a> (for the anti &amp; economic side) but this is <a href=\"https://fly.io/blog/youre-all-nuts/\">a good take of LLMs in coding</a>.</p>\n",
+				"content_text": "I mostly read [Simon Willison](https://simonwillison.net) (for the pro & practical side) and [Ed Zitron](https://www.wheresyoured.at) (for the anti & economic side) but this is [a good take of LLMs in coding](https://fly.io/blog/youre-all-nuts/).\n",
+				"date_published": "2025-06-03T14:20:24+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/06/03/i-mostly-read-simon-willison.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/04/04/whatever-the-chocolate-milk-version.html",
+				
+				"content_html": "<p>Whatever the chocolate milk version of nerd-sniping is, <a href=\"https://thespinoff.co.nz/kai/04-04-2025/every-chocolate-milk-in-new-zealand-ranked-from-worst-to-best\">this is it</a>.</p>\n<p>I have never seen Drink Da Milgy, so will keep my eye out for that. I don&rsquo;t remember having Bickfords Iced Chocolate Almond Milk. They missed Green Valley, but I&rsquo;ve also not managed to find that. I think it&rsquo;s wrong to include protein drinks but exclude mixes (Quarterpast and the like).</p>\n<p>Outside that, this is the right order:</p>\n<ol start=\"15\">\n<li>Shnack Choloate Brownie (not ranked)</li>\n<li>Up &amp; Go Choc Ice (13)</li>\n<li>Meadow Fresh Quick Brekkie (11)</li>\n<li>Up &amp; Go Protein Energize (10)</li>\n<li>Tararua Dairy Co. Protein Hit (16)</li>\n<li>Little Island Creamy (3)</li>\n<li>So Good Chocolate Oat (2)</li>\n<li>Oak Chocolate (7)</li>\n<li>Otis Oak Milk (12)</li>\n<li>Anchor CalciYum (14)</li>\n<li>Primo Supremo (5)</li>\n<li>Lewis Road (6) (their strawberry is the best)</li>\n<li>Nippy&rsquo;s (1)</li>\n<li>Meadow Fresh Calci Strong (8)</li>\n<li>Puhoi Valley (9)</li>\n</ol>\n",
+				"content_text": "Whatever the chocolate milk version of nerd-sniping is, [this is it](https://thespinoff.co.nz/kai/04-04-2025/every-chocolate-milk-in-new-zealand-ranked-from-worst-to-best).\n\nI have never seen Drink Da Milgy, so will keep my eye out for that. I don't remember having Bickfords Iced Chocolate Almond Milk. They missed Green Valley, but I've also not managed to find that. I think it's wrong to include protein drinks but exclude mixes (Quarterpast and the like).\n\nOutside that, this is the right order:\n\n15. Shnack Choloate Brownie (not ranked)\n14. Up & Go Choc Ice (13)\n13. Meadow Fresh Quick Brekkie (11)\n12. Up & Go Protein Energize (10)\n11. Tararua Dairy Co. Protein Hit (16)\n10. Little Island Creamy (3)\n9. So Good Chocolate Oat (2)\n8. Oak Chocolate (7)\n7. Otis Oak Milk (12)\n6. Anchor CalciYum (14)\n5. Primo Supremo (5)\n4. Lewis Road (6) (their strawberry is the best)\n3. Nippy's (1)\n2. Meadow Fresh Calci Strong (8)\n1. Puhoi Valley (9)\n",
+				"date_published": "2025-04-04T09:12:19+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/04/04/whatever-the-chocolate-milk-version.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2025/03/31/the-story-of-slack-continues.html",
 				
 				"content_html": "<p>The <a href=\"https://buildingslack.com/the-master-plan/\">story of Slack continues</a> and is now at a point when Slack arguably started to deteriorate. Interesting to read the positively-put background of the time.</p>\n",
