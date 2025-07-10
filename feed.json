@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/07/11/fun-story-of-the-development.html",
+				
+				"content_html": "<p>Fun story of the <a href=\"https://www.engineersneedart.com/blog/almostfired/almostfired.html\">development of several colour pickers at Apple at the end of the &rsquo;90s</a>.</p>\n",
+				"content_text": "Fun story of the [development of several colour pickers at Apple at the end of the '90s](https://www.engineersneedart.com/blog/almostfired/almostfired.html).\n",
+				"date_published": "2025-07-11T10:44:11+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/07/11/fun-story-of-the-development.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2025/06/26/very-well-written-counterpoint-to.html",
 				
 				"content_html": "<p>Very well written <a href=\"https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/\">counterpoint</a> to the recent <a href=\"https://fly.io/blog/youre-all-nuts/\">fly.io post on AI</a>.</p>\n",
