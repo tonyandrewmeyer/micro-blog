@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/08/03/some-will-tell-you-to.html",
+				
+				"content_html": "<p><a href=\"https://blog.jsbarretto.com/blog/software-is-joy/?&amp;aid=recRV94vz0xz4eTE6&amp;_bhlid=e5409cfe0451c8bbdd49dc311f994b96d1f21b3a\">&ldquo;Some will tell you to avoid reinventing the wheel, but they’re wrong: you should build your own wheel, because it’ll teach you more about how they work than reading a thousand books on them ever will&rdquo;</a>.</p>\n",
+				"content_text": "[\"Some will tell you to avoid reinventing the wheel, but they’re wrong: you should build your own wheel, because it’ll teach you more about how they work than reading a thousand books on them ever will\"](https://blog.jsbarretto.com/blog/software-is-joy/?&aid=recRV94vz0xz4eTE6&_bhlid=e5409cfe0451c8bbdd49dc311f994b96d1f21b3a).\n",
+				"date_published": "2025-08-03T19:47:51+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/08/03/some-will-tell-you-to.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/07/28/however-as-someone-whos-used.html",
+				
+				"content_html": "<p><a href=\"https://www.fastcompany.com/91373393/ipados-26-public-beta\">&ldquo;However, as someone who’s used an iPad as my main computer for almost 14 years, I can’t join the chorus of unbridled enthusiasm for iPadOS 26’s embrace of Mac conventions such as floating, overlapping windows and a menu bar at the top of the screen.&quot;</a></p>\n<p>I haven&rsquo;t used it yet, so it&rsquo;s hard to really judge, but this is my feeling too, as some who used an iPad as my main computer for about a decade.</p>\n",
+				"content_text": "[\"However, as someone who’s used an iPad as my main computer for almost 14 years, I can’t join the chorus of unbridled enthusiasm for iPadOS 26’s embrace of Mac conventions such as floating, overlapping windows and a menu bar at the top of the screen.\"](https://www.fastcompany.com/91373393/ipados-26-public-beta)\n\nI haven't used it yet, so it's hard to really judge, but this is my feeling too, as some who used an iPad as my main computer for about a decade.\n",
+				"date_published": "2025-07-28T01:06:41+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/07/28/however-as-someone-whos-used.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/07/26/in-matters-of-romance-destinys.html",
+				
+				"content_html": "<p>&ldquo;In matters of romance, destiny&rsquo;s role was overstated. Most of the magic was in how any two vaguely suited people could discover the wonder of each other if given space and time. &hellip; Accepting that truth both took away some of the enchantment in love, the romance book type of magic, and added a different kind of wonder in its place, one that perhaps made you a better person.&rdquo; &ndash; The Book That Held Her Heart (Mark Lawrence)</p>\n",
+				"content_text": "\"In matters of romance, destiny's role was overstated. Most of the magic was in how any two vaguely suited people could discover the wonder of each other if given space and time. ... Accepting that truth both took away some of the enchantment in love, the romance book type of magic, and added a different kind of wonder in its place, one that perhaps made you a better person.\" -- The Book That Held Her Heart (Mark Lawrence)\n",
+				"date_published": "2025-07-26T14:33:41+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/07/26/in-matters-of-romance-destinys.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/07/25/interesting-predictions-about-the-next.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://awful.systems/post/5038263\">predictions about the next AI winter</a>.</p>\n<p>I think the neutral value point is overstated - lots of people (outside tech) are pretty positive still, and the bubble popping will only partly counter that. I do think there will be a small move towards bad.</p>\n<p>Tech crash: 100%</p>\n<p>Scrapers: yes, seems very likely. I suspect a rise in ways to purchase data from high quality, human generated, content stores.</p>\n<p>Mockery: like the first one, I&rsquo;m less sure. Yeah, there&rsquo;s plenty of this, but there&rsquo;s also a lot of amazement, and I think it will wash out a bit.</p>\n",
+				"content_text": "Interesting [predictions about the next AI winter](https://awful.systems/post/5038263).\n\nI think the neutral value point is overstated - lots of people (outside tech) are pretty positive still, and the bubble popping will only partly counter that. I do think there will be a small move towards bad.\n\nTech crash: 100%\n\nScrapers: yes, seems very likely. I suspect a rise in ways to purchase data from high quality, human generated, content stores.\n\nMockery: like the first one, I'm less sure. Yeah, there's plenty of this, but there's also a lot of amazement, and I think it will wash out a bit.\n",
+				"date_published": "2025-07-25T19:00:07+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/07/25/interesting-predictions-about-the-next.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/07/25/i-wish-there-was-a.html",
+				
+				"content_html": "<p>I wish there was a New Zealand Sovereign Tech Fund. It seems like there is obvious merit. I love the appendix in <a href=\"https://daniel.haxx.se/blog/2025/07/23/eu-stf-for-funding-critical-open-source/\">this post about the EU one</a>.</p>\n",
+				"content_text": "I wish there was a New Zealand Sovereign Tech Fund. It seems like there is obvious merit. I love the appendix in [this post about the EU one](https://daniel.haxx.se/blog/2025/07/23/eu-stf-for-funding-critical-open-source/).\n",
+				"date_published": "2025-07-25T18:48:38+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/07/25/i-wish-there-was-a.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2025/07/11/fun-story-of-the-development.html",
 				
 				"content_html": "<p>Fun story of the <a href=\"https://www.engineersneedart.com/blog/almostfired/almostfired.html\">development of several colour pickers at Apple at the end of the &rsquo;90s</a>.</p>\n",
@@ -546,7 +586,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -2122,7 +2162,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
