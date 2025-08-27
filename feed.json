@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/08/27/terrible-name-but-awesome-tool.html",
+				
+				"content_html": "<p>Terrible name, but awesome <a href=\"https://github.com/bgreenwell/doxx\">tool for working with .docx files in a terminal</a>.</p>\n",
+				"content_text": "Terrible name, but awesome [tool for working with .docx files in a terminal](https://github.com/bgreenwell/doxx).\n",
+				"date_published": "2025-08-27T21:56:11+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/08/27/terrible-name-but-awesome-tool.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2025/08/06/this-quality-of-flattery-reinforcement.html",
 				
 				"content_html": "<p><a href=\"https://maggieappleton.com/ai-enlightenment/\">&ldquo;This quality – of flattery, reinforcement of established beliefs, intellectual passivity, and positive feedback at all costs – is also what irks me most about the behaviour of current models.&quot;</a> - this is one of my biggest annoyances too. Lots of other really good content in this post.</p>\n",
