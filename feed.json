@@ -1,11 +1,19 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Tony Meyer",
-	"icon": "https://micro.blog/tonyandrewmeyer/avatar.jpg",
+	"icon": "https://www.gravatar.com/avatar/929fba6f82f04811b09c16df239bbb21?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
 	"home_page_url": "https://tonyandrewmeyer.blog/",
 	"feed_url": "https://tonyandrewmeyer.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/20/this-is-the-first-rule.html",
+				
+				"content_html": "<blockquote>\n<p>This is the first rule of strategy: strategy is contextual. A crucial insight, because often when leaders fail, it’s because they tried to apply a strategy that worked in one context, to a different one, without considering the difference.\nThis is true when you change companies, and I think the reason why there is such a high failure rate for executive hires*. Ones I’ve watched fail came in with a playbook, usually including the org chart they wanted, and expended all the goodwill and capital in pursuit of that goal, whilst achieving very little.</p>\n</blockquote>\n<p><a href=\"https://cate.blog/2025/09/23/getting-more-strategic/\">&ldquo;Getting more strategic&rdquo;</a></p>\n",
+				"content_text": "> This is the first rule of strategy: strategy is contextual. A crucial insight, because often when leaders fail, it’s because they tried to apply a strategy that worked in one context, to a different one, without considering the difference.\n> This is true when you change companies, and I think the reason why there is such a high failure rate for executive hires*. Ones I’ve watched fail came in with a playbook, usually including the org chart they wanted, and expended all the goodwill and capital in pursuit of that goal, whilst achieving very little.\n\n[\"Getting more strategic\"](https://cate.blog/2025/09/23/getting-more-strategic/)\n",
+				"date_published": "2025-11-20T11:10:59+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/20/this-is-the-first-rule.html"
+			},
 			{
 				"id": "http://tonyandrewmeyer.micro.blog/2025/08/27/terrible-name-but-awesome-tool.html",
 				
@@ -617,7 +625,7 @@
 			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
-				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
@@ -2193,7 +2201,7 @@
 			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
-				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
