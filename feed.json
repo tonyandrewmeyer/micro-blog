@@ -1,11 +1,187 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Tony Meyer",
-	"icon": "https://www.gravatar.com/avatar/929fba6f82f04811b09c16df239bbb21?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+	"icon": "https://micro.blog/tonyandrewmeyer/avatar.jpg",
 	"home_page_url": "https://tonyandrewmeyer.blog/",
 	"feed_url": "https://tonyandrewmeyer.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/12/excellent-very-detailed-slightly-repetitive.html",
+				
+				"content_html": "<p>Excellent, very detailed (slightly repetitive), <a href=\"https://iankduncan.com/engineering/2025-12-01-punycode/\">write up of the punycode algorithm and why it is designed the way it is</a>, including a nice step-by-step visualiser with examples.</p>\n",
+				"content_text": "Excellent, very detailed (slightly repetitive), [write up of the punycode algorithm and why it is designed the way it is](https://iankduncan.com/engineering/2025-12-01-punycode/), including a nice step-by-step visualiser with examples.\n",
+				"date_published": "2025-12-12T20:17:28+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/12/excellent-very-detailed-slightly-repetitive.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/10/info-on-the-canadaspends-site.html",
+				
+				"content_html": "<p><a href=\"https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything\">Info on the CanadaSpends site</a> - I&rsquo;m not sure if government spending data is in the <a href=\"https://explore.data.stats.govt.nz\">Aotearoa Data Explorer</a>, but it would be nice if it was (it doesn&rsquo;t seem to be in the list).</p>\n<p>I wonder if &lsquo;boring&rsquo; tech like sqlite with &lsquo;simple&rsquo; tools like datasette would work better than whatever it is that ADE is using. I do like that stats.govt.nz offers CSV and other data types as well as the explorer, and offers and API.</p>\n",
+				"content_text": "[Info on the CanadaSpends site](https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything) - I'm not sure if government spending data is in the [Aotearoa Data Explorer](https://explore.data.stats.govt.nz), but it would be nice if it was (it doesn't seem to be in the list).\n\nI wonder if 'boring' tech like sqlite with 'simple' tools like datasette would work better than whatever it is that ADE is using. I do like that stats.govt.nz offers CSV and other data types as well as the explorer, and offers and API.\n",
+				"date_published": "2025-12-10T14:07:40+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/10/info-on-the-canadaspends-site.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/03/a-nice-dive-into-different.html",
+				
+				"content_html": "<p>A <a href=\"https://austinhenley.com/blog/vowels.html\">nice dive into different ways of checking if a vowel is in a string</a>. Make sure to read to the very end for the best answers.</p>\n",
+				"content_text": "A [nice dive into different ways of checking if a vowel is in a string](https://austinhenley.com/blog/vowels.html). Make sure to read to the very end for the best answers.\n",
+				"date_published": "2025-12-03T20:25:12+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/03/a-nice-dive-into-different.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/03/a-great-set-of-simple.html",
+				
+				"content_html": "<p>A <a href=\"https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/\">great set of simple scripts</a>.</p>\n",
+				"content_text": "A [great set of simple scripts](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/).\n",
+				"date_published": "2025-12-03T20:05:16+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/03/a-great-set-of-simple.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/03/for-the-most-part-anything.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://simonwillison.net/2025/Oct/25/coding-agent-tips/\">For the most part anything that makes a codebase easier for humans to maintain turns out to help agents as well.</a></p>\n</blockquote>\n<p>I would add to this: keep files small where possible. The agents won&rsquo;t load above a certain size, and it&rsquo;s simpler to have well defined files than for the agent to try to search through and file relevant parts.</p>\n",
+				"content_text": "> [For the most part anything that makes a codebase easier for humans to maintain turns out to help agents as well.](https://simonwillison.net/2025/Oct/25/coding-agent-tips/)\n\nI would add to this: keep files small where possible. The agents won't load above a certain size, and it's simpler to have well defined files than for the agent to try to search through and file relevant parts.\n",
+				"date_published": "2025-12-03T18:56:10+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/03/for-the-most-part-anything.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/03/interesting-writeup-of-a-hack.html",
+				
+				"content_html": "<p><a href=\"https://cra.mr/unreal-engine-isnt-ready-for-ai/\">Interesting write-up of a hack week project to use agentic coding to build a game using Unreal engine</a>.</p>\n",
+				"content_text": "[Interesting write-up of a hack week project to use agentic coding to build a game using Unreal engine](https://cra.mr/unreal-engine-isnt-ready-for-ai/).\n",
+				"date_published": "2025-12-03T18:07:08+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/03/interesting-writeup-of-a-hack.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/03/i-think-sometimes-people-lose.html",
+				
+				"content_html": "<blockquote>\n<p>I think sometimes people lose the scale of just how big a 10x improvement is. 10x is the difference between your mini-van and a record setting supersonic land jet. Imagine trying to drive your 10 minute commute down your city streets in a car that goes 600mph. Will you get to the other side of town in one tenth the time? No, because even a single 60 second stoplight will eat up your entire time budget. F1 cars slow down to mini-van speeds in basic turns. It turns out that most of any activity is not spent going at top speed.</p>\n</blockquote>\n<p><a href=\"https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/\">&ldquo;No, AI is not Making Engineers 10x as Productive&rdquo;</a></p>\n",
+				"content_text": "> I think sometimes people lose the scale of just how big a 10x improvement is. 10x is the difference between your mini-van and a record setting supersonic land jet. Imagine trying to drive your 10 minute commute down your city streets in a car that goes 600mph. Will you get to the other side of town in one tenth the time? No, because even a single 60 second stoplight will eat up your entire time budget. F1 cars slow down to mini-van speeds in basic turns. It turns out that most of any activity is not spent going at top speed.\n\n[\"No, AI is not Making Engineers 10x as Productive\"](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)\n",
+				"date_published": "2025-12-03T17:45:36+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/03/i-think-sometimes-people-lose.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/03/this-is-why-im-still.html",
+				
+				"content_html": "<blockquote>\n<p>This is why I’m still tepid on agentic pull requests. In my experience, agents still need a human in the loop to validate changes &amp; unblock errors. PRs lengthen that loop, which slows you down (you now must check out a branch &amp; build it to validate any changes).</p>\n</blockquote>\n<p>Also my experience.</p>\n<p><a href=\"https://ben.stolovitz.com/posts/how_use_ai_oct_2025/\">Source</a>.</p>\n",
+				"content_text": "> This is why I’m still tepid on agentic pull requests. In my experience, agents still need a human in the loop to validate changes & unblock errors. PRs lengthen that loop, which slows you down (you now must check out a branch & build it to validate any changes).\n\nAlso my experience.\n\n[Source](https://ben.stolovitz.com/posts/how_use_ai_oct_2025/).\n",
+				"date_published": "2025-12-03T17:24:35+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/03/this-is-why-im-still.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/03/i-am-an-ai-hater.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"http://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html\">I am an AI hater. This is considered rude, but I do not care, because I am a hater.</a></p>\n</blockquote>\n",
+				"content_text": "> [I am an AI hater. This is considered rude, but I do not care, because I am a hater.](http://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)\n",
+				"date_published": "2025-12-03T16:47:02+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/03/i-am-an-ai-hater.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/28/interesting-deep-dive-into-s.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://blog.codingconfessions.com/p/old-python-performance-trick\">deep dive into 3.11&rsquo;s specialising adaptive interpreter and how it reduces most of the need to use local aliases for performance</a>.</p>\n",
+				"content_text": "Interesting [deep dive into 3.11's specialising adaptive interpreter and how it reduces most of the need to use local aliases for performance](https://blog.codingconfessions.com/p/old-python-performance-trick).\n",
+				"date_published": "2025-11-28T23:20:50+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/28/interesting-deep-dive-into-s.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/28/on-code-review-how-to.html",
+				
+				"content_html": "<p>On code review:</p>\n<ul>\n<li><a href=\"https://endler.dev/2025/how-to-review-code/\">How to review code</a></li>\n<li><a href=\"https://mtlynch.io/code-review-love/\">How to make your code reviewer fall in love with you</a></li>\n<li><a href=\"https://www.seangoedecke.com/good-code-reviews/\">Mistakes I see engineers making in their code reciews</a></li>\n</ul>\n",
+				"content_text": "On code review:\n\n* [How to review code](https://endler.dev/2025/how-to-review-code/)\n* [How to make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/)\n* [Mistakes I see engineers making in their code reciews](https://www.seangoedecke.com/good-code-reviews/)\n",
+				"date_published": "2025-11-28T23:06:23+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/28/on-code-review-how-to.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/28/you-are-not-a-usb.html",
+				
+				"content_html": "<blockquote>\n<p>You are not a USB stick</p>\n</blockquote>\n<p>A <a href=\"https://horacebianchon.substack.com/p/youre-not-supposed-to-remember-the-book\">great write-up of why remembering the content of a book, fiction or non-fiction, is not the point</a>.</p>\n",
+				"content_text": "> You are not a USB stick\n\nA [great write-up of why remembering the content of a book, fiction or non-fiction, is not the point](https://horacebianchon.substack.com/p/youre-not-supposed-to-remember-the-book).\n",
+				"date_published": "2025-11-28T22:47:15+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/28/you-are-not-a-usb.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/28/the-most-important-parenting-skill.html",
+				
+				"content_html": "<blockquote>\n<p>the most important parenting skill isn’t being perfect — it’s repair. When you inevitably lose your patience with your kid or handle something poorly, what matters most is going back and fixing it. Acknowledging what happened, taking responsibility, and reconnecting.</p>\n<p>Sound familiar? Because that’s what good management is about too.(<a href=\"https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/\">terriblesoftware.org</a>.)</p>\n</blockquote>\n<p>And not just management, but good relationships in general.</p>\n",
+				"content_text": "> the most important parenting skill isn’t being perfect — it’s repair. When you inevitably lose your patience with your kid or handle something poorly, what matters most is going back and fixing it. Acknowledging what happened, taking responsibility, and reconnecting.\n>\n> Sound familiar? Because that’s what good management is about too.([terriblesoftware.org](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/).)\n\nAnd not just management, but good relationships in general.\n",
+				"date_published": "2025-11-28T22:41:40+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/28/the-most-important-parenting-skill.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/28/in-my-experience-these-suggestions.html",
+				
+				"content_html": "<p>In my experience, these <a href=\"https://buildingslack.com/you-asked-what-is-the-the-right-way-to-use-slack/\">suggestions for how to best use Slack</a> apply to Slack but also any other similar messaging platform.</p>\n",
+				"content_text": "In my experience, these [suggestions for how to best use Slack](https://buildingslack.com/you-asked-what-is-the-the-right-way-to-use-slack/) apply to Slack but also any other similar messaging platform.\n",
+				"date_published": "2025-11-28T22:06:10+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/28/in-my-experience-these-suggestions.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/28/unlike-some-of-the-earlier.html",
+				
+				"content_html": "<p>Unlike some of the earlier posts, <a href=\"https://buildingslack.com/going-public-part-one/\">Going Public</a> is a bit over the top about how wonderful Slack was.</p>\n<p>One example: just because people didn&rsquo;t complain about the rebranding for long doesn&rsquo;t mean it was good. Just that it&rsquo;s unimportant.</p>\n",
+				"content_text": "Unlike some of the earlier posts, [Going Public](https://buildingslack.com/going-public-part-one/) is a bit over the top about how wonderful Slack was.\n\nOne example: just because people didn't complain about the rebranding for long doesn't mean it was good. Just that it's unimportant.\n",
+				"date_published": "2025-11-28T21:52:03+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/28/unlike-some-of-the-earlier.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/28/ai-and-money-like-a.html",
+				
+				"content_html": "<p><a href=\"https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/\">AI and money</a>, like a shorter and less angry Zitron.</p>\n",
+				"content_text": "[AI and money](https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/), like a shorter and less angry Zitron.\n",
+				"date_published": "2025-11-28T21:43:16+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/28/ai-and-money-like-a.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/20/you-no-longer-need-javascript.html",
+				
+				"content_html": "<p><a href=\"https://lyra.horse/blog/2025/08/you-dont-need-js/\">You no longer need JavaScript</a></p>\n",
+				"content_text": "[You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/)\n",
+				"date_published": "2025-11-20T16:04:58+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/20/you-no-longer-need-javascript.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/20/even-if-the-ai-bubble.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://berthub.eu/articles/posts/an-ai-premortem/\">even if the AI bubble bursts, LLMs can do some amazing things, despite not being overly useful in a business sense while also often being very wrong. Meanwhile, the other parts of AI have already led to a Nobel prize, and are doing astounding things for translation, transcription and image analysis. The AI bubble collapsing has no bearing on that this is some very impressive technology&hellip;. AI is not going away, and we’d be fools to disregard it because everyone overhyped it enormously while ruining the economy</a></p>\n</blockquote>\n<p>I wish more people were willing to separate the bubble from usefulness and other issues.</p>\n",
+				"content_text": "> [even if the AI bubble bursts, LLMs can do some amazing things, despite not being overly useful in a business sense while also often being very wrong. Meanwhile, the other parts of AI have already led to a Nobel prize, and are doing astounding things for translation, transcription and image analysis. The AI bubble collapsing has no bearing on that this is some very impressive technology.... AI is not going away, and we’d be fools to disregard it because everyone overhyped it enormously while ruining the economy](https://berthub.eu/articles/posts/an-ai-premortem/)\n\nI wish more people were willing to separate the bubble from usefulness and other issues.\n",
+				"date_published": "2025-11-20T13:19:40+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/20/even-if-the-ai-bubble.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/20/short-summary-of-the-work.html",
+				
+				"content_html": "<p><a href=\"https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/\">Short summary of the work put into developing pylock.toml</a>.</p>\n",
+				"content_text": "[Short summary of the work put into developing pylock.toml](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/).\n",
+				"date_published": "2025-11-20T13:05:10+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/20/short-summary-of-the-work.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/20/there-are-no-weird-files.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://lucumr.pocoo.org/2025/9/29/90-percent/\">There are no weird files that shouldn’t belong there, no duplicate implementations, and no emojis all over the place. The comments still follow the style I want and, crucially, often aren’t there. I pay close attention to the fundamentals of system architecture, code layout, and database interaction. I’m incredibly opinionated. As a result, there are certain things I don’t let the AI do. I know it won’t reach the point where I could sign off on a commit. That’s why it’s not 100%.</a></p>\n</blockquote>\n<p>These models are trained on existing code. Who has been shoving emojis everywhere and writing rubbish and unnecessary comments for the last decade or two? They have much to answer for.</p>\n",
+				"content_text": "> [There are no weird files that shouldn’t belong there, no duplicate implementations, and no emojis all over the place. The comments still follow the style I want and, crucially, often aren’t there. I pay close attention to the fundamentals of system architecture, code layout, and database interaction. I’m incredibly opinionated. As a result, there are certain things I don’t let the AI do. I know it won’t reach the point where I could sign off on a commit. That’s why it’s not 100%.](https://lucumr.pocoo.org/2025/9/29/90-percent/)\n\nThese models are trained on existing code. Who has been shoving emojis everywhere and writing rubbish and unnecessary comments for the last decade or two? They have much to answer for.\n",
+				"date_published": "2025-11-20T12:47:24+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/20/there-are-no-weird-files.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/20/interesting-insight-into-the-early.html",
+				
+				"content_html": "<p><a href=\"https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built\">Interesting insight into the early development of Claude Code</a>.</p>\n<p>When Toad is released, it will be interesting to compare. My guess is that something that is potentially built with the help of agents but is way more hand crafted with deep terminal knowledge is going to blow away the Claude Code &ldquo;vibe code me a markdown renderer&rdquo; approach.</p>\n",
+				"content_text": "[Interesting insight into the early development of Claude Code](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built).\n\nWhen Toad is released, it will be interesting to compare. My guess is that something that is potentially built with the help of agents but is way more hand crafted with deep terminal knowledge is going to blow away the Claude Code \"vibe code me a markdown renderer\" approach.\n",
+				"date_published": "2025-11-20T12:45:01+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/20/interesting-insight-into-the-early.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/11/20/nice-summary-of-the-state.html",
+				
+				"content_html": "<p><a href=\"https://sinon.github.io/future-python-type-checkers/\">Nice summary of the state of Python type checking tools in mid 2025</a>.</p>\n",
+				"content_text": "[Nice summary of the state of Python type checking tools in mid 2025](https://sinon.github.io/future-python-type-checkers/).\n",
+				"date_published": "2025-11-20T11:15:51+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/11/20/nice-summary-of-the-state.html"
+			},
 			{
 				"id": "http://tonyandrewmeyer.micro.blog/2025/11/20/this-is-the-first-rule.html",
 				
@@ -625,7 +801,7 @@
 			{
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
-				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
@@ -2201,7 +2377,7 @@
 			{
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
-				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
