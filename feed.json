@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/14/ive-been-remote-working-for.html",
+				
+				"content_html": "<p>I&rsquo;ve been remote working for 20 years (!) now, for companies that have had a range of approaches. <a href=\"https://linear.app/now/designing-remote-work-at-linear\">Based on this post from Linear</a>, they&rsquo;re doing it pretty well. A lot (not the &ldquo;how we work&rdquo; section)is pretty similar to Canonical, who also have it mostly right (and at 10x the scale).</p>\n",
+				"content_text": "I've been remote working for 20 years (!) now, for companies that have had a range of approaches. [Based on this post from Linear](https://linear.app/now/designing-remote-work-at-linear), they're doing it pretty well. A lot (not the \"how we work\" section)is pretty similar to Canonical, who also have it mostly right (and at 10x the scale).\n",
+				"date_published": "2025-12-14T19:02:11+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/14/ive-been-remote-working-for.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/12/good-advice-for-reviewing-documents.html",
+				
+				"content_html": "<p><a href=\"https://lethain.com/providing-feedback-on-writing/?&amp;aid=rec0G1wJan7OXJWMX&amp;_bhlid=3f36155db13212618d48f169ae301e87e5e9656c\">Good advice for reviewing documents</a>.</p>\n<p>Regarding this final aside:</p>\n<blockquote>\n<p>II think the user experience around commenting on documents is fundamentally wrong in most document editors. &hellip; Ultimately, you want to collect all your comments into a bundle, then review that bundle for consistency and duplicates, and then submit that bundle as commentary, but editors don’t support that flow particularly well.</p>\n</blockquote>\n<p>I&rsquo;ve made this argument (and others!) against using Google Docs for this type of document and review before and have consistently lost the argument. What does have this flow? GitHub pull requests.</p>\n",
+				"content_text": "[Good advice for reviewing documents](https://lethain.com/providing-feedback-on-writing/?&aid=rec0G1wJan7OXJWMX&_bhlid=3f36155db13212618d48f169ae301e87e5e9656c).\n\nRegarding this final aside:\n\n> II think the user experience around commenting on documents is fundamentally wrong in most document editors. ... Ultimately, you want to collect all your comments into a bundle, then review that bundle for consistency and duplicates, and then submit that bundle as commentary, but editors don’t support that flow particularly well.\n\nI've made this argument (and others!) against using Google Docs for this type of document and review before and have consistently lost the argument. What does have this flow? GitHub pull requests.\n",
+				"date_published": "2025-12-12T23:50:57+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/12/good-advice-for-reviewing-documents.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/12/my-previous-email-was-sent.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://sethmlarson.dev/email-has-algorithmic-curation-too?utm_campaign=rss\">My previous email was sent to the Spam folder for at least Gmail, and from reading the email I am not sure why this would be the case. &hellip; Reliable communication technologies like RSS are the answer.</a></p>\n</blockquote>\n<p>The subscription technology isn&rsquo;t the issue here. The defining characteristic of email is that it&rsquo;s open: anyone can add to your inbox if they have your address. With RSS, I have to explicitly allow new entries into my reader (a feed at a time). You can do that with email too: just add the sender to an allow list, and have that only work if the sender is verified (DMARC). Unfortunately, email client development stagnated and we don&rsquo;t have good tooling for this.</p>\n<p>RSS reader somewhat stagnated too, but seems to attract more indy love than email client development. Or more successful development, anyway.</p>\n<p>(For what it&rsquo;s worth, I do subscribe to his blog via RSS. My recommendation is <a href=\"https://netnewswire.com\">NetNewsWire</a>.)</p>\n",
+				"content_text": "> [My previous email was sent to the Spam folder for at least Gmail, and from reading the email I am not sure why this would be the case. ... Reliable communication technologies like RSS are the answer.](https://sethmlarson.dev/email-has-algorithmic-curation-too?utm_campaign=rss)\n\nThe subscription technology isn't the issue here. The defining characteristic of email is that it's open: anyone can add to your inbox if they have your address. With RSS, I have to explicitly allow new entries into my reader (a feed at a time). You can do that with email too: just add the sender to an allow list, and have that only work if the sender is verified (DMARC). Unfortunately, email client development stagnated and we don't have good tooling for this.\n\nRSS reader somewhat stagnated too, but seems to attract more indy love than email client development. Or more successful development, anyway.\n\n(For what it's worth, I do subscribe to his blog via RSS. My recommendation is [NetNewsWire](https://netnewswire.com).)\n",
+				"date_published": "2025-12-12T23:44:25+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/12/my-previous-email-was-sent.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/12/scenariobased-planning-tends-to-work.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://jacobian.org/2025/aug/8/two-scenario-threat-modeling/\">Scenario-based planning tends to work really well because human beings are great at telling and remembering stories. We think in narratives, stories prime our imagination. It’s easy for us to keep our risk scenarios in mind — far easier than remembering some complex threat model or risk plan or attack tree.</a></p>\n</blockquote>\n",
+				"content_text": "> [Scenario-based planning tends to work really well because human beings are great at telling and remembering stories. We think in narratives, stories prime our imagination. It’s easy for us to keep our risk scenarios in mind — far easier than remembering some complex threat model or risk plan or attack tree.](https://jacobian.org/2025/aug/8/two-scenario-threat-modeling/)\n",
+				"date_published": "2025-12-12T23:35:49+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/12/scenariobased-planning-tends-to-work.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/12/microservices-only-pay-off-when.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://nexo.sh/posts/microservices-for-startups/\">Microservices only pay off when you have real scaling bottlenecks, large teams, or independently evolving domains. Before that? You’re paying the price without getting the benefit: duplicated infra, fragile local setups, and slow iteration.</a></p>\n</blockquote>\n",
+				"content_text": "> [Microservices only pay off when you have real scaling bottlenecks, large teams, or independently evolving domains. Before that? You’re paying the price without getting the benefit: duplicated infra, fragile local setups, and slow iteration.](https://nexo.sh/posts/microservices-for-startups/)\n",
+				"date_published": "2025-12-12T23:01:45+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/12/microservices-only-pay-off-when.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/12/the-sad-reality-is-that.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices\">The sad reality is that many teams embarking on a microservices migration would be better off staying with a well-structured monolith until their scaling needs genuinely demand a different approach</a></p>\n</blockquote>\n",
+				"content_text": "> [The sad reality is that many teams embarking on a microservices migration would be better off staying with a well-structured monolith until their scaling needs genuinely demand a different approach](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)\n",
+				"date_published": "2025-12-12T22:54:50+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/12/the-sad-reality-is-that.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2025/12/12/excellent-very-detailed-slightly-repetitive.html",
 				
 				"content_html": "<p>Excellent, very detailed (slightly repetitive), <a href=\"https://iankduncan.com/engineering/2025-12-01-punycode/\">write up of the punycode algorithm and why it is designed the way it is</a>, including a nice step-by-step visualiser with examples.</p>\n",
