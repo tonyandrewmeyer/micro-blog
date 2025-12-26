@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/26/a-new-easy-to-use.html",
+				
+				"content_html": "<p>A new, easy to use, very handy, <a href=\"https://simonwillison.net/2025/Dec/25/claude-code-transcripts/\">tool from Simon Willison to make static HTML versions of Claude transcripts</a>. I vibe-coded a GitHub action to host them on GitHub pages, rather than in a gist, <a href=\"https://tonyandrewmeyer.github.io/beszel-k8s-operator/f729c1ad-0944-4569-b1a0-a699a179115e/index.html\">for example, making beszel-k8s-operator</a>.</p>\n",
+				"content_text": "A new, easy to use, very handy, [tool from Simon Willison to make static HTML versions of Claude transcripts](https://simonwillison.net/2025/Dec/25/claude-code-transcripts/). I vibe-coded a GitHub action to host them on GitHub pages, rather than in a gist, [for example, making beszel-k8s-operator](https://tonyandrewmeyer.github.io/beszel-k8s-operator/f729c1ad-0944-4569-b1a0-a699a179115e/index.html).\n",
+				"date_published": "2025-12-26T18:58:36+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/26/a-new-easy-to-use.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/19/interesting-how-little-has-changed.html",
+				
+				"content_html": "<p>Interesting how little has changed since this <a href=\"https://buttondown.com/justenoughinternet/archive/fomo-is-not-a-strategy/\">summary of AI use</a> from roughly a year ago.</p>\n<p>I feel this is an insightful look at the analysis gets done:</p>\n<blockquote>\n<p>Finally, in most workplaces, incentive structures don’t exist for people to (a) reduce their workloads to such an extent that their role becomes vulnerable or (b) voluntarily accept more responsibility without also taking on more pay.</p>\n</blockquote>\n",
+				"content_text": "Interesting how little has changed since this [summary of AI use](https://buttondown.com/justenoughinternet/archive/fomo-is-not-a-strategy/) from roughly a year ago.\n\nI feel this is an insightful look at the analysis gets done:\n\n> Finally, in most workplaces, incentive structures don’t exist for people to (a) reduce their workloads to such an extent that their role becomes vulnerable or (b) voluntarily accept more responsibility without also taking on more pay.\n",
+				"date_published": "2025-12-19T22:16:55+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/19/interesting-how-little-has-changed.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/19/this-day-operations-post-is.html",
+				
+				"content_html": "<p><a href=\"https://www.puppet.com/blog/day-0-day-1-day-2-operations\">This day-2 operations post</a> is a bit marketing heavy, but these are good suggestions:</p>\n<blockquote>\n<p>Tip 1: Small Changes are the Best Changes\nTip 2: Build, Then Follow, a Consistent Roll Out Sequence\nTip 3: Ensure You Have One (Or Several) Canary Nodes\nTip 5: Get Smarter About Configuration Management</p>\n</blockquote>\n",
+				"content_text": "[This day-2 operations post](https://www.puppet.com/blog/day-0-day-1-day-2-operations) is a bit marketing heavy, but these are good suggestions:\n\n> Tip 1: Small Changes are the Best Changes\n> Tip 2: Build, Then Follow, a Consistent Roll Out Sequence\n> Tip 3: Ensure You Have One (Or Several) Canary Nodes\n> Tip 5: Get Smarter About Configuration Management\n",
+				"date_published": "2025-12-19T22:10:33+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/19/this-day-operations-post-is.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/19/interesting-insights-into-product-engineering.html",
+				
+				"content_html": "<p><a href=\"https://newsletter.posthog.com/p/product-management-is-broken-engineers\">Interesting insights into product engineering at Posthog</a>. I liked:</p>\n<blockquote>\n<p>why engineers are usually right – is they have the deepest understanding of what can be built. They understand the technical constraints, see patterns across features, and know exactly how to solve a problem.</p>\n</blockquote>\n<p>And:</p>\n<blockquote>\n<p>The PM, engineers and exec team then meet to discuss questions like:\nAre our 10 biggest customers happy users of the product?\nDo high ICP and non-ICP customers use the product differently?\nWhy was churn high last month? Can we identify any reasons?\nCan we find leading indicators that predict long-term product usage? (e.g. Facebook’s 7 friends in 10 days)\nWhere in the onboarding funnel do new users struggle?</p>\n</blockquote>\n<p>I&rsquo;m definitely happier being out of product, but posts like this remind me of the times when it worked well.</p>\n",
+				"content_text": "[Interesting insights into product engineering at Posthog](https://newsletter.posthog.com/p/product-management-is-broken-engineers). I liked:\n\n> why engineers are usually right – is they have the deepest understanding of what can be built. They understand the technical constraints, see patterns across features, and know exactly how to solve a problem.\n\nAnd:\n\n> The PM, engineers and exec team then meet to discuss questions like:\n> Are our 10 biggest customers happy users of the product?\n> Do high ICP and non-ICP customers use the product differently?\n> Why was churn high last month? Can we identify any reasons?\n> Can we find leading indicators that predict long-term product usage? (e.g. Facebook’s 7 friends in 10 days)\n> Where in the onboarding funnel do new users struggle?\n\nI'm definitely happier being out of product, but posts like this remind me of the times when it worked well.\n",
+				"date_published": "2025-12-19T22:06:36+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/19/interesting-insights-into-product-engineering.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2025/12/19/interesting-details-on-what-claudes.html",
 				
 				"content_html": "<p>Interesting <a href=\"https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/\">details on what Claude&rsquo;s Plan Mode actually is</a>.</p>\n",
