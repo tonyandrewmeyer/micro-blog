@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/09/large-established-cloud-providers-are.html",
+				
+				"content_html": "<blockquote>\n<p>Large established cloud providers are also supreme blame absorbers. As noted, doing business with them is nearly risk free for almost all corporate workers. Reams of consultants stand ready to defend your choices. Every supplier is on board. It is the go-to choice. Even if AWS suffers a day long failure, EVERYONE experiences that failure, which provides for great cover.</p>\n</blockquote>\n<p><a href=\"https://berthub.eu/articles/posts/aws-and-microsoft-are-selling-much-more-than-cloud/\">Bert Hubert on another difference between what the big hyperscalers offer versus a simple &lsquo;cloud&rsquo;</a>.</p>\n",
+				"content_text": "> Large established cloud providers are also supreme blame absorbers. As noted, doing business with them is nearly risk free for almost all corporate workers. Reams of consultants stand ready to defend your choices. Every supplier is on board. It is the go-to choice. Even if AWS suffers a day long failure, EVERYONE experiences that failure, which provides for great cover.\n\n[Bert Hubert on another difference between what the big hyperscalers offer versus a simple 'cloud'](https://berthub.eu/articles/posts/aws-and-microsoft-are-selling-much-more-than-cloud/).\n",
+				"date_published": "2026-01-09T20:10:39+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/09/large-established-cloud-providers-are.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/02/interesting-thoughts-from-glyph-on.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html\">thoughts from Glyph on &ldquo;the next big thing&rdquo;</a>.</p>\n<blockquote>\n<p>The fact is, our lifetimes have been an extreme anomaly. Things like the Internet used to come along every thousand years or so, and while we might expect that the pace will stay a bit higher than that, it is not reasonable to expect that something new like “personal computers” or “the Internet” will arrive again.</p>\n</blockquote>\n<p>This is very much counter to popular thinking, but it seems entirely feasible to me.</p>\n",
+				"content_text": "Interesting [thoughts from Glyph on \"the next big thing\"](https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html).\n\n> The fact is, our lifetimes have been an extreme anomaly. Things like the Internet used to come along every thousand years or so, and while we might expect that the pace will stay a bit higher than that, it is not reasonable to expect that something new like “personal computers” or “the Internet” will arrive again.\n\nThis is very much counter to popular thinking, but it seems entirely feasible to me.\n",
+				"date_published": "2026-01-02T23:45:42+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/02/interesting-thoughts-from-glyph-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/02/an-excellent-summary-of-ai.html",
+				
+				"content_html": "<p>An <a href=\"https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything\">excellent summary of AI in 2025</a> from Simon Willison.</p>\n<p>One point that I&rsquo;m unsure about is the potential end of MCP: I agree that for coding purposes it doesn&rsquo;t make sense (if you have a service without a CLI tool, build a great CLI tool, not an MCP server, for it). However, I still wonder if there is use for non-coding purposes (I&rsquo;ve been experimenting with this for opal3). I don&rsquo;t trust AI running my browser (as Simon explains), so how else do I interact (as a non-coder) with a closed system? Maybe there should just be a <code>.wellknown</code> link with a skill, but I still need to help the agent authenticate somehow. But will people use &ldquo;custom connectors&rdquo; in Claude, and similar features in other agents?</p>\n",
+				"content_text": "An [excellent summary of AI in 2025](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) from Simon Willison.\n\nOne point that I'm unsure about is the potential end of MCP: I agree that for coding purposes it doesn't make sense (if you have a service without a CLI tool, build a great CLI tool, not an MCP server, for it). However, I still wonder if there is use for non-coding purposes (I've been experimenting with this for opal3). I don't trust AI running my browser (as Simon explains), so how else do I interact (as a non-coder) with a closed system? Maybe there should just be a `.wellknown` link with a skill, but I still need to help the agent authenticate somehow. But will people use \"custom connectors\" in Claude, and similar features in other agents?\n",
+				"date_published": "2026-01-02T15:43:51+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/02/an-excellent-summary-of-ai.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/27/but-for-me-this-year.html",
+				
+				"content_html": "<blockquote>\n<p>But for me, this year was for AI what 2010 was for the cloud: the year when AI stopped being satellite, experimental tech and started being the mainstream, foundational technology. At least in the world of developer tools.\nIt doesn’t mean there isn’t a bubble. Of COURSE there’s a fucking bubble. Cloud was a bubble. The internet was a bubble. Every massive new driver of innovation has come with its own frothy hype wave.\nBut the existence of froth doesn’t disprove the existence of value.</p>\n</blockquote>\n<p><a href=\"https://charity.wtf/2025/12/22/2025-was-for-ai-what-2010-was-for-cloud-xpost/\">Charity Majors on AI in 2025</a>. This is much how I feel too.</p>\n",
+				"content_text": "> But for me, this year was for AI what 2010 was for the cloud: the year when AI stopped being satellite, experimental tech and started being the mainstream, foundational technology. At least in the world of developer tools.\n> It doesn’t mean there isn’t a bubble. Of COURSE there’s a fucking bubble. Cloud was a bubble. The internet was a bubble. Every massive new driver of innovation has come with its own frothy hype wave.\n> But the existence of froth doesn’t disprove the existence of value.\n\n[Charity Majors on AI in 2025](https://charity.wtf/2025/12/22/2025-was-for-ai-what-2010-was-for-cloud-xpost/). This is much how I feel too.\n",
+				"date_published": "2025-12-27T08:25:15+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/27/but-for-me-this-year.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2025/12/27/interesting-post-from-armin-ronacher.html",
+				
+				"content_html": "<p>Interesting post <a href=\"https://lucumr.pocoo.org/2025/12/23/advent-of-slop/\">from Armin Ronacher on using Claude to do the Avent of Code</a>, which I imagine was popular this year. The write-up, also by Claude, is less interesting because so much of it is just restating what was in the prompt, plus some awful anthropomorphism stuff.</p>\n",
+				"content_text": "Interesting post [from Armin Ronacher on using Claude to do the Avent of Code](https://lucumr.pocoo.org/2025/12/23/advent-of-slop/), which I imagine was popular this year. The write-up, also by Claude, is less interesting because so much of it is just restating what was in the prompt, plus some awful anthropomorphism stuff.\n",
+				"date_published": "2025-12-27T08:19:42+13:00",
+				"url": "https://tonyandrewmeyer.blog/2025/12/27/interesting-post-from-armin-ronacher.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2025/12/26/a-new-easy-to-use.html",
 				
 				"content_html": "<p>A new, easy to use, very handy, <a href=\"https://simonwillison.net/2025/Dec/25/claude-code-transcripts/\">tool from Simon Willison to make static HTML versions of Claude transcripts</a>. I vibe-coded a GitHub action to host them on GitHub pages, rather than in a gist, <a href=\"https://tonyandrewmeyer.github.io/beszel-k8s-operator/f729c1ad-0944-4569-b1a0-a699a179115e/index.html\">for example, making beszel-k8s-operator</a>.</p>\n",
