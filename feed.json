@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/11/a-very-comprehensive-guide-to.html",
+				
+				"content_html": "<p><a href=\"https://www.luiscardoso.dev/blog/sandboxes-for-ai\">A very comprehensive guide to sandboxing</a>, particularly for AI.</p>\n",
+				"content_text": "[A very comprehensive guide to sandboxing](https://www.luiscardoso.dev/blog/sandboxes-for-ai), particularly for AI.\n",
+				"date_published": "2026-01-11T15:35:34+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/11/a-very-comprehensive-guide-to.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/01/09/large-established-cloud-providers-are.html",
 				
 				"content_html": "<blockquote>\n<p>Large established cloud providers are also supreme blame absorbers. As noted, doing business with them is nearly risk free for almost all corporate workers. Reams of consultants stand ready to defend your choices. Every supplier is on board. It is the go-to choice. Even if AWS suffers a day long failure, EVERYONE experiences that failure, which provides for great cover.</p>\n</blockquote>\n<p><a href=\"https://berthub.eu/articles/posts/aws-and-microsoft-are-selling-much-more-than-cloud/\">Bert Hubert on another difference between what the big hyperscalers offer versus a simple &lsquo;cloud&rsquo;</a>.</p>\n",
