@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/16/another-vibespiling-experiment-this-one.html",
+				
+				"content_html": "<p>Another vibespiling experiment, this one <a href=\"https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/\">MiniJinja from Rust to Go</a>.</p>\n<blockquote>\n<p>This changes some dynamics. I feel less like technology choices are constrained by ecosystem lock-in.</p>\n</blockquote>\n<p>I haven&rsquo;t seen this mentioned in other similar attempts, and I agree it&rsquo;s an interesting change in dynamics. It&rsquo;s interesting also in terms of hiring and how broad language experience should be (or not) within a team.</p>\n<blockquote>\n<p>Once, having people port your code to other languages was something to take pride in. It was a sign of accomplishment — a project was “cool enough” that someone put time into making it available elsewhere. With agents, it doesn’t invoke the same feelings.</p>\n</blockquote>\n<p>I&rsquo;m still curious to see how this plays out. I have seen several people unhappy about this - for now, ones like Armin vibespiling his own work seems the safest path.</p>\n",
+				"content_text": "Another vibespiling experiment, this one [MiniJinja from Rust to Go](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/).\n\n> This changes some dynamics. I feel less like technology choices are constrained by ecosystem lock-in.\n\nI haven't seen this mentioned in other similar attempts, and I agree it's an interesting change in dynamics. It's interesting also in terms of hiring and how broad language experience should be (or not) within a team.\n\n> Once, having people port your code to other languages was something to take pride in. It was a sign of accomplishment — a project was “cool enough” that someone put time into making it available elsewhere. With agents, it doesn’t invoke the same feelings.\n\nI'm still curious to see how this plays out. I have seen several people unhappy about this - for now, ones like Armin vibespiling his own work seems the safest path.\n",
+				"date_published": "2026-01-16T11:49:13+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/16/another-vibespiling-experiment-this-one.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/11/uv-is-fast-because-of.html",
+				
+				"content_html": "<blockquote>\n<p>uv is fast because of what it doesn’t do, not because of what language it’s written in. The standards work of PEP 518, 517, 621, and 658 made fast package management possible. Dropping eggs, pip.conf, and permissive parsing made it achievable. Rust makes it a bit faster still.</p>\n</blockquote>\n<p><a href=\"https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html\">How uv got so fast</a>.</p>\n",
+				"content_text": "> uv is fast because of what it doesn’t do, not because of what language it’s written in. The standards work of PEP 518, 517, 621, and 658 made fast package management possible. Dropping eggs, pip.conf, and permissive parsing made it achievable. Rust makes it a bit faster still.\n\n[How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html).\n",
+				"date_published": "2026-01-11T15:47:08+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/11/uv-is-fast-because-of.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/01/11/a-very-comprehensive-guide-to.html",
 				
 				"content_html": "<p><a href=\"https://www.luiscardoso.dev/blog/sandboxes-for-ai\">A very comprehensive guide to sandboxing</a>, particularly for AI.</p>\n",
@@ -978,7 +994,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -2554,7 +2570,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
