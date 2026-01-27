@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/28/in-general-i-feel-a.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft\">In general, I feel a lot of UI-first SaaS will be disrupted by API-first players.</a></p>\n</blockquote>\n<p>This rings very true to me. Being API first was better all along, but it will be felt more now.</p>\n",
+				"content_text": "> [In general, I feel a lot of UI-first SaaS will be disrupted by API-first players.](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft)\n\nThis rings very true to me. Being API first was better all along, but it will be felt more now.\n",
+				"date_published": "2026-01-28T11:56:00+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/28/in-general-i-feel-a.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/16/this-finding-the-nebraska-guy.html",
+				
+				"content_html": "<p>This <a href=\"https://stacktower.io/\">finding the Nebraska guy post</a> dives quite deep into graph theory and algorithms, and I found it really interesting.</p>\n",
+				"content_text": "This [finding the Nebraska guy post](https://stacktower.io/) dives quite deep into graph theory and algorithms, and I found it really interesting.\n",
+				"date_published": "2026-01-16T18:31:53+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/16/this-finding-the-nebraska-guy.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/16/product-is-the-leadership-i.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://loujaybee.com/software-engineering-to-product-management\">Product is the leadership I expected as a tech lead/principal</a></p>\n</blockquote>\n<p>This is similar to why &amp; how I moved into product, firstly the &ldquo;ticket-chopping folks&rdquo; (which I had somewhat been previously anyway) and then true product management.</p>\n<p>Of course, 5 years later I was burnt out and hated my job and very grateful to move back to software engineering &hellip; but there were lots of other factors there.</p>\n",
+				"content_text": "> [Product is the leadership I expected as a tech lead/principal](https://loujaybee.com/software-engineering-to-product-management)\n\nThis is similar to why & how I moved into product, firstly the \"ticket-chopping folks\" (which I had somewhat been previously anyway) and then true product management.\n\nOf course, 5 years later I was burnt out and hated my job and very grateful to move back to software engineering ... but there were lots of other factors there.\n",
+				"date_published": "2026-01-16T18:18:06+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/16/product-is-the-leadership-i.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/16/when-you-see-a-package.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html\">When you see a package with 10,000 stars, you’re not looking at 10,000 developers who evaluated it and clicked a button. You’re looking at a number that could mean anything. Maybe it’s a beloved tool. Maybe it’s a marketing campaign. Maybe it’s a malware distribution front with a Stargazer Goblin account network behind it, it’s pretty much impossible to tell.</a></p>\n</blockquote>\n<p>I have long argued that stars and download counts are untrustworthy metrics. Lots of good details in that post.</p>\n",
+				"content_text": "> [When you see a package with 10,000 stars, you’re not looking at 10,000 developers who evaluated it and clicked a button. You’re looking at a number that could mean anything. Maybe it’s a beloved tool. Maybe it’s a marketing campaign. Maybe it’s a malware distribution front with a Stargazer Goblin account network behind it, it’s pretty much impossible to tell.](https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html)\n\nI have long argued that stars and download counts are untrustworthy metrics. Lots of good details in that post.\n",
+				"date_published": "2026-01-16T18:13:16+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/16/when-you-see-a-package.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/01/16/optimism-on-the-other-hand.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://pluralistic.net/2026/01/15/how-the-light-gets-in/\">Optimism, on the other hand, is a toxin to be avoided. Optimism is a subgenre of fatalism, the belief that things will get better no matter what we do. It&rsquo;s just the obverse of pessimism. Both are ways of denying human agency. To be an optimist is to be a passenger of history, along for the ride, with no hope of changing its course.</a></p>\n</blockquote>\n<p>I very much disagree with this definition of optimism. Optimism is a belief that things will get better <em>because</em> most people will actually work for that. Basically, it&rsquo;s faith (not necessarily in a higher power), which is oddly missing from the happiness, optimism, hope trilogy here.</p>\n<p>In fact, I think he entirely swaps the definition of hope and optimism. I am not at all optimistic (in that I don&rsquo;t believe people will rise up, or that the people with power will make things truly better) but I have hope (unfounded, not driven by people action) that I am wrong.</p>\n",
+				"content_text": "> [Optimism, on the other hand, is a toxin to be avoided. Optimism is a subgenre of fatalism, the belief that things will get better no matter what we do. It's just the obverse of pessimism. Both are ways of denying human agency. To be an optimist is to be a passenger of history, along for the ride, with no hope of changing its course.](https://pluralistic.net/2026/01/15/how-the-light-gets-in/)\n\nI very much disagree with this definition of optimism. Optimism is a belief that things will get better *because* most people will actually work for that. Basically, it's faith (not necessarily in a higher power), which is oddly missing from the happiness, optimism, hope trilogy here.\n\nIn fact, I think he entirely swaps the definition of hope and optimism. I am not at all optimistic (in that I don't believe people will rise up, or that the people with power will make things truly better) but I have hope (unfounded, not driven by people action) that I am wrong.\n",
+				"date_published": "2026-01-16T17:51:32+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/01/16/optimism-on-the-other-hand.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/01/16/another-vibespiling-experiment-this-one.html",
 				
 				"content_html": "<p>Another vibespiling experiment, this one <a href=\"https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/\">MiniJinja from Rust to Go</a>.</p>\n<blockquote>\n<p>This changes some dynamics. I feel less like technology choices are constrained by ecosystem lock-in.</p>\n</blockquote>\n<p>I haven&rsquo;t seen this mentioned in other similar attempts, and I agree it&rsquo;s an interesting change in dynamics. It&rsquo;s interesting also in terms of hiring and how broad language experience should be (or not) within a team.</p>\n<blockquote>\n<p>Once, having people port your code to other languages was something to take pride in. It was a sign of accomplishment — a project was “cool enough” that someone put time into making it available elsewhere. With agents, it doesn’t invoke the same feelings.</p>\n</blockquote>\n<p>I&rsquo;m still curious to see how this plays out. I have seen several people unhappy about this - for now, ones like Armin vibespiling his own work seems the safest path.</p>\n",
