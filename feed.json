@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/02/06/maybe-the-answer-is-that.html",
+				
+				"content_html": "<blockquote>\n<p>Maybe the answer is that we need better tools — better ways to signal quality, better ways to share context, better ways to make the AI’s involvement visible and reviewable. Maybe the culture will self-correct as people hit walls. Maybe this is just the awkward transition phase before we figure out new norms.</p>\n</blockquote>\n<p>I feel like this is true - and that probably a lot of these tools are already being built, and culture will eventually catch up. But maybe it&rsquo;s an optimistic take.</p>\n<p>From <a href=\"https://lucumr.pocoo.org/2026/1/18/agent-psychosis/\">another thoughtful post from Armin</a>, which also has:</p>\n<blockquote>\n<p>All I know is that when I watch someone at 3am, running their tenth parallel agent session, telling me they’ve never been more productive — in that moment I don’t see productivity. I see someone who might need to step away from the machine for a bit. And I wonder how often that someone is me.</p>\n</blockquote>\n",
+				"content_text": "> Maybe the answer is that we need better tools — better ways to signal quality, better ways to share context, better ways to make the AI’s involvement visible and reviewable. Maybe the culture will self-correct as people hit walls. Maybe this is just the awkward transition phase before we figure out new norms.\n\nI feel like this is true - and that probably a lot of these tools are already being built, and culture will eventually catch up. But maybe it's an optimistic take.\n\nFrom [another thoughtful post from Armin](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/), which also has:\n\n> All I know is that when I watch someone at 3am, running their tenth parallel agent session, telling me they’ve never been more productive — in that moment I don’t see productivity. I see someone who might need to step away from the machine for a bit. And I wonder how often that someone is me.\n",
+				"date_published": "2026-02-06T14:40:41+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/02/06/maybe-the-answer-is-that.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/01/28/in-general-i-feel-a.html",
 				
 				"content_html": "<blockquote>\n<p><a href=\"https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft\">In general, I feel a lot of UI-first SaaS will be disrupted by API-first players.</a></p>\n</blockquote>\n<p>This rings very true to me. Being API first was better all along, but it will be felt more now.</p>\n",
@@ -1034,7 +1042,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -2610,7 +2618,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
