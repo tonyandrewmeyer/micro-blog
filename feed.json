@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/02/08/interesting-thoughts-on-ai-from.html",
+				
+				"content_html": "<p>Interesting thoughts on AI] from <a href=\"https://mitchellh.com/writing/my-ai-adoption-journey\">Mitchell Hashimoto</a>.</p>\n",
+				"content_text": "Interesting thoughts on AI] from [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey).\n",
+				"date_published": "2026-02-08T00:36:37+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/02/08/interesting-thoughts-on-ai-from.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/02/07/a-really-thoughtful-essay-on.html",
+				
+				"content_html": "<p>A really thoughtful <a href=\"https://ploum.net/2026-01-19-exam-with-chatbots.html\">essay on using LLMs in exams, but also on &ldquo;cheating&rdquo; and more</a>.</p>\n<p>Very much not the point of the piece, but:</p>\n<blockquote>\n<p>Most of my students don’t like email. An awful lot of them learned only with me that Git is not the GitHub command-line tool.</p>\n</blockquote>\n<p>😩😣😢</p>\n",
+				"content_text": "A really thoughtful [essay on using LLMs in exams, but also on \"cheating\" and more](https://ploum.net/2026-01-19-exam-with-chatbots.html).\n\nVery much not the point of the piece, but:\n\n> Most of my students don’t like email. An awful lot of them learned only with me that Git is not the GitHub command-line tool.\n\n😩😣😢\n",
+				"date_published": "2026-02-07T01:00:45+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/02/07/a-really-thoughtful-essay-on.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/02/07/a-lightweight-explanation-of-the.html",
+				
+				"content_html": "<p>A <a href=\"https://anildash.com/2026/01/09/how-markdown-took-over-the-world/\">lightweight explanation of the history of Markdown</a>. I think there is an element of luck, or right place right time, though, and we could easily have all been writing setext if a butterfly had flapped a bit differently.</p>\n",
+				"content_text": "A [lightweight explanation of the history of Markdown](https://anildash.com/2026/01/09/how-markdown-took-over-the-world/). I think there is an element of luck, or right place right time, though, and we could easily have all been writing setext if a butterfly had flapped a bit differently.\n",
+				"date_published": "2026-02-07T00:49:09+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/02/07/a-lightweight-explanation-of-the.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/02/07/so-if-you-want-to.html",
+				
+				"content_html": "<blockquote>\n<p>So if you want to get something technical done in a tech company, you ought to wait for the appropriate wave. It’s a good idea to prepare multiple technical programs of work, all along different lines.</p>\n</blockquote>\n<p>Good advice, from <a href=\"https://www.seangoedecke.com/how-to-influence-politics/\">sean goedecke</a>.</p>\n",
+				"content_text": "> So if you want to get something technical done in a tech company, you ought to wait for the appropriate wave. It’s a good idea to prepare multiple technical programs of work, all along different lines.\n\nGood advice, from [sean goedecke](https://www.seangoedecke.com/how-to-influence-politics/).\n",
+				"date_published": "2026-02-07T00:03:33+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/02/07/so-if-you-want-to.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/02/06/maybe-the-answer-is-that.html",
 				
 				"content_html": "<blockquote>\n<p>Maybe the answer is that we need better tools — better ways to signal quality, better ways to share context, better ways to make the AI’s involvement visible and reviewable. Maybe the culture will self-correct as people hit walls. Maybe this is just the awkward transition phase before we figure out new norms.</p>\n</blockquote>\n<p>I feel like this is true - and that probably a lot of these tools are already being built, and culture will eventually catch up. But maybe it&rsquo;s an optimistic take.</p>\n<p>From <a href=\"https://lucumr.pocoo.org/2026/1/18/agent-psychosis/\">another thoughtful post from Armin</a>, which also has:</p>\n<blockquote>\n<p>All I know is that when I watch someone at 3am, running their tenth parallel agent session, telling me they’ve never been more productive — in that moment I don’t see productivity. I see someone who might need to step away from the machine for a bit. And I wonder how often that someone is me.</p>\n</blockquote>\n",
