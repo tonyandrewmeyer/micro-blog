@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/10/the-history-of-ides-is.html",
+				
+				"content_html": "<blockquote>\n<p>The history of IDEs is so strange.</p>\n</blockquote>\n<p>So true!</p>\n<blockquote>\n<p>At some point frontier models will face diminishing returns, local models will catch up, and we will be done being beholden to frontier models. That will be a wonderful day, but until then, you will not know what models will be capable of unless you use the best. Pay through the nose for Opus or GPT-7.9-xhigh-with-cheese. Don&rsquo;t worry, it&rsquo;s only for a few years.</p>\n</blockquote>\n<p>Sad, but true.</p>\n<blockquote>\n<p>use a fresh VM</p>\n</blockquote>\n<p>There have been done interesting UI changes here recently, with things backing that underneath I assume, but still entirely true.</p>\n<p>Read <a href=\"https://crawshaw.io/blog/eight-more-months-of-agents\">the whole thing</a>.</p>\n",
+				"content_text": "> The history of IDEs is so strange.\n\nSo true!\n\n> At some point frontier models will face diminishing returns, local models will catch up, and we will be done being beholden to frontier models. That will be a wonderful day, but until then, you will not know what models will be capable of unless you use the best. Pay through the nose for Opus or GPT-7.9-xhigh-with-cheese. Don't worry, it's only for a few years.\n\nSad, but true.\n\n> use a fresh VM\n\nThere have been done interesting UI changes here recently, with things backing that underneath I assume, but still entirely true.\n\nRead [the whole thing](https://crawshaw.io/blog/eight-more-months-of-agents).\n",
+				"date_published": "2026-03-10T21:12:42+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/10/the-history-of-ides-is.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/08/ai-sigh-they-rhyme-for.html",
+				
+				"content_html": "<blockquote>\n<p>AI.</p>\n<p>Sigh.</p>\n<p>They rhyme for a reason.</p>\n</blockquote>\n<p>Read the <a href=\"https://www.eod.com/blog/2026/02/lose-myself/\">whole post</a>.</p>\n",
+				"content_text": "> AI.\n>\n> Sigh.\n>\n> They rhyme for a reason.\n\nRead the [whole post](https://www.eod.com/blog/2026/02/lose-myself/).\n",
+				"date_published": "2026-03-08T23:04:44+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/08/ai-sigh-they-rhyme-for.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/08/interesting-suggestions-for-security-policies.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://sethmlarson.dev/respecting-maintainer-time-should-be-in-security-policies\">suggestions for security policies</a>, aimed at AI reports, but generally useful in today&rsquo;s world.</p>\n",
+				"content_text": "Interesting [suggestions for security policies](https://sethmlarson.dev/respecting-maintainer-time-should-be-in-security-policies), aimed at AI reports, but generally useful in today's world.\n",
+				"date_published": "2026-03-08T22:59:12+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/08/interesting-suggestions-for-security-policies.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/08/now-before-some-of-you.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://open.substack.com/pub/nextword/p/claude-code-is-the-new-excel\">Now, before some of you cry “but, but it’s not production quality“ or “non-developers don’t know what they are doing, they will hire a developer to fix their vibe coded mess”.. here’s what many don’t get: Businesses run on a ton of “brittle spreadsheets” already. People have been “vibe spreadsheeting” for a long time.</a></p>\n</blockquote>\n<p>A good insight. In-house software is (especially outside of tech organisations), in my experience, terrible. Awful UX, buggy, half-done. And continually used for critical functions.</p>\n",
+				"content_text": "> [Now, before some of you cry “but, but it’s not production quality“ or “non-developers don’t know what they are doing, they will hire a developer to fix their vibe coded mess”.. here’s what many don’t get: Businesses run on a ton of “brittle spreadsheets” already. People have been “vibe spreadsheeting” for a long time.](https://open.substack.com/pub/nextword/p/claude-code-is-the-new-excel)\n\nA good insight. In-house software is (especially outside of tech organisations), in my experience, terrible. Awful UX, buggy, half-done. And continually used for critical functions.\n",
+				"date_published": "2026-03-08T22:33:44+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/08/now-before-some-of-you.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/03/08/when-a-colleague-writes-code.html",
 				
 				"content_html": "<blockquote>\n<p>When a colleague writes code, I know their patterns, their strengths, their blind spots. I can skim the parts I trust and focus on the parts I don&rsquo;t. With AI, every line is suspect.</p>\n</blockquote>\n<p>Siddhant Khare on <a href=\"https://siddhantkhare.com/writing/ai-fatigue-is-real\">AI Fatigue</a>. I 100% agree with the above, and I think I&rsquo;m feeling some of this, too.</p>\n",
