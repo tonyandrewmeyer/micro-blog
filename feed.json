@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/an-interesting-summary-of-expression.html",
+				
+				"content_html": "<p>An <a href=\"https://terts.dev/blog/no-semicolons-needed/\">interesting summary of expression end detection across a bunch of programming languages</a>. Including Odin, which I have never heard of previously.</p>\n",
+				"content_text": "An [interesting summary of expression end detection across a bunch of programming languages](https://terts.dev/blog/no-semicolons-needed/). Including Odin, which I have never heard of previously.\n",
+				"date_published": "2026-03-20T14:24:15+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/20/an-interesting-summary-of-expression.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/all-of-these-lessons-learned.html",
+				
+				"content_html": "<p>All of these <a href=\"https://addyosmani.com/blog/21-lessons/\">lessons learned</a> are ones I&rsquo;ve seen before, but it&rsquo;s a nice collection.</p>\n<p>I particularly resonate with:</p>\n<blockquote>\n<ol start=\"16\">\n<li>Admitting what you don’t know creates more safety than pretending you do.</li>\n</ol>\n</blockquote>\n<p>and</p>\n<blockquote>\n<ol start=\"12\">\n<li>Writing forces clarity. The fastest way to learn something better is to try teaching it.</li>\n</ol>\n</blockquote>\n",
+				"content_text": "All of these [lessons learned](https://addyosmani.com/blog/21-lessons/) are ones I've seen before, but it's a nice collection.\n\nI particularly resonate with:\n\n> 16. Admitting what you don’t know creates more safety than pretending you do.\n\nand\n\n> 12. Writing forces clarity. The fastest way to learn something better is to try teaching it.\n",
+				"date_published": "2026-03-20T00:55:25+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/20/all-of-these-lessons-learned.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/an-interesting-use-of-nullcontext.html",
+				
+				"content_html": "<p>An <a href=\"https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches\">interesting use of nullcontext to have a parametrized test with valid and raising values</a>.</p>\n",
+				"content_text": "An [interesting use of nullcontext to have a parametrized test with valid and raising values](https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches).\n",
+				"date_published": "2026-03-20T00:43:55+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/20/an-interesting-use-of-nullcontext.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/an-interesting-categorisation-of-forks.html",
+				
+				"content_html": "<p>An interesting <a href=\"http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html\">categorisation of forks (towards the end of the post)</a> from Monty of MySQL and MariaDB fame.</p>\n",
+				"content_text": "An interesting [categorisation of forks (towards the end of the post)](http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html) from Monty of MySQL and MariaDB fame.\n",
+				"date_published": "2026-03-20T00:41:32+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/20/an-interesting-categorisation-of-forks.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/defense-in-depth-a-practical.html",
+				
+				"content_html": "<p><a href=\"https://bernat.tech/posts/securing-python-supply-chain/\">&ldquo;Defense in Depth: A Practical Guide to Python Supply Chain Security&rdquo;</a>: an incredibly high quality post by someone with respectable credentials. Read the whole thing.</p>\n",
+				"content_text": "[\"Defense in Depth: A Practical Guide to Python Supply Chain Security\"](https://bernat.tech/posts/securing-python-supply-chain/): an incredibly high quality post by someone with respectable credentials. Read the whole thing.\n",
+				"date_published": "2026-03-20T00:37:18+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/20/defense-in-depth-a-practical.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/i-like-a-lot-webs.html",
+				
+				"content_html": "<p>I like (a lot) webs of trust, but this <a href=\"https://codeberg.org/robida/human.json\">human.json</a> doesn&rsquo;t seem like it will scale or give great information or really own the trust. I do like seeing example.com/~user style URLs, though, very nostalgic.</p>\n",
+				"content_text": "I like (a lot) webs of trust, but this [human.json](https://codeberg.org/robida/human.json) doesn't seem like it will scale or give great information or really own the trust. I do like seeing example.com/~user style URLs, though, very nostalgic.\n",
+				"date_published": "2026-03-20T00:20:41+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/20/i-like-a-lot-webs.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/we-need-to-expect-to.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://cate.blog/2026/03/17/wired-for-change-when-tech-stopped-being-safe/\">We need to expect to earn our keep. In the ZIRP era I think a lot of software devs lived in some world where they expected to make a lot of money in a way that was divorced from the realities of the business.</a></p>\n</blockquote>\n<p>I feel there&rsquo;s truth here, as much as I sympathise with those hit by change (and as much as it was painful when I was).</p>\n",
+				"content_text": "> [We need to expect to earn our keep. In the ZIRP era I think a lot of software devs lived in some world where they expected to make a lot of money in a way that was divorced from the realities of the business.](https://cate.blog/2026/03/17/wired-for-change-when-tech-stopped-being-safe/)\n\nI feel there's truth here, as much as I sympathise with those hit by change (and as much as it was painful when I was).\n",
+				"date_published": "2026-03-20T00:11:13+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/20/we-need-to-expect-to.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/03/19/a-depressing-read-on-how.html",
 				
 				"content_html": "<p>A <a href=\"https://thatshubham.com/blog/news-audit\">depressing read on how ads have screwed up websites</a>. I read almost everything either via RSS (<a href=\"https://netnewswire.com/\">NetNewsWire</a>) or a read-later tool (<a href=\"https://www.instapaper.com\">Instapaper</a>) so see almost none of this. The bit I hit most is the &ldquo;CLS Disaster&rdquo; on Goodreads, where I know now I need to wait when entering data because all the links I want will jump down the page after a giant ad loads at the top.</p>\n",
@@ -1218,7 +1274,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -2794,7 +2850,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
