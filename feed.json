@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/22/i-keep-coming-back-to.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/\">I keep coming back to the trees. I’ve been maintaining Open Source projects for close to two decades now. The last startup I worked on, I spent 10 years at. That’s not because I’m particularly disciplined or virtuous. It’s because I or someone else, planted something, and then I kept showing up, and eventually the thing had roots that went deeper than my enthusiasm on any given day. That’s what time does! It turns some idea or plan into a commitment and a commitment into something that can shelter and grow other people.</a></p>\n</blockquote>\n<p>A bit like a <a href=\"https://www.mainland.co.nz/our-craft/videos.html\">Mainland ad</a> but for AI (and more thoughtful).</p>\n",
+				"content_text": "> [I keep coming back to the trees. I’ve been maintaining Open Source projects for close to two decades now. The last startup I worked on, I spent 10 years at. That’s not because I’m particularly disciplined or virtuous. It’s because I or someone else, planted something, and then I kept showing up, and eventually the thing had roots that went deeper than my enthusiasm on any given day. That’s what time does! It turns some idea or plan into a commitment and a commitment into something that can shelter and grow other people.](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)\n\nA bit like a [Mainland ad](https://www.mainland.co.nz/our-craft/videos.html) but for AI (and more thoughtful).\n",
+				"date_published": "2026-03-22T00:21:49+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/22/i-keep-coming-back-to.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/clearly-a-bit-biased-but.html",
+				
+				"content_html": "<p>Clearly a bit biased, but <a href=\"https://newsletter.posthog.com/p/dont-make-these-classic-feature-flag\">good advice on feature flags</a> that goes beyond Posthog.</p>\n",
+				"content_text": "Clearly a bit biased, but [good advice on feature flags](https://newsletter.posthog.com/p/dont-make-these-classic-feature-flag) that goes beyond Posthog.\n",
+				"date_published": "2026-03-20T14:32:25+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/20/clearly-a-bit-biased-but.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/i-used-a-feature-flags.html",
+				
+				"content_html": "<p>I used a feature flags system <a href=\"https://simonwillison.net/2025/Feb/2/feature-flags/\">like described here</a> for something like a decade before moving to LaunchDarkly and it worked amazingly well. I&rsquo;m not sure the move to LaunchDarkly actually paid off.</p>\n",
+				"content_text": "I used a feature flags system [like described here](https://simonwillison.net/2025/Feb/2/feature-flags/) for something like a decade before moving to LaunchDarkly and it worked amazingly well. I'm not sure the move to LaunchDarkly actually paid off.\n",
+				"date_published": "2026-03-20T14:29:24+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/20/i-used-a-feature-flags.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/an-interesting-summary-of-expression.html",
 				
 				"content_html": "<p>An <a href=\"https://terts.dev/blog/no-semicolons-needed/\">interesting summary of expression end detection across a bunch of programming languages</a>. Including Odin, which I have never heard of previously.</p>\n",
@@ -17,8 +41,8 @@
 			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/03/20/all-of-these-lessons-learned.html",
 				
-				"content_html": "<p>All of these <a href=\"https://addyosmani.com/blog/21-lessons/\">lessons learned</a> are ones I&rsquo;ve seen before, but it&rsquo;s a nice collection.</p>\n<p>I particularly resonate with:</p>\n<blockquote>\n<ol start=\"16\">\n<li>Admitting what you don’t know creates more safety than pretending you do.</li>\n</ol>\n</blockquote>\n<p>and</p>\n<blockquote>\n<ol start=\"12\">\n<li>Writing forces clarity. The fastest way to learn something better is to try teaching it.</li>\n</ol>\n</blockquote>\n",
-				"content_text": "All of these [lessons learned](https://addyosmani.com/blog/21-lessons/) are ones I've seen before, but it's a nice collection.\n\nI particularly resonate with:\n\n> 16. Admitting what you don’t know creates more safety than pretending you do.\n\nand\n\n> 12. Writing forces clarity. The fastest way to learn something better is to try teaching it.\n",
+				"content_html": "<p>All of these <a href=\"https://addyosmani.com/blog/21-lessons/\">lessons learned</a> are ones I&rsquo;ve seen before, but it&rsquo;s a nice collection.</p>\n<p>I particularly resonate with:</p>\n<blockquote>\n<p>Admitting what you don’t know creates more safety than pretending you do.</p>\n</blockquote>\n<p>and</p>\n<blockquote>\n<p>Writing forces clarity. The fastest way to learn something better is to try teaching it.</p>\n</blockquote>\n",
+				"content_text": "All of these [lessons learned](https://addyosmani.com/blog/21-lessons/) are ones I've seen before, but it's a nice collection.\n\nI particularly resonate with:\n\n> Admitting what you don’t know creates more safety than pretending you do.\n\nand\n\n> Writing forces clarity. The fastest way to learn something better is to try teaching it.\n",
 				"date_published": "2026-03-20T00:55:25+13:00",
 				"url": "https://tonyandrewmeyer.blog/2026/03/20/all-of-these-lessons-learned.html"
 			},
