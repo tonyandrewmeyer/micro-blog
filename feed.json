@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/23/all-of-the-coding-agents.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/\">All of the coding agents are fluent in using Git&rsquo;s features, both basic and advanced. This fluency means we can be more ambitious about how we use Git ourselves. We don&rsquo;t need to memorize how to do things with Git, but staying aware of what&rsquo;s possible means we can take advantage of the full suite of Git&rsquo;s abilities.</a></p>\n</blockquote>\n<p>This is specifically about Git, a notoriously tricky tool, but is very true for many others too.</p>\n",
+				"content_text": "> [All of the coding agents are fluent in using Git's features, both basic and advanced. This fluency means we can be more ambitious about how we use Git ourselves. We don't need to memorize how to do things with Git, but staying aware of what's possible means we can take advantage of the full suite of Git's abilities.](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/)\n\nThis is specifically about Git, a notoriously tricky tool, but is very true for many others too.\n",
+				"date_published": "2026-03-23T20:12:37+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/23/all-of-the-coding-agents.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/22/solid-advice-for-writing-software.html",
+				
+				"content_html": "<p><a href=\"https://berthub.eu/articles/posts/on-long-term-software-development/\">Solid advice for writing software to last 10+ years</a>. I&rsquo;ve done this once; I hope to manage to do it again before retiring.</p>\n",
+				"content_text": "[Solid advice for writing software to last 10+ years](https://berthub.eu/articles/posts/on-long-term-software-development/). I've done this once; I hope to manage to do it again before retiring.\n",
+				"date_published": "2026-03-22T23:23:01+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/22/solid-advice-for-writing-software.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/22/i-also-find-it-annoying.html",
+				
+				"content_html": "<p>I also <a href=\"https://simonwillison.net/2025/Dec/28/actions-latest/\">find it annoying when Claude Code picks an old action version</a>, but dependabot immediately opens a PR to fix it, so that seems as convenient as remembering to point it at something like this. It was more annoying when it used to do web searches to try to get the hash to pin to (which was always wrong), but these days I think there&rsquo;s a baked in skill that knows how to use Git to get the right one.</p>\n",
+				"content_text": "I also [find it annoying when Claude Code picks an old action version](https://simonwillison.net/2025/Dec/28/actions-latest/), but dependabot immediately opens a PR to fix it, so that seems as convenient as remembering to point it at something like this. It was more annoying when it used to do web searches to try to get the hash to pin to (which was always wrong), but these days I think there's a baked in skill that knows how to use Git to get the right one.\n",
+				"date_published": "2026-03-22T22:41:08+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/22/i-also-find-it-annoying.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/22/i-like-numbers-you-should.html",
+				
+				"content_html": "<p>I like &ldquo;numbers you should know&rdquo;, like <a href=\"https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/\">this Python one</a> or <a href=\"https://gist.github.com/jboner/2841832\">this latency one</a>, but I feel you should have a <em>sense</em> of the difference here, and maybe some idea of the algorithmic complexity and CPU/memory trade-offs for some, but don&rsquo;t need to actually <em>know</em> them. You can always check them, or look up pages like this.</p>\n<p>(The Python one is a very nicely put together page, though.)</p>\n",
+				"content_text": "I like \"numbers you should know\", like [this Python one](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/) or [this latency one](https://gist.github.com/jboner/2841832), but I feel you should have a *sense* of the difference here, and maybe some idea of the algorithmic complexity and CPU/memory trade-offs for some, but don't need to actually *know* them. You can always check them, or look up pages like this.\n\n(The Python one is a very nicely put together page, though.)\n",
+				"date_published": "2026-03-22T22:38:33+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/22/i-like-numbers-you-should.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/22/interesting-insights-into-managing-go.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://words.filippo.io/dependabot/\">insights into managing Go dependency updates</a> particularly in light of the recent Trivy issues.</p>\n",
+				"content_text": "Interesting [insights into managing Go dependency updates](https://words.filippo.io/dependabot/) particularly in light of the recent Trivy issues.\n",
+				"date_published": "2026-03-22T22:15:21+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/22/interesting-insights-into-managing-go.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/22/first-and-most-obvious-when.html",
+				
+				"content_html": "<blockquote>\n<p>First and most obvious, when we read to hit a goal rather than simply for pleasure, everybody reads as fast as possible to hike up their numbers.</p>\n</blockquote>\n<p>I don&rsquo;t find this to be true. If I wanted to bump my numbers, I would read short books. The goal encourages me to read rather than scroll TikTok or other less healthy ways to consume time.</p>\n<blockquote>\n<p>More worrisome, when we read fast, we experience nothing. The book does not have a chance to burrow into our heart.</p>\n</blockquote>\n<p>I don&rsquo;t think this is true, either. I have read fast my entire life, and absolutely there have been books that burrowed into my heart.</p>\n<blockquote>\n<p>If we’re gamifying our reading, we stop reading widely: we pick different versions of a story that we are guaranteed to like, and with that we lose a sense of well-roundedness, a sense of discovery and surprise.</p>\n</blockquote>\n<p>Surprise, I disagree with this too. I read more widely now than I did in years past, and I track my reading now and didn&rsquo;t in the past. I don&rsquo;t believe there is any connection at all between these two things.</p>\n<p>From <a href=\"https://lithub.com/what-we-lose-when-we-gamify-reading/\">What We Lose When We Gamify Reading</a> - I&rsquo;m not sure I would classify tracking reading and an annual goal as gamifying either.</p>\n",
+				"content_text": "> First and most obvious, when we read to hit a goal rather than simply for pleasure, everybody reads as fast as possible to hike up their numbers.\n\nI don't find this to be true. If I wanted to bump my numbers, I would read short books. The goal encourages me to read rather than scroll TikTok or other less healthy ways to consume time.\n\n> More worrisome, when we read fast, we experience nothing. The book does not have a chance to burrow into our heart.\n\nI don't think this is true, either. I have read fast my entire life, and absolutely there have been books that burrowed into my heart.\n\n> If we’re gamifying our reading, we stop reading widely: we pick different versions of a story that we are guaranteed to like, and with that we lose a sense of well-roundedness, a sense of discovery and surprise.\n\nSurprise, I disagree with this too. I read more widely now than I did in years past, and I track my reading now and didn't in the past. I don't believe there is any connection at all between these two things.\n\nFrom [What We Lose When We Gamify Reading](https://lithub.com/what-we-lose-when-we-gamify-reading/) - I'm not sure I would classify tracking reading and an annual goal as gamifying either.\n",
+				"date_published": "2026-03-22T22:09:47+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/22/first-and-most-obvious-when.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/22/none-of-them-are-what.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://larahogan.me/blog/ai-aha-team-meetings/\">None of them are what I would call evangelists; they are people who have felt reticent to adopt these tools, and still have some serious feelings about being complicit in the environmental cost and the politics around who’s building these tools and why. But now they’re using AI—Claude, mostly—to do the vast majority of their programming work.</a></p>\n</blockquote>\n<p>👋 🙋</p>\n",
+				"content_text": "> [None of them are what I would call evangelists; they are people who have felt reticent to adopt these tools, and still have some serious feelings about being complicit in the environmental cost and the politics around who’s building these tools and why. But now they’re using AI—Claude, mostly—to do the vast majority of their programming work.](https://larahogan.me/blog/ai-aha-team-meetings/)\n\n👋 🙋\n",
+				"date_published": "2026-03-22T21:35:26+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/22/none-of-them-are-what.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/22/i-dont-love-spotify-and.html",
+				
+				"content_html": "<p>I don&rsquo;t love Spotify, and I have issues with Wrapped, but this is an interesting <a href=\"https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped\">insight into producing more than a billion AI generated reports</a>.</p>\n",
+				"content_text": "I don't love Spotify, and I have issues with Wrapped, but this is an interesting [insight into producing more than a billion AI generated reports](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped).\n",
+				"date_published": "2026-03-22T21:25:50+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/22/i-dont-love-spotify-and.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/03/22/i-keep-coming-back-to.html",
 				
 				"content_html": "<blockquote>\n<p><a href=\"https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/\">I keep coming back to the trees. I’ve been maintaining Open Source projects for close to two decades now. The last startup I worked on, I spent 10 years at. That’s not because I’m particularly disciplined or virtuous. It’s because I or someone else, planted something, and then I kept showing up, and eventually the thing had roots that went deeper than my enthusiasm on any given day. That’s what time does! It turns some idea or plan into a commitment and a commitment into something that can shelter and grow other people.</a></p>\n</blockquote>\n<p>A bit like a <a href=\"https://www.mainland.co.nz/our-craft/videos.html\">Mainland ad</a> but for AI (and more thoughtful).</p>\n",
@@ -1298,7 +1362,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -2874,7 +2938,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
