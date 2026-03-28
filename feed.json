@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/28/get-your-hands-dirty-and.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://brooker.co.za/blog/2026/03/20/ic-leadership.html\">Get your hands dirty and use the tools. Build something real. Build a prototype. Build a thousand little experiments in an afternoon. Challenge yourself to try to do something you previously would have assumed is impossible, or infeasible, or unaffordable. Find one of the ways that you’re worried that the new tools are going to lead to trouble, and actively fix it. Then examine the things you’re learning. Update your constants.</a></p>\n</blockquote>\n<p>This feels very true to me.</p>\n",
+				"content_text": "> [Get your hands dirty and use the tools. Build something real. Build a prototype. Build a thousand little experiments in an afternoon. Challenge yourself to try to do something you previously would have assumed is impossible, or infeasible, or unaffordable. Find one of the ways that you’re worried that the new tools are going to lead to trouble, and actively fix it. Then examine the things you’re learning. Update your constants.](https://brooker.co.za/blog/2026/03/20/ic-leadership.html)\n\nThis feels very true to me.\n",
+				"date_published": "2026-03-28T23:19:09+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/28/get-your-hands-dirty-and.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/23/in-softwareand-only-in-softwareops.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://charitydotwtf.substack.com/p/bring-back-ops-pride\">In software—and only in software—ops has become a dirty word. Nobody wants to claim it. Operations teams got renamed to DevOps teams, SRE, infrastructure, production engineering, or more recently, platform engineering teams. Anything but ops.</a></p>\n</blockquote>\n",
+				"content_text": "> [In software—and only in software—ops has become a dirty word. Nobody wants to claim it. Operations teams got renamed to DevOps teams, SRE, infrastructure, production engineering, or more recently, platform engineering teams. Anything but ops.](https://charitydotwtf.substack.com/p/bring-back-ops-pride)\n",
+				"date_published": "2026-03-23T22:08:02+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/23/in-softwareand-only-in-softwareops.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/03/23/all-of-the-coding-agents.html",
 				
 				"content_html": "<blockquote>\n<p><a href=\"https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/\">All of the coding agents are fluent in using Git&rsquo;s features, both basic and advanced. This fluency means we can be more ambitious about how we use Git ourselves. We don&rsquo;t need to memorize how to do things with Git, but staying aware of what&rsquo;s possible means we can take advantage of the full suite of Git&rsquo;s abilities.</a></p>\n</blockquote>\n<p>This is specifically about Git, a notoriously tricky tool, but is very true for many others too.</p>\n",
