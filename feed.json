@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/30/let-the-agent-do-the.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/\">let the agent do the boring stuff, the stuff that won&rsquo;t teach you anything new, or try out different things you&rsquo;d otherwise not have time for. Then you evaluate what it came up with, take the ideas that are actually reasonable and correct, and finalize the implementation. Yes, sure, you can also use an agent for that final step.</a></p>\n</blockquote>\n<p>Lots of swears, but worth a read.</p>\n",
+				"content_text": "> [let the agent do the boring stuff, the stuff that won't teach you anything new, or try out different things you'd otherwise not have time for. Then you evaluate what it came up with, take the ideas that are actually reasonable and correct, and finalize the implementation. Yes, sure, you can also use an agent for that final step.](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)\n\nLots of swears, but worth a read.\n",
+				"date_published": "2026-03-30T20:02:30+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/30/let-the-agent-do-the.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/29/semver-was-an-attempt-to.html",
+				
+				"content_html": "<blockquote>\n<p>Semver was an attempt to make versioning true-or-false: either a release breaks compatibility or it doesn’t. In practice it became good-or-bad anyway. Different ecosystems interpret it differently. Some communities treat it as sacred law, others as rough guidance. The spec’s existence didn’t settle the question. Hyrum’s Law makes it worse: a bug fix for one user is a breaking change for someone who depended on that bug. There’s no objectively correct version bump, only outcomes that help or hurt specific people.</p>\n</blockquote>\n<p>This and other good points, in <a href=\"https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html\">Package Management is a Wicked Problem</a>.</p>\n",
+				"content_text": "> Semver was an attempt to make versioning true-or-false: either a release breaks compatibility or it doesn’t. In practice it became good-or-bad anyway. Different ecosystems interpret it differently. Some communities treat it as sacred law, others as rough guidance. The spec’s existence didn’t settle the question. Hyrum’s Law makes it worse: a bug fix for one user is a breaking change for someone who depended on that bug. There’s no objectively correct version bump, only outcomes that help or hurt specific people.\n\nThis and other good points, in [Package Management is a Wicked Problem](https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html).\n",
+				"date_published": "2026-03-29T01:11:36+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/29/semver-was-an-attempt-to.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/28/the-stories-of-the-early.html",
+				
+				"content_html": "<p>The stories of the early days of Slack have reached <a href=\"https://buildingslack.com/salesforce-part-one/\">the icky stage</a>.</p>\n",
+				"content_text": "The stories of the early days of Slack have reached [the icky stage](https://buildingslack.com/salesforce-part-one/).\n",
+				"date_published": "2026-03-28T23:25:15+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/28/the-stories-of-the-early.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/03/28/get-your-hands-dirty-and.html",
 				
 				"content_html": "<blockquote>\n<p><a href=\"https://brooker.co.za/blog/2026/03/20/ic-leadership.html\">Get your hands dirty and use the tools. Build something real. Build a prototype. Build a thousand little experiments in an afternoon. Challenge yourself to try to do something you previously would have assumed is impossible, or infeasible, or unaffordable. Find one of the ways that you’re worried that the new tools are going to lead to trouble, and actively fix it. Then examine the things you’re learning. Update your constants.</a></p>\n</blockquote>\n<p>This feels very true to me.</p>\n",
