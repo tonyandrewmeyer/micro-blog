@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/04/01/in-any-case-there-is.html",
+				
+				"content_html": "<blockquote>\n<p>In any case, there is no future for any AI company that uses a subscription-based approach, at least not one where they don’t directly pass on the cost of compute. This is a huge problem for both Anthropic and OpenAI, as their scurrilous growth-lust means that they’ve done everything they can to get customers used to paying a single monthly cost that directly obfuscates the cost of doing business.</p>\n</blockquote>\n<p><a href=\"https://www.wheresyoured.at/why-are-we-still-doing-this/\">Ed Zitron</a> always has a lot of (probably too many) words and I think there is more value in present LLM output than he sees, but his financial analysis I very much believe. This section on subscriptions and token cost seems spot on, and I also don&rsquo;t know how it can possibly get resolved without some magic fix appearing.</p>\n",
+				"content_text": "> In any case, there is no future for any AI company that uses a subscription-based approach, at least not one where they don’t directly pass on the cost of compute. This is a huge problem for both Anthropic and OpenAI, as their scurrilous growth-lust means that they’ve done everything they can to get customers used to paying a single monthly cost that directly obfuscates the cost of doing business. \n\n[Ed Zitron](https://www.wheresyoured.at/why-are-we-still-doing-this/) always has a lot of (probably too many) words and I think there is more value in present LLM output than he sees, but his financial analysis I very much believe. This section on subscriptions and token cost seems spot on, and I also don't know how it can possibly get resolved without some magic fix appearing.\n",
+				"date_published": "2026-04-01T16:01:01+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/04/01/in-any-case-there-is.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/30/parents-are-still-buying-weirdly.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://thespinoff.co.nz/society/28-03-2026/how-do-school-photos-still-exist-in-the-age-of-smart-phones\">Parents are still buying weirdly formal and awkwardly-posed school photos. Why?</a></p>\n</blockquote>\n<p>An excellent question. For me, I think was this (while he was still at school):</p>\n<blockquote>\n<p>The third reason is my own feeble sentimentality. If there is a picture that exists out there of my precious offspring, how can I say ‘no, thank you I don’t want it’?</p>\n</blockquote>\n<p>I did love how Ahuroa School did their own photographs, and they were always <em>vastly</em> better than the &ldquo;professional&rdquo; ones. In nature, moderately natural, not in uniform, fairly relaxed. I&rsquo;m not sure if they still do that or not &ndash; part of it would have been that a parent was an excellent photographer, but surely that will continue to happen, to some degree of &ldquo;excellent&rdquo;.</p>\n<p>I don&rsquo;t understand why schools don&rsquo;t do this themselves more. Some staff member or student must be a decent photographer with reasonable equipment, and then either sell them for peanuts pocketing the money for the school, or just give them to the poor parents who have forked out for enough school stuff already.</p>\n",
+				"content_text": "> [Parents are still buying weirdly formal and awkwardly-posed school photos. Why?](https://thespinoff.co.nz/society/28-03-2026/how-do-school-photos-still-exist-in-the-age-of-smart-phones)\n\nAn excellent question. For me, I think was this (while he was still at school):\n\n> The third reason is my own feeble sentimentality. If there is a picture that exists out there of my precious offspring, how can I say ‘no, thank you I don’t want it’?\n\nI did love how Ahuroa School did their own photographs, and they were always *vastly* better than the \"professional\" ones. In nature, moderately natural, not in uniform, fairly relaxed. I'm not sure if they still do that or not -- part of it would have been that a parent was an excellent photographer, but surely that will continue to happen, to some degree of \"excellent\".\n\nI don't understand why schools don't do this themselves more. Some staff member or student must be a decent photographer with reasonable equipment, and then either sell them for peanuts pocketing the money for the school, or just give them to the poor parents who have forked out for enough school stuff already.\n",
+				"date_published": "2026-03-30T20:45:51+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/30/parents-are-still-buying-weirdly.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/30/theres-one-core-skill-that.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/\">there’s one core skill that separates senior+ engineers from everyone else: reducing ambiguity. Everything else flows from that.</a></p>\n</blockquote>\n<p>I&rsquo;m not sure <em>everything</em> else flows from that, but I agree this is a big part.</p>\n",
+				"content_text": "> [there’s one core skill that separates senior+ engineers from everyone else: reducing ambiguity. Everything else flows from that.](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)\n\nI'm not sure *everything* else flows from that, but I agree this is a big part.\n",
+				"date_published": "2026-03-30T20:36:51+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/30/theres-one-core-skill-that.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/30/treating-engineers-as-fungible-assets.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://lalitm.com/software-engineering-outside-the-spotlight/\">Treating engineers as fungible assets destroys context. You might gain fresh eyes, but you lose the implicit knowledge of how systems actually break. Stewardship, staying with a system long-term, unlocks compounding returns that are impossible to achieve on a short rotation.</a></p>\n</blockquote>\n<p>And</p>\n<blockquote>\n<p>Some problems, however, only reveal their shape over long horizons.</p>\n</blockquote>\n<p>And</p>\n<blockquote>\n<p>When you have spent years delivering reliable tools, you earn the political capital to say “No” to the spotlight when it threatens the product.</p>\n</blockquote>\n<p>Lots of good points about how Staff+ works differently outside of &ldquo;product&rdquo;.</p>\n",
+				"content_text": "> [Treating engineers as fungible assets destroys context. You might gain fresh eyes, but you lose the implicit knowledge of how systems actually break. Stewardship, staying with a system long-term, unlocks compounding returns that are impossible to achieve on a short rotation.](https://lalitm.com/software-engineering-outside-the-spotlight/)\n\nAnd\n\n> Some problems, however, only reveal their shape over long horizons.\n\nAnd\n\n> When you have spent years delivering reliable tools, you earn the political capital to say “No” to the spotlight when it threatens the product.\n\nLots of good points about how Staff+ works differently outside of \"product\".\n",
+				"date_published": "2026-03-30T20:11:39+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/30/treating-engineers-as-fungible-assets.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/03/30/interesting-thoughts-on-tracing.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://cra.mr/tracing-sucks/\">thoughts on tracing</a>.</p>\n",
+				"content_text": "Interesting [thoughts on tracing](https://cra.mr/tracing-sucks/).\n",
+				"date_published": "2026-03-30T20:06:32+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/03/30/interesting-thoughts-on-tracing.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/03/30/let-the-agent-do-the.html",
 				
 				"content_html": "<blockquote>\n<p><a href=\"https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/\">let the agent do the boring stuff, the stuff that won&rsquo;t teach you anything new, or try out different things you&rsquo;d otherwise not have time for. Then you evaluate what it came up with, take the ideas that are actually reasonable and correct, and finalize the implementation. Yes, sure, you can also use an agent for that final step.</a></p>\n</blockquote>\n<p>Lots of swears, but worth a read.</p>\n",
@@ -1402,7 +1442,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -2978,7 +3018,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
