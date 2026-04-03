@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/04/03/a-straightforward-explanation-of-day.html",
+				
+				"content_html": "<p>A <a href=\"https://octopus.com/blog/difference-between-day-0-1-2-operations\">straightforward explanation of day 0, 1, and 2 ops</a>.</p>\n",
+				"content_text": "A [straightforward explanation of day 0, 1, and 2 ops](https://octopus.com/blog/difference-between-day-0-1-2-operations).\n",
+				"date_published": "2026-04-03T22:09:56+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/04/03/a-straightforward-explanation-of-day.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/04/02/there-are-obviously-some-xkcds.html",
+				
+				"content_html": "<p>There are obviously some xkcd&rsquo;s that are iconic, but their humour doesn&rsquo;t always hit with me personally. However, <a href=\"https://xkcd.com/3227\">today&rsquo;s dark mode one</a> is both amusing and one of the really impressive ones (you need to use the page, not view in a RSS reader, like I normally do).</p>\n",
+				"content_text": "There are obviously some xkcd's that are iconic, but their humour doesn't always hit with me personally. However, [today's dark mode one](https://xkcd.com/3227) is both amusing and one of the really impressive ones (you need to use the page, not view in a RSS reader, like I normally do).\n",
+				"date_published": "2026-04-02T11:15:56+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/04/02/there-are-obviously-some-xkcds.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/04/01/regardless-the-raw-economics-of.html",
+				
+				"content_html": "<blockquote>\n<p>Regardless, the raw economics of the AI data center boom are horrendous. Even in the best-case scenario, with guaranteed tenancy for years, these data centers are so debt-dependent and drenched in depreciation, opex, and maintenance that even the most meager margins are hard to attain.</p>\n</blockquote>\n<p>I&rsquo;m sad that none of our local media seem to be addressing <a href=\"https://www.wheresyoured.at/data-center-crisis/\">the actual viability</a> (🔒) of this new &ldquo;AI factory&rdquo; data centre in Southland. There&rsquo;s at least some addressing on concerns about water (and perhaps electricity, although if we did sensible things in our energy usage that could go away; but we need a better government than the current one for that) &ndash; media seem to just accept that it&rsquo;s a good idea financially, whereas the evidence doesn&rsquo;t really back that up.</p>\n",
+				"content_text": "> Regardless, the raw economics of the AI data center boom are horrendous. Even in the best-case scenario, with guaranteed tenancy for years, these data centers are so debt-dependent and drenched in depreciation, opex, and maintenance that even the most meager margins are hard to attain.\n\nI'm sad that none of our local media seem to be addressing [the actual viability](https://www.wheresyoured.at/data-center-crisis/) (🔒) of this new \"AI factory\" data centre in Southland. There's at least some addressing on concerns about water (and perhaps electricity, although if we did sensible things in our energy usage that could go away; but we need a better government than the current one for that) -- media seem to just accept that it's a good idea financially, whereas the evidence doesn't really back that up.\n",
+				"date_published": "2026-04-01T16:24:02+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/04/01/regardless-the-raw-economics-of.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/04/01/in-any-case-there-is.html",
 				
 				"content_html": "<blockquote>\n<p>In any case, there is no future for any AI company that uses a subscription-based approach, at least not one where they don’t directly pass on the cost of compute. This is a huge problem for both Anthropic and OpenAI, as their scurrilous growth-lust means that they’ve done everything they can to get customers used to paying a single monthly cost that directly obfuscates the cost of doing business.</p>\n</blockquote>\n<p><a href=\"https://www.wheresyoured.at/why-are-we-still-doing-this/\">Ed Zitron</a> always has a lot of (probably too many) words and I think there is more value in present LLM output than he sees, but his financial analysis I very much believe. This section on subscriptions and token cost seems spot on, and I also don&rsquo;t know how it can possibly get resolved without some magic fix appearing.</p>\n",
