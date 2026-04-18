@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/04/18/ace-a-project-at-github.html",
+				
+				"content_html": "<p><a href=\"https://maggieappleton.com/zero-alignment/\">&ldquo;ACE&rdquo;</a>, a project at GitHub Next, looks really interesting. I think a lot of this would be really nice even without the AI element. It&rsquo;s funny how so much of the best software engineering tooling is really old (mature?) tooling, with splashes of newness here and there.</p>\n",
+				"content_text": "[\"ACE\"](https://maggieappleton.com/zero-alignment/), a project at GitHub Next, looks really interesting. I think a lot of this would be really nice even without the AI element. It's funny how so much of the best software engineering tooling is really old (mature?) tooling, with splashes of newness here and there.\n",
+				"date_published": "2026-04-18T18:16:57+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/04/18/ace-a-project-at-github.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/04/17/and-ill-be-honest-if.html",
 				
 				"content_html": "<blockquote>\n<p>And I’ll be honest: if I could set aside the ethical, legal, economic, and environmental issues with generative AI, it’d be pretty damn cool, too. Large language models give us a quantum leap in natural language processing, proofreading, transcription, translation, and summarization. Yes, I know all the ways in which LLMs are “bad” at all those things, but in comparison to the previous state of the art in machine-powered proofing, transcription, translation, and summarization, it’s just no contest. &hellip; But of course, you can’t set aside the ethical, legal, economic, and environmental issues with generative AI</p>\n</blockquote>\n<p>This is how I feel, too. <a href=\"https://coyotetracks.org/blog/ready-for-revolution/\">Lots of other thoughts around the intersection of generative AI and capitalism worth reading</a>.</p>\n",
