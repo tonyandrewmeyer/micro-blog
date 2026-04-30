@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/04/30/a-stag-is-absolutely-not.html",
+				
+				"content_html": "<p>A <a href=\"https://thespinoff.co.nz/pop-culture/23-04-2026/the-egot-of-new-zealand-music-could-marlon-williams-become-our-newest-stag\">STAG</a> is absolutely not a New Zealand EGOT. The point of the EGOT is you&rsquo;re award-winning across multiple genre. A STAG means you&rsquo;re award-winning across music.</p>\n<p>A real NZ EGOT would be something like a <a href=\"https://www.nzscreenawards.co.nz\">NZ Screen Award</a> in both TV and film categories, an <a href=\"https://aotearoamusicawards.co.nz\">Aotearoa Music Award</a>, and I guess a regional theatre award, or maybe even take a slightly different tack and use a <a href=\"https://comedytrust.org.nz\">NZ Comedy Trust Award</a>.</p>\n",
+				"content_text": "A [STAG](https://thespinoff.co.nz/pop-culture/23-04-2026/the-egot-of-new-zealand-music-could-marlon-williams-become-our-newest-stag) is absolutely not a New Zealand EGOT. The point of the EGOT is you're award-winning across multiple genre. A STAG means you're award-winning across music.\n\nA real NZ EGOT would be something like a [NZ Screen Award](https://www.nzscreenawards.co.nz) in both TV and film categories, an [Aotearoa Music Award](https://aotearoamusicawards.co.nz), and I guess a regional theatre award, or maybe even take a slightly different tack and use a [NZ Comedy Trust Award](https://comedytrust.org.nz).\n",
+				"date_published": "2026-04-30T13:31:01+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/04/30/a-stag-is-absolutely-not.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/04/18/none-of-this-is-new.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://eversole.dev/blog/we-automated-everything/\">None of this is new. The complexity, the configuration bloat, the broken incentives, all of it predates AI by years. What AI did was pour gasoline on it.</a></p>\n</blockquote>\n<p>And:</p>\n<blockquote>\n<p>Great engineering is not deployments. It&rsquo;s not monitoring, not dashboards. It&rsquo;s understanding. Knowing how the pieces connect, who owns what, how changes spread, and where risk has quietly been building for months until it suddenly matters.</p>\n</blockquote>\n<p>Posing interesting questions.</p>\n",
+				"content_text": "> [None of this is new. The complexity, the configuration bloat, the broken incentives, all of it predates AI by years. What AI did was pour gasoline on it.](https://eversole.dev/blog/we-automated-everything/)\n\nAnd:\n\n> Great engineering is not deployments. It's not monitoring, not dashboards. It's understanding. Knowing how the pieces connect, who owns what, how changes spread, and where risk has quietly been building for months until it suddenly matters.\n\nPosing interesting questions.\n",
+				"date_published": "2026-04-18T19:08:54+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/04/18/none-of-this-is-new.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/04/18/you-do-not-get-an.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/\">You do not get an informed view by trying something for 15 minutes, getting annoyed once, and returning to your previous tools. You also do not get it by admiring demos, listening to podcasts or discussing on social media. You have to use it enough to get past both the first disappointment and the honeymoon phase. Seemingly with AI tools, true understanding is not a matter of hours but weeks of investment.</a></p>\n</blockquote>\n<p>Very true in the AI context of the article, but also for other places, for example reviews of things the reviewer has used for hours or a day.</p>\n",
+				"content_text": "> [You do not get an informed view by trying something for 15 minutes, getting annoyed once, and returning to your previous tools. You also do not get it by admiring demos, listening to podcasts or discussing on social media. You have to use it enough to get past both the first disappointment and the honeymoon phase. Seemingly with AI tools, true understanding is not a matter of hours but weeks of investment.](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/)\n\nVery true in the AI context of the article, but also for other places, for example reviews of things the reviewer has used for hours or a day.\n",
+				"date_published": "2026-04-18T18:53:37+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/04/18/you-do-not-get-an.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/04/18/ace-a-project-at-github.html",
 				
 				"content_html": "<p><a href=\"https://maggieappleton.com/zero-alignment/\">&ldquo;ACE&rdquo;</a>, a project at GitHub Next, looks really interesting. I think a lot of this would be really nice even without the AI element. It&rsquo;s funny how so much of the best software engineering tooling is really old (mature?) tooling, with splashes of newness here and there.</p>\n",
