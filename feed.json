@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/05/25/a-nice-way-to-run.html",
+				
+				"content_html": "<p>A nice <a href=\"https://marcgg.com/blog/2024/11/20/standup/\">way to run daily standup meetings</a>. I would like ours to move closer to this, although it&rsquo;s not super far off. The only bit not feasible is holding them just before lunch, since people are in multiple time zones, so not everyone is lunching simultaneously.</p>\n",
+				"content_text": "A nice [way to run daily standup meetings](https://marcgg.com/blog/2024/11/20/standup/). I would like ours to move closer to this, although it's not super far off. The only bit not feasible is holding them just before lunch, since people are in multiple time zones, so not everyone is lunching simultaneously.\n",
+				"date_published": "2026-05-25T01:05:00+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/05/25/a-nice-way-to-run.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/05/11/the-impossible-things-we-have.html",
+				
+				"content_html": "<p><em><a href=\"https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/\">The impossible things we have to believe</a></em>. Depressing, but true.</p>\n",
+				"content_text": "*[The impossible things we have to believe](https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/)*. Depressing, but true.\n",
+				"date_published": "2026-05-11T08:26:14+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/05/11/the-impossible-things-we-have.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/05/11/you-would-leave-your-house.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/\">You would leave your house and then just disappear. This is presented as kind of romantic now, as if we were just free spirits on the wind and could stop and really watch a sunset. In practice it was mostly an annoying game of attempting to guess where people were. You&rsquo;d call their job, they had left. You&rsquo;d call their house, they weren&rsquo;t home yet. Presumably they were in transit but you actually had no idea.</a></p>\n</blockquote>\n<p>A positive start to the improvements the internet has brought, before diving into how it all went terribly wrong.</p>\n",
+				"content_text": "> [You would leave your house and then just disappear. This is presented as kind of romantic now, as if we were just free spirits on the wind and could stop and really watch a sunset. In practice it was mostly an annoying game of attempting to guess where people were. You'd call their job, they had left. You'd call their house, they weren't home yet. Presumably they were in transit but you actually had no idea.](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/)\n\nA positive start to the improvements the internet has brought, before diving into how it all went terribly wrong.\n",
+				"date_published": "2026-05-11T08:22:34+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/05/11/you-would-leave-your-house.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/05/11/the-boring-internet-a-love.html",
+				
+				"content_html": "<p><em><a href=\"https://terrygodier.com/the-boring-internet\">The Boring Internet</a></em>, a love letter to protocols.</p>\n",
+				"content_text": "*[The Boring Internet](https://terrygodier.com/the-boring-internet)*, a love letter to protocols.\n",
+				"date_published": "2026-05-11T08:14:02+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/05/11/the-boring-internet-a-love.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/05/11/the-number-an-npm-or.html",
 				
 				"content_html": "<blockquote>\n<p>The number an npm or PyPI API gives you is dominated by CI runners reinstalling the world on every push, with mirror traffic, bot scans, and the occasional human mixed in. It is not a count of users, or of installations, or of anything that maps cleanly to “how many people are affected if this breaks”.</p>\n</blockquote>\n<p>and</p>\n<blockquote>\n<p>CVE count is routinely used as a security signal and measures the opposite of what people assume.</p>\n</blockquote>\n<p>and</p>\n<blockquote>\n<p>Commit cadence and “last activity” penalise software that is finished.</p>\n</blockquote>\n<p>and</p>\n<blockquote>\n<p>a project that had eighty contributors in 2012 and has one exhausted person today shows a reassuring headcount, and there is no field anywhere in the API or the registry metadata for whether that one person is close to walking away.</p>\n</blockquote>\n<p>Really, just <a href=\"https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html\">read the whole thing</a>.</p>\n",
@@ -1538,7 +1570,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -3114,7 +3146,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
