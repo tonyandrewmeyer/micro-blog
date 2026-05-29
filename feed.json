@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/05/29/i-have-no-idea-why.html",
+				
+				"content_html": "<p>I have no idea why another would want to <a href=\"https://unsung.aresluna.org/the-surprising-richness-of-garageband\">do this with a phone</a> but it is amazing that you can. Imagine doing this in front of someone even 25 years ago.</p>\n",
+				"content_text": "I have no idea why another would want to [do this with a phone](https://unsung.aresluna.org/the-surprising-richness-of-garageband) but it is amazing that you can. Imagine doing this in front of someone even 25 years ago.\n",
+				"date_published": "2026-05-29T22:15:06+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/05/29/i-have-no-idea-why.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/05/25/this-is-an-amazingly-well.html",
+				
+				"content_html": "<p>This is an amazingly well put together <a href=\"https://samwho.dev/turing-machines/\">explanation of Turing machines</a>.</p>\n",
+				"content_text": "This is an amazingly well put together [explanation of Turing machines](https://samwho.dev/turing-machines/).\n",
+				"date_published": "2026-05-25T01:55:43+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/05/25/this-is-an-amazingly-well.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/05/25/a-nice-way-to-run.html",
 				
 				"content_html": "<p>A nice <a href=\"https://marcgg.com/blog/2024/11/20/standup/\">way to run daily standup meetings</a>. I would like ours to move closer to this, although it&rsquo;s not super far off. The only bit not feasible is holding them just before lunch, since people are in multiple time zones, so not everyone is lunching simultaneously.</p>\n",
