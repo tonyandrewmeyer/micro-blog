@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/06/01/the-links-are-annoyingly-to.html",
+				
+				"content_html": "<p>The links are annoyingly to Spotify (but all of these are on Apple Music) and some of the answers are clearly political (unsurprising given the people) but this is a pretty decent set of <a href=\"https://thespinoff.co.nz/politics/31-05-2026/from-herbs-to-head-like-a-hole-mps-on-their-favourite-local-albums\">NZ music to listen to</a>, even though NZMM is now over for 2026.</p>\n",
+				"content_text": "The links are annoyingly to Spotify (but all of these are on Apple Music) and some of the answers are clearly political (unsurprising given the people) but this is a pretty decent set of [NZ music to listen to](https://thespinoff.co.nz/politics/31-05-2026/from-herbs-to-head-like-a-hole-mps-on-their-favourite-local-albums), even though NZMM is now over for 2026.\n",
+				"date_published": "2026-06-01T17:36:42+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/06/01/the-links-are-annoyingly-to.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/06/01/very-approachable-and-understandable-and.html",
+				
+				"content_html": "<p>Very approachable and understandable (and well presented) explanation of <a href=\"https://samwho.dev/reservoir-sampling/\">reservoir sampling</a>.</p>\n",
+				"content_text": "Very approachable and understandable (and well presented) explanation of [reservoir sampling](https://samwho.dev/reservoir-sampling/).\n",
+				"date_published": "2026-06-01T10:58:33+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/06/01/very-approachable-and-understandable-and.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/05/31/what-the-field-requires-by.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://nooneshappy.com/article/the-ai-bubble/\">What the field requires, by their own account, is research — not half a trillion dollars in concrete and copper. The buildout is an answer to a question the technology has not yet resolved, built at a scale that forecloses the possibility of changing course when the research points somewhere else.</a></p>\n</blockquote>\n<p>Also good points how the blurry way people talk about LLMs and the things that wrapping an LLM in a harness of software engineering knowledge and tooling confuses things.</p>\n",
+				"content_text": "> [What the field requires, by their own account, is research — not half a trillion dollars in concrete and copper. The buildout is an answer to a question the technology has not yet resolved, built at a scale that forecloses the possibility of changing course when the research points somewhere else.](https://nooneshappy.com/article/the-ai-bubble/)\n\nAlso good points how the blurry way people talk about LLMs and the things that wrapping an LLM in a harness of software engineering knowledge and tooling confuses things.\n",
+				"date_published": "2026-05-31T13:34:21+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/05/31/what-the-field-requires-by.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/05/31/120126.html",
+				
+				"content_html": "<blockquote>\n<p>Previous general-purpose technologies diffused across decades, which gave workforces time to retrain, to relocate, and to move children into different trades than their parents. The steam engine, electrification, and the personal computer each took a working generation or more to reshape the labor market, and the adjustment, however brutal, happened on a human timescale. The current automation of cognitive work is compressing that timeline toward a handful of years. The compression is more striking because the measured payoff has not arrived. Goldman Sachs Chief Economist Jan Hatzius said that AI investment added basically zero to United States economic growth in 2025 [&hellip;]. Workers are paying the social cost of a bet that has not yet produced the promised aggregate gains.</p>\n</blockquote>\n<p>This is the most significant aspect of the speed, I feel. I don&rsquo;t agree with everything in the <a href=\"https://jackmaguire.org/blog/ai-job-grief/\">AI Job Grief post</a>, in particular I&rsquo;m not sure physical and manual labour workers don&rsquo;t also tie identity and work. But it&rsquo;s an interesting read.</p>\n<p>For this:</p>\n<blockquote>\n<p>The Futurology question, “everyone has lost their job and only 10 trillionaires own everything. Now what?”, has no cultural answer yet</p>\n</blockquote>\n<p>The answer <em>has</em> to be government, and we have to vote accordingly.</p>\n",
+				"content_text": "> Previous general-purpose technologies diffused across decades, which gave workforces time to retrain, to relocate, and to move children into different trades than their parents. The steam engine, electrification, and the personal computer each took a working generation or more to reshape the labor market, and the adjustment, however brutal, happened on a human timescale. The current automation of cognitive work is compressing that timeline toward a handful of years. The compression is more striking because the measured payoff has not arrived. Goldman Sachs Chief Economist Jan Hatzius said that AI investment added basically zero to United States economic growth in 2025 [...]. Workers are paying the social cost of a bet that has not yet produced the promised aggregate gains.\n\nThis is the most significant aspect of the speed, I feel. I don't agree with everything in the [AI Job Grief post](https://jackmaguire.org/blog/ai-job-grief/), in particular I'm not sure physical and manual labour workers don't also tie identity and work. But it's an interesting read.\n\nFor this:\n\n> The Futurology question, “everyone has lost their job and only 10 trillionaires own everything. Now what?”, has no cultural answer yet\n\nThe answer *has* to be government, and we have to vote accordingly.\n",
+				"date_published": "2026-05-31T12:01:26+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/05/31/120126.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/05/31/but-the-thing-is-llms.html",
 				
 				"content_html": "<blockquote>\n<p><a href=\"https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\">But the thing is, LLMs are very flexible. And you can use them just as effectively to write high-quality code more slowly.</a></p>\n</blockquote>\n<p>Solid advice worth reading, if you&rsquo;re not rabidly anti-LLM.</p>\n",
