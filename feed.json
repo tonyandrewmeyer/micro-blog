@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/06/04/interesting-post-on-marketing-at.html",
+				
+				"content_html": "<p>Interesting post on <a href=\"https://blog.sentry.io/two-years-without-cookies-on-the-site/\">marketing at Sentry two years after dropping cookies</a>. I have a known positive bias towards Sentry, but I wish more companies experimented like this.</p>\n",
+				"content_text": "Interesting post on [marketing at Sentry two years after dropping cookies](https://blog.sentry.io/two-years-without-cookies-on-the-site/). I have a known positive bias towards Sentry, but I wish more companies experimented like this.\n",
+				"date_published": "2026-06-04T13:55:23+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/06/04/interesting-post-on-marketing-at.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/06/01/the-links-are-annoyingly-to.html",
 				
 				"content_html": "<p>The links are annoyingly to Spotify (but all of these are on Apple Music) and some of the answers are clearly political (unsurprising given the people) but this is a pretty decent set of <a href=\"https://thespinoff.co.nz/politics/31-05-2026/from-herbs-to-head-like-a-hole-mps-on-their-favourite-local-albums\">NZ music to listen to</a>, even though NZMM is now over for 2026.</p>\n",
@@ -29,6 +37,14 @@
 				"content_text": "> [What the field requires, by their own account, is research — not half a trillion dollars in concrete and copper. The buildout is an answer to a question the technology has not yet resolved, built at a scale that forecloses the possibility of changing course when the research points somewhere else.](https://nooneshappy.com/article/the-ai-bubble/)\n\nAlso good points how the blurry way people talk about LLMs and the things that wrapping an LLM in a harness of software engineering knowledge and tooling confuses things.\n",
 				"date_published": "2026-05-31T13:34:21+13:00",
 				"url": "https://tonyandrewmeyer.blog/2026/05/31/what-the-field-requires-by.html"
+			},
+			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/05/31/interesting-read-on-the-economics.html",
+				
+				"content_html": "<p>Interesting read on <a href=\"https://www.viktorcessan.com/the-economics-of-software-teams/\">the economics of software teams</a>. I find it odd that this isn&rsquo;t talked about more. Not only in terms of deliverability and work choices, but the financial cost of meetings and other &ldquo;ceremonies&rdquo;. Back in my PM days, I would try to tie roadmap choices to financial outcomes like this.</p>\n",
+				"content_text": "Interesting read on [the economics of software teams](https://www.viktorcessan.com/the-economics-of-software-teams/). I find it odd that this isn't talked about more. Not only in terms of deliverability and work choices, but the financial cost of meetings and other \"ceremonies\". Back in my PM days, I would try to tie roadmap choices to financial outcomes like this.\n",
+				"date_published": "2026-05-31T12:29:10+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/05/31/interesting-read-on-the-economics.html"
 			},
 			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/05/31/120126.html",
@@ -1634,7 +1650,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -3210,7 +3226,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
