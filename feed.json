@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/06/10/microservice-architectures-arent-there-for.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://surfingcomplexity.blog/2026/06/06/the-demon-of-the-gaps/\">Microservice architectures aren’t there for scaling the software itself, they’re there for scaling the software organization.</a></p>\n</blockquote>\n<p>A good take that you don&rsquo;t see often enough. Still not a fan in general, at least the way it&rsquo;s often done :).</p>\n",
+				"content_text": "> [Microservice architectures aren’t there for scaling the software itself, they’re there for scaling the software organization.](https://surfingcomplexity.blog/2026/06/06/the-demon-of-the-gaps/)\n\nA good take that you don't see often enough. Still not a fan in general, at least the way it's often done :).\n",
+				"date_published": "2026-06-10T19:30:31+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/06/10/microservice-architectures-arent-there-for.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/06/04/interesting-post-on-marketing-at.html",
 				
 				"content_html": "<p>Interesting post on <a href=\"https://blog.sentry.io/two-years-without-cookies-on-the-site/\">marketing at Sentry two years after dropping cookies</a>. I have a known positive bias towards Sentry, but I wish more companies experimented like this.</p>\n",
@@ -1650,7 +1658,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2024/10/05/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing <a href=\"https://explore.tidelift.com/2024-survey\">this image</a> alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113-&gt;119-&gt;165 for Europe, and 77-&gt;34-&gt;28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it&rsquo;s clear if 2024 is an outlier for Europe.</p>\n<p>(North America is 113-&gt;98-&gt;131).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I keep seeing [this image](https://explore.tidelift.com/2024-survey) alongside people saying that maintainer numbers in Europe are growing. But the numbers are: 113->119->165 for Europe, and 77->34->28 for Asia, with a 22 person increase overall. So the more interesting question is where everyone in Asia is going, at least until it's clear if 2024 is an outlier for Europe.\n\n(North America is 113->98->131).\n\n<img src=\"https://cdn.uploads.micro.blog/432/2024/image.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-05T11:36:28+13:00",
 				"url": "https://tonyandrewmeyer.blog/2024/10/05/i-keep-seeing.html"
 			},
@@ -3226,7 +3234,7 @@
 				"id": "http://tonyandrewmeyer.micro.blog/2023/05/19/work-chronicles.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/workchronicles/p/comic-cherry-picking\">Work Chronicles</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"uploads/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Work Chronicles](https://open.substack.com/pub/workchronicles/p/comic-cherry-picking)\n\n<img src=\"https://cdn.uploads.micro.blog/432/2023/7b273c9eec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T14:25:23+13:00",
 				"url": "https://tonyandrewmeyer.blog/2023/05/19/work-chronicles.html"
 			},
