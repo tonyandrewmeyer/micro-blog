@@ -15,6 +15,14 @@
 				"url": "https://tonyandrewmeyer.blog/2026/06/10/microservice-architectures-arent-there-for.html"
 			},
 			{
+				"id": "http://tonyandrewmeyer.micro.blog/2026/06/04/i-love-this-little-robot.html",
+				
+				"content_html": "<p>I love this <a href=\"https://mariozechner.at/posts/2026-05-30-shitty-robot/\">little robot building story</a>. I wish I did more of this.</p>\n",
+				"content_text": "I love this [little robot building story](https://mariozechner.at/posts/2026-05-30-shitty-robot/). I wish I did more of this.\n",
+				"date_published": "2026-06-04T15:20:05+13:00",
+				"url": "https://tonyandrewmeyer.blog/2026/06/04/i-love-this-little-robot.html"
+			},
+			{
 				"id": "http://tonyandrewmeyer.micro.blog/2026/06/04/interesting-post-on-marketing-at.html",
 				
 				"content_html": "<p>Interesting post on <a href=\"https://blog.sentry.io/two-years-without-cookies-on-the-site/\">marketing at Sentry two years after dropping cookies</a>. I have a known positive bias towards Sentry, but I wish more companies experimented like this.</p>\n",
